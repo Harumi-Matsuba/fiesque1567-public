@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | 状態 | **f.94r・f.100r・f.158r：全文の読み（独立の2回目との一致 87.5〜91.9%、値の付いた割合 99% 以上）。f.39r・f.39v・f.79r：部分的な読み（独立の2回目との一致 76.1〜82.4%）。** どの書簡も、行の大半は語の切れ目や綴りを補った推定の読み（[docs/READING.md](docs/READING.md) の【推】） |
-| 先行との関係 | 2026-10-19〜20 に調べた先（[SOURCES.md](SOURCES.md)）では、この5通の先行の読みが見当たらない。友清理士氏は鍵を復元して公開し、「The reconstructed key below will allow reading undeciphered portions」と書いている。読みにかかわっていない調べ手による、否定するつもりの先行の確かめは済んでいないので、「初めて」とは言わない |
+| 先行との関係 | 2026-10-19〜20 に調べた先（[SOURCES.md](SOURCES.md)）では、この5通の先行の読みが見当たらない。友清理士氏は鍵を復元して公開し、「The reconstructed key below will allow reading undeciphered portions」と書いている。読みにかかわっていない調べ手が否定するつもりで調べ直した先でも見当たらない（[docs/PRIOR_CHECK.md](docs/PRIOR_CHECK.md)）。調べていない先が残るので、「初めて」とは言わない |
 | 人の確認 | **人は書き起こしを確かめていない。** 書き起こしは2回とも AI（1回目 Claude、2回目 Codex）による。AI どうしの一致は、人の確認の代わりにならない |
 | 数字 | 対照：鍵をかき混ぜた1000回で本物以上は6ページとも0回／較正：なし（当時の解読も平文もないため）／独立の2回目（Codex、1回目を見せずに）との値の一致：f.39r 76.1%、f.39v 82.4%、f.79r 81.5%、f.94r 91.9%、f.100r 87.5%、f.158r 90.5%。詳しくは [docs/METHOD.md](docs/METHOD.md) |
 | AI の使用 | 書き起こし・鍵の補い・解読・スクリプト・文書は Claude（Claude Opus 5.5）、2回目の書き起こしは OpenAI Codex。人は対象の選定・画像の取得の許可・公開の判断（[docs/METHOD.md](docs/METHOD.md) §9） |
@@ -52,6 +52,7 @@ src/trackline.py・lineimgs.py・strips.py（行の切り出し）と src/posctl
 | docs/READING.md | 書簡ごとの数字と解読文（確・推の印つき） |
 | docs/METHOD.md | 方法・数字・AI の使用・限界 |
 | docs/OPEN.md | 未解決の点 |
+| docs/PRIOR_CHECK.md | 先行の確かめ（否定するつもりの調査） |
 | second/run0/ | 照合と修正の記録（1回目を直すのに使った Codex の3回分。独立ではない） |
 | second/ind/ | 独立の2回目（Codex の出力、プロンプト、比較の結果） |
 | src/・tests/ | スクリプトとテスト |

@@ -19,14 +19,14 @@
 |---|---|---|
 | Cyphersolver（D. Bourdeau） | origin/main 0258b8a（2026-10-18）、issue・PR 46件、公開ページ（2026-10-19）、フォーク10件 | 15919・Fiesque の解読なし |
 | Cryptoole | idx.json（854件、2026-10-17） | 該当なし |
-| Cryptiana | unsolved.htm（2026-10-19）、ai.htm、GL.htm（Lasry の解読一覧、2026-10-15）、ブログ feed 150件 | 鍵の公開（2026-03-15）だけ。解読の報告なし |
+| Cryptiana | unsolved.htm（2026-10-13）、ai.htm（2026-10-19）、GL.htm（Lasry の解読一覧、2026-10-15）、ブログ feed 150件 | 鍵の公開（2026-03-15）だけ。解読の報告なし |
 | NoAutopilot/cipher-lab | 969df2c（2026-10-19） | fr.15919 の作業なし（索引に frencheastern.htm があるだけ） |
 | BravoBravoIX（B. Burford）、GeorgeLasry・WAINUTAI の他のリポジトリ | 2026-10-20 | 該当なし |
 | GitHub の検索（リポジトリ・issue・コード） | 2026-10-20 | 該当なし |
 | Web 検索（英・仏） | 2026-10-20 | 該当なし |
 
-- 調べていない先：DECODE の検索画面、pangoleen/cipher-readings、Lasry の論文一覧、BnF fr.17020 f.227–228（この巻の明細）。
-- 読みにかかわっていない調べ手による、否定するつもりの先行の確かめ（docs/PRIOR_CHECK.md）は、まだ済んでいない。上の範囲で先行の解読が見当たらないというだけで、「初めて」とは言わない。
+- 日付は各ページの Last-Modified。
+- このあと、読みにかかわっていない調べ手が、否定するつもりで同じ先と DECODE・OpenAlex・Persée・BnF 総合目録などを調べ直した（2026-10-20、[docs/PRIOR_CHECK.md](docs/PRIOR_CHECK.md)）。そこでも先行の解読は見当たらない。調べていない先（JSTOR、Gallica の文献検索、Google Books、Patrouch の本文、BnF fr.17020 f.227–228、Lasry の論文一覧）が残るので、「初めて」とは言わない。
 
 ## 使った道具
 - wordfreq（仏語の語の頻度、対照実験の模型）

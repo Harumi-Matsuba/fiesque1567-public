@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Status | **ff. 94r, 100r, 158r: full reading (agreement with the independent second transcription 87.5–91.9%, over 99% of signs with a value). ff. 39r, 39v, 79r: partial reading (agreement 76.1–82.4%).** In every letter most lines are conjectural readings with word division and supplied spelling ("inf." in [docs/READING.en.md](docs/READING.en.md)) |
-| Prior work | In the places checked on 2026-10-19/20 ([SOURCES.en.md](SOURCES.en.md)) no earlier reading of these five letters was found. Satoshi Tomokiyo reconstructed and published the key, writing "The reconstructed key below will allow reading undeciphered portions". An adversarial prior-work check by someone not involved in the reading has not been done yet, so this is not a claim of being first |
+| Prior work | In the places checked on 2026-10-19/20 ([SOURCES.en.md](SOURCES.en.md)) no earlier reading of these five letters was found. Satoshi Tomokiyo reconstructed and published the key, writing "The reconstructed key below will allow reading undeciphered portions". Nor was any found by someone not involved in the reading who searched again aiming to find earlier work ([docs/PRIOR_CHECK.en.md](docs/PRIOR_CHECK.en.md)). Some places remain unchecked, so this is not a claim of being first |
 | Human checking | **No human has checked the transcription.** Both transcriptions are by AI (first Claude, second Codex). Agreement between AIs is no substitute for human checking |
 | Figures | Control: in 1000 shuffled keys none scored as high as the true key, on all six pages / Calibration: none (no contemporary decipherment or plain text) / Value agreement with the independent second transcription (Codex, without seeing the first): f. 39r 76.1%, f. 39v 82.4%, f. 79r 81.5%, f. 94r 91.9%, f. 100r 87.5%, f. 158r 90.5%. See [docs/METHOD.en.md](docs/METHOD.en.md) |
 | Use of AI | Transcription, inferred values, decipherment, scripts and documents by Claude (Claude Opus 5.5); second transcription by OpenAI Codex. A human chose the target, permitted the image download and decides on publication ([docs/METHOD.en.md](docs/METHOD.en.md) §9) |
@@ -52,6 +52,7 @@ src/trackline.py, lineimgs.py, strips.py (line cropping) and src/posctl.py (posi
 | docs/READING.en.md | figures and reading per letter (marked dir./inf.) |
 | docs/METHOD.en.md | method, figures, use of AI, limits |
 | docs/OPEN.en.md | open points |
+| docs/PRIOR_CHECK.en.md | adversarial prior-work check |
 | second/run0/ | cross-check used for corrections (three Codex runs; not independent) |
 | second/ind/ | independent second transcription (Codex output, prompt, comparison) |
 | src/, tests/ | scripts and tests |

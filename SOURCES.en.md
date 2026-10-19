@@ -19,14 +19,14 @@ Images, PDFs and the image of the key table are not redistributed here. Sources 
 |---|---|---|
 | Cyphersolver (D. Bourdeau) | origin/main 0258b8a (2026-10-18); 46 issues and PRs; public pages (2026-10-19); 10 forks | no reading of fr. 15919 / Fiesque |
 | Cryptoole | idx.json (854 entries, 2026-10-17) | nothing |
-| Cryptiana | unsolved.htm (2026-10-19), ai.htm, GL.htm (Lasry's solutions list, 2026-10-15), blog feed (150 posts) | only the publication of the key (2026-03-15); no report of a reading |
+| Cryptiana | unsolved.htm (2026-10-13), ai.htm (2026-10-19), GL.htm (Lasry's solutions list, 2026-10-15), blog feed (150 posts) | only the publication of the key (2026-03-15); no report of a reading |
 | NoAutopilot/cipher-lab | 969df2c (2026-10-19) | no work on fr. 15919 (only an index entry for frencheastern.htm) |
 | BravoBravoIX (B. Burford); other repositories of GeorgeLasry and WAINUTAI | 2026-10-20 | nothing |
 | GitHub search (repositories, issues, code) | 2026-10-20 | nothing |
 | Web search (English, French) | 2026-10-20 | nothing |
 
-- Not checked: the DECODE search interface, pangoleen/cipher-readings, Lasry's publication list, BnF fr. 17020 ff. 227–228 (inventory of this volume).
-- An adversarial prior-work check by someone not involved in the reading (docs/PRIOR_CHECK.md) has not been completed yet. Within the places above no earlier reading was found; this is not a claim of being first.
+- Dates are the pages' Last-Modified.
+- Afterwards, someone not involved in the reading searched again, aiming to find earlier work, in the same places and in DECODE, OpenAlex, Persée, the BnF catalogue and others (2026-10-20, [docs/PRIOR_CHECK.en.md](docs/PRIOR_CHECK.en.md)). No earlier reading was found there either. Some places remain unchecked (JSTOR, the Gallica literature search, Google Books, the text of Patrouch, BnF fr. 17020 ff. 227–228, Lasry's publication list), so this is not a claim of being first.
 
 ## Tools
 - wordfreq (French word frequencies; model for the control)
