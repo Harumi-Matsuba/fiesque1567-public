@@ -26,7 +26,7 @@
 | Web 検索（英・仏） | 2026-10-20 | 該当なし |
 
 - 日付は各ページの Last-Modified。
-- このあと、読みにかかわっていない調べ手が、否定するつもりで同じ先と DECODE・OpenAlex・Persée・BnF 総合目録などを調べ直した（2026-10-20、[docs/PRIOR_CHECK.md](docs/PRIOR_CHECK.md)）。そこでも先行の解読は見当たらない。調べていない先（JSTOR、Gallica の文献検索、Google Books、Patrouch の本文、BnF fr.17020 f.227–228、Lasry の論文一覧）が残るので、「初めて」とは言わない。
+- このあと、読みにかかわっていない調べ手が、否定するつもりで同じ先と DECODE・OpenAlex・Persée・BnF 総合目録などを調べ直した（2026-10-20、[docs/PRIOR_CHECK.md](docs/PRIOR_CHECK.md)）。そこでも先行の解読は見当たらない。調べていない先（JSTOR、Gallica の文献検索、Patrouch の本文、BnF fr.17020 f.227–228、Lasry の論文一覧）が残るので、「初めて」とは言わない。
 
 ## 使った道具
 - wordfreq（仏語の語の頻度、対照実験の模型）

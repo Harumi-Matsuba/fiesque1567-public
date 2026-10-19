@@ -26,7 +26,7 @@ Images, PDFs and the image of the key table are not redistributed here. Sources 
 | Web search (English, French) | 2026-10-20 | nothing |
 
 - Dates are the pages' Last-Modified.
-- Afterwards, someone not involved in the reading searched again, aiming to find earlier work, in the same places and in DECODE, OpenAlex, Persée, the BnF catalogue and others (2026-10-20, [docs/PRIOR_CHECK.en.md](docs/PRIOR_CHECK.en.md)). No earlier reading was found there either. Some places remain unchecked (JSTOR, the Gallica literature search, Google Books, the text of Patrouch, BnF fr. 17020 ff. 227–228, Lasry's publication list), so this is not a claim of being first.
+- Afterwards, someone not involved in the reading searched again, aiming to find earlier work, in the same places and in DECODE, OpenAlex, Persée, the BnF catalogue and others (2026-10-20, [docs/PRIOR_CHECK.en.md](docs/PRIOR_CHECK.en.md)). No earlier reading was found there either. Some places remain unchecked (JSTOR, the Gallica literature search, the text of Patrouch, BnF fr. 17020 ff. 227–228, Lasry's publication list), so this is not a claim of being first.
 
 ## Tools
 - wordfreq (French word frequencies; model for the control)

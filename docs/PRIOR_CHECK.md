@@ -14,16 +14,17 @@
 | NoAutopilot/cipher-lab | 4939953（2026-10-19 17:10 UTC） | コード検索（15919・Fiesque・Fiesco・frencheastern） | Fiesco の当たりは 1584年の Thomaso Fiesco から Nemours 公への書簡（別人・別の巻）。15919 の当たりは索引と数字列の偶然一致、別機関の地図資料。fr.15919 の作業なし |
 | pangoleen/cipher-readings | 820fb4e（2026-10-14） | コード検索とファイル名 | 0件 |
 | Cryptiana（友清理士） | unsolved.htm（2026-10-19 23:08 GMT）、frencheastern.htm（2026-03-15）、ai.htm・GL.htm・verification.htm、ブログ feed（143件） | 文字コードを直して検索 | 鍵の記事（frencheastern.htm）だけ。解読の報告なし |
-| DECODE（DECRYPT-WEB、約1万件） | 2026-10-20 | 所蔵・追加情報・送信者・受信者・著者の欄で 15919・Fiesque を検索。検索が働くことは、Uppsala・Français・Paris・Medici で件数が返ることで確かめた | 0件 |
+| DECODE（DECRYPT-WEB、約1万件） | 2026-10-20 | 所蔵・追加情報・送信者・受信者・発信地の欄で 15919・Fiesque・Fiesco・Harlay・Catherine を検索。検索が働くことは、Paris・Français・Uppsala・Mary・Medici で結果が返ることで確かめた | 0件（Medici の当たりは BnF fr.3789 など別の巻） |
 | OpenAlex | 2026-10-20 | 「Scipion de Fiesque」ほか | Gallica の原本の記録と、別の巻の記録だけ。論文・解読なし |
 | Persée | 2026-10-20 | 「Scipion de Fiesque」 | 騎士団の名簿に名前があるだけ。暗号に触れる記事なし |
 | BnF 総合目録（SRU） | 2026-10-20 | 「Scipion de Fiesque」と「chiffre」 | 0件 |
 | GitHub（リポジトリ・コード検索、G. Lasry のリポジトリ） | 2026-10-20 | Fiesque・Fiesco・15919 | このリポジトリ自身のほかは該当なし |
 | La Ferrière 編『Lettres de Catherine de Médicis』t.3 の OCR | 2026-10-20 | 「Fiesque」の各行の前後を「chiffre」などで検索 | Catherine の返信に「vous m'avez escript en chiffre」（f.118）とあり、索引に「Approuve qu'il use de chiffres dans ses lettres」がある。暗号部分の平文や解読は載っていない（注の全文は読んでいない） |
-| Web 検索（英・仏） | 2026-10-20 | 「Scipion de Fiesque」chiffre ほか | 該当なし |
+| Google Books（feed、10件） | 2026-10-20 | 「Scipion de Fiesque」と chiffre | 索引・断片の一致だけ。La Ferrière の刊本と、1578〜81年の教皇使節 Dandino 宛の書簡集（1970年）。後者は年代が違い、本文は見ていない |
+| Web 検索（英・仏） | 2026-10-20 | 「Scipion de Fiesque」chiffre ほか、Lasry・Tomokiyo・Patrouch を付けた検索 | 該当なし |
 
 ## 調べていない先
-JSTOR、Gallica の文献検索、Google Books（1日の利用上限で取得できなかった）、Patrouch『Queen's Apprentice』（Brill 2010）の本文、BnF fr.17020 f.227–228（この巻の明細）、G. Lasry の論文一覧そのもの。DECODE は本文（暗号文・平文）の語では引いていない。
+JSTOR（検索ページが結果を返さず、確かめられなかった）、Gallica の文献検索、Patrouch『Queen's Apprentice』（Brill 2010）の本文、BnF fr.17020 f.227–228（この巻の明細。画像の所在を突き止められなかった）、G. Lasry の論文の目次、Dandino 宛書簡集（1970年）の本文。DECODE は本文（暗号文・平文）の語では引いていない。
 
 ## 区分
 **見つからない**（上の先に限る）。「既に読まれている」「平文はあるが、この暗号文との対応はない」に当たる記録は、上の先にはなかった。
