@@ -1,0 +1,34 @@
+# BnF fr.15919 f.94r（「14 Aoust 1568 Vienne」「du Comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：gallica/full/v099.jpg の右ページ。行の画像は work/trackline.py で second/img/f_L01–f_L26（f_L03 が暗号の始まる行）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。行の中の平文（receu など）は書いていない。
+# c01 の前は平文「Madame, Jay receu vostre lettre du 9e de Juillet par laquelle me escripvez」。続く「fi ol par moy」は無効字
+c01: |- fu a // tri a tt // 3y o b a 4 tri o 3n a f vbar // 3n b -| a
+c02: .par v // -| C o vd o 3n ptil fx a =22 C o T fx ++ fu =rr tri o -| T P o v f // tri m 3n a =rr
+c03: ++ 3n vbar // v f ++ -| vbar a =22 tri // 3y x // 1 fx vbar C a v C ptil T P tri =ll tri =10
+# c03 の中ほどの「receu fa」は平文の字の並び（無効字と推定）なので書いていない。
+c04: m a 3n vd o f vbar =23 pi // o T vbar a v H# H# tri 4 C a P o |- ptil ++ 3y vbar ++ fu fs o T pi
+c05: x ++ tri T tri o 3n // 3y f a ptil // v -| // 3n b -| a // fu C ptil -| a fx L ++ T a =22 fx a =22 tri a
+c06: q9 // 3y o T fx -| tri v vbar v // -| C o T vd tri o 3n a T v -| o fx a b o 3n vbar a T
+c07: ptil ++ ptil T // fu -| o v fu a q9 v // -| fx o =ll a b fu T o v vbar tri a T vd a b o fx a vd ++ 3y T
+# c07 の前の「Jay receu」は平文。
+c08: fx ++ ? a =inf~ vd a P tri T ++ 1 fx vbar fs ++ ptil T tri ++ fu -| T =23 v // -| C o -| ++ 1 fx vbar
+c09: // pi ++ 3y .Dav .Day .La P o v ptil tri v tri C vd // b 1 fx vbar =22 fx a =23 vd a q9 ++ ptil
+c10: ptil ++ 1 fx vbar b a -| a =14 ++ tri fx vbar =23 o 3n fu ++ 3y a T ++ 3n x -| o -| a C // -| fx L o b q9 fx
+c11: n L // beta C o T o 3n a T v // tri m 3n a =20 b a q9 o beta // tri T ++ 3n v .ti .ol C ptil 3n a
+c12: C o C o x // 1 fx vbar P fu v -| tri 3n fx a b o T v // tri m 3n a =10 C // fu vbar -| o
+c13: C o T // x =13 T b o 3y C // 3n b -| a v C o T =22 =ll a T v o vd 4 C a 3n vbar =14 -| a .of
+c14: o T vbar // fs P // q9 ++ tri -| 4 ++ 3n c a T ++ tri 3n z b o 4 ++ s a v -| ++ q9 tri T 1 ++ f C o C a
+c15: 4 tri o 3n b q9 v // tri T -| o v ++ v b o C // =ll o vd // tri m 3n a =10 P a vbar ++ q9 vbar a C
+# c08–c15 は行画像の左右のつなぎ目で記号が重なって写るので、重なりを目で除いた。行内の「receu La」は平文。
+c16: fx -| o T ptil tri a 3n vbar a .par .moy =10 fx fu // 3y // 3n vbar C // fx L // -| m a =23 // tri C 1 =14
+c17: fx ++ 3n vbar -| // 1 3n fx vbar b 3y =13 vbar ++ q9 fs o T v a T b tri =ll 1 m a 3n fx o T C a T fx ptil a =ll o T
+c18: .Il .ti .ol tri C 3n a T fx // fu -| ++ 1 fx vbar x // tri -| a // fu o fx v C ptil T m -| // 3n b a
+c19: o x tri fx // n a =22 b o f fu ++ 3y o beta T ++ 3n x -| o -| a pi o T vd a v b o q9 a -| v H#
+# c16 の「par moy」は無効字。c18 の行頭「Il ti ol」は無効字。c19 の行末の平文（au …）は書いていない。
+c20: C o ptil 3y =13 o 3n vbar // f b -| a T ++ 3n // b q9 tri T =10 fx a =22 tri fu m a 3n vbar =14 -| a
+c21: 3n o fx a H# // 1 -| a vbar ++ q9 T C o T v -| tri 3n fx a T b // =ll a vd // tri m 3n a C o C a
+c22: 4 1 a 3n b o T ++ 3n v // tri T b o x C // 3n b -| o T tri C T o -| // fx tri o 3n
+c23: // 1 T a v 1 C o T vbar a // pi 4 11 H# // b o =14 vbar -| ++ q9 fu s 4 ++ s a =10 =22 =ll a
+c24: v ++ -| vbar a x -| q9 tri fx vbar =10 T tri o =ll a 3n a v -| ++ q9 x tri vbar a // vbar ++ q9 vbar C o
+c25: vd ++ tri 3n m T v o -| // tri C b o T fx L // -| m a o 3n fu a -| T P tri o fu =10 vbar ++ fu vbar
+# c22 の後半の「Jay receu」は平文。c25 で暗号は終わる。

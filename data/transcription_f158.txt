@@ -1,0 +1,29 @@
+# BnF fr.15919 f.158r（「29 octob. 1569 Vienne」「du comte de Fiesque au Roy」。本文は Sire で始まる）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：gallica/full/v163.jpg の右ページ。行の画像は work/trackline.py で second/img/d_L01–d_L23 に作った（行をたどって傾きを補う）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ（⊢＝|-、t 形＝fx、太い＋＝+、⊣＝-|）。「ıg」は q9 とした。
+# c01 の前は平文「Sire, Jay receu vos lres du … et … de ce moys.」
+c01: .Il .ri .ol // fu a n C // fx ++ v f a
+c02: b a C // 4 a T v ++ 3n fx a |- fu // q9 a v x // tri fx vbar // pi // q9 |- fu a fu tri // 3n b tri fx vbar
+c03: .par .moy fx ++ vd pi a q9 a T vbar tri a v f beta a T vbar // v 11 -| vbar tri beta =20 // =ll a -| vbar -| ++ 3n
+c04: fu a beta =16 fx // vd v =20 v ++ ptil -| T q9 a fu -| a C o x -| q9 a fx vbar b a C // q9 a fx vbar ++ tri -| a
+c05: =22 P tri a fu q9 // P ++ s lf ++ T a beta ++ 3n vbar beta H# q9 v C o T v -| tri vd fx tri f // q9 ptil P T a tri m
+c06: 3n a ptil -| v =10 fx // v f a vbar // tri 3n a v b a =16 -| ++ 3n // fu pi a .Dav .La // q9 a fx C o T =22 ptil
+c07: v -| // 3n b -| a v |- fu a fu =22 4 ++ s a beta a T H# fu fu vbar a fx f =10 vd a v pi o v T ptil -| C ++ K
+c08: =23 q9 ++ ptil v // x // 1 fx vbar b o T a q9 ++ fu =ll ++ tri -| a vd v C ++ tri a -| // vbar -| // tri fx vbar a -| C
+c09: =22 ptil =22 4 H# s a v // fx tri x 3n a fx 11 vbar tri ++ 3n T q9 -| C o v vbar beta ++ q9 C ptil u v =22 3n .Il
+c10: T ++ 3n vbar =10 z C vd // q9 a v Dz vd // 3n b a P a C o -| a vd o -| fx tri a -| + tri a 3n x ++ -|
+c11: b a C // b a vd ++ T vbar -| // vbar tri ++ 3n =23 x // tri fx vbar P // q9 ++ tri -| vbar ++ q9 T tri H# q9 -| v
+c12: a 3n T tri f m fu C tri a -| o beta o Dz pi // 3n b 11 vbar tri ++ f C o C tri a 3n v -| ++ q9 x 1 vbar =10
+c13: q9 vbar tri p 1 vbar a P a =16 -| ++ 3n // q9 vd a =10 =22 fx ++ pi a T v ++ 3n P -| tri a v b a v // -| a tri
+c14: C rho // q9 a fx vbar tri fx 3n o f vbar ++ q9 vbar fx a =22 C fu 3n vbar ++ ptil fx L o -| // .Dav .Day C a =22 fu
+c15: vd // P tri fx vbar =23 3n a T o v vbar pi a q9 // vd a vbar beta beta a // q9 // 3n vbar fx a v // -| vbar 3n
+c16: =22 =20 q9 3n a T tri 3n fx a beta o // q9 a fx vbar tri fx f =10 z beta // 3n b P a T a -| =23 // P a q9 .par
+c17: q9 a ++ tri -| P a C tri ptil -| a b a fx o T vbar a m fu a v v o tri 3n vbar a T fs a 3n a vd a T pi o
+c18: vd a 3n vbar // fx a T vbar L o q9 beta a =23 3n // q9 -| 11 fx a T vbar a T vbar -| ++ tri vbar C tri a 3n b a =16
+c19: pi // beta tri 11 m a // q9 a fx T // x tri =ll o T ++ pp -| // 3n vbar b a =13 fs ++ q9 vbar fx a =22 T a -|
+c20: a 3n T ++ 3n v ++ q9 ptil ++ tri -| a T vbar // 3n vbar a f C // vd a T pi o ++ v f tri 3n 1 ++ f =23 // vbar ++ ptil
+c21: tri ++ ptil -| v a T vbar o =22 a 3n fx o =22 v ++ q9 =rr tri a v -| a vd o P tri a -| // q9 a n P ++ ptil v
+c22: fx a q9 -| =22 3n 3y ptil v tri a v b a beta tri m fu a fu -| o T vbar // 3n vbar -| ++ 3n 3n // vbar q9 -| a fu u
+c23: fs ++ fu T tri H# ptil -| v T vbar fx 1 a 3n // 3n pi a b a fx a v T q9 fx tri a fx vbar v .Il .ri .ol
+# 暗号はここまで。続く平文：Il luy ay dict que depuis la victoire …（目視）
+# 2026-10-20：初めは ß を =ss と書いたが、guerre・heure・mariage の位置で r になるので beta（Tomokiyo の β＝r）に直した。

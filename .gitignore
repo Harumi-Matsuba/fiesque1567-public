@@ -1,0 +1,12 @@
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pkl
+outputs/
+downloads/
+__pycache__/
+*.log
+.DS_Store

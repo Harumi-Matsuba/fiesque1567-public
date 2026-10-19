@@ -1,0 +1,38 @@
+# BnF fr.15919 f.100r（「4 Septemb. 1568 Vienne」「du comte de Fiesque au Roy」。本文は Madame で始まる）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：gallica/full/v105.jpg の右ページ。切り出しは work/strips.py（x 4400–6750、1行目の中心 y≈590、行間 106）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。行の中にある平文（Jay receu など）は書いていない。
+# c01 の前は平文「Madame Jay receu v[ost]re l[ett]re du … du passé」。
+c01: .Il .fo .of =10 b tri fx vbar
+c02: // arrow =22 C L ++ m a =22 tri // fu ++ ptil v // q9 ++ tri T o 3n ptil ++ 3y a o T vbar ++ 1 fx vbar |- o 1 pi a 3n fu
+c03: o ffx =22 3n o vd // q9 tri o v o 3n fu ++ 3y a -| o T v ++ 3n fx a f C fu v vbar ++ T ffx // vbar ffx // 3n P // f vbar
+c04: =22 C o pi x ptil vbar fx tri a 3n m fu a -| 3y C o =22 v // fu ++ 1 fx vbar o fu 3p C fu fu T
+c05: .bro q9 tri 3n m vbar tri H# ptil -| v C // x tri o + ptil -| a vd // tri T =23 T o v ++ -| vbar H# tri fx vbar
+c06: 4 tri o 3n |- fu // 3n b vd ++ 3n L ++ vd pi a o 3n v // fx vbar tri ffx |- fu 1 x fu vbar C o
+c07: q9 tri 3n m vd tri tri vbar vd o b fu v // H# a 1 C // fu ++ 1 fx vbar P o tri // lf fu tri fx vbar tri ++ fu -| T =22
+c08: fu // 3y tri o 4 q9 -| a fu // fu ++ 1 fx vbar C // tri H# a // fu H# 1 =22 ptil ++ q9 v vd // q9 tri o v C
+c09: o T fx -| 1 v vbar =22 vbar -| ++ q9 fu tri o 3y 4 ++ 3n n a =22 vbar -| H# fu ptil ++ tri fx vbar 4 ++ 3n 1 C =22 au
+c10: q9 o T vbar tri a v 4 tri o 3n // tri T a =22 b -| o vd a fu -| u o 3n fx a T vbar a C ++ s a fu ++ C fu 3n vbar o
+c11: b // fx C o fu a -| C o vd // -| tri // m a o 3n C // =22 fu C a tri C q9 ++ ptil v vbar -| ++ q9 ptil o -|
+c12: vbar ++ q9 T tri H# fu -| v 3y -| o T vbar a P o T tri -| // 3n vbar =22 fx o T vbar a C H# 3n x a // pi tri vbar 3y a
+c13: =22 fu ++ q9 T // q9 o v o 3n T a pi -| C o T a fx o -| o T vbar -| // tri vd 3n a // q9 o fx q9 3n a 1 au
+c14: 4 H# s a // =ll tri // 3n fx a tri C vd // b tri fx vbar |- fu // fx o T vbar C o q9 -| a tri C 3n 3y // v C fu v
+c15: // q9 fx fu 3n a P tri =rr 1 fx q9 C vbar a 1 =22 C o vd // -| tri // 1 m a .Il x // 1 fx vbar fx // fx C o
+c16: v -| 1 3n fx a .bro T v // tri m 3n a o T vbar ++ 1 fx vbar ptil vd H# -| ffx .par .moy vd // tri T =22
+c17: tt .bro T tri -| ++ 1 fx vbar P o T vbar beta a vd o P tri // vbar o lf fx .bro fx a vd // -| tri // 1 m a C rho
+c18: o 3n |- fu ++ 3y tri C 3n a 3y ++ 1 fx vbar 3n tri o -| P o C 3p 3y =23 3n a 3y C // tri C T tri fx 1 C 3y
+c19: o T 3y a -| H# 1 fx vbar =22 q9 ++ ptil v o 3n T o -| tri a 3y Dz vbar // 3n vbar o .par C a tri o C 3p 3y .bro fx o 3y
+c20: =22 tri o fx -| ++ 3y H# tri T v o q9 -| a vd a 3n vbar =22 q9 ++ ptil v vbar -| ++ q9 3p o -| tri a v C ++ 3n =22
+c21: =ss o 3n x q9 vbar C o pi o b tri // vbar a fu -| b C // 4 ++ s a // pi tri vbar 3y a 1 C tri 3n vbar o =ll tri vd o 3n 3n a
+c22: |- fu a // q9 tri o v a 3n T o vd + C a 1 C =22 .bro tri // =18 C fu 3y // fu tri o v x // 1 fx vbar o 3n vbar o // f
+c23: P -| a =22 q9 ++ ptil v o T vbar tri a v o 3n v -| // fx vbar 1 |- fu a // fu o fx T // vd // tri o T vbar a .bro
+c24: fx a vd // -| tri // 1 m a // q9 tri f .bro 3n o C 3p 3y fx 3y fx tri o 3n T fx a =ll o fx .bro =16 tri 3n vbar a f fs tri
+c25: fx 3n fx o C // =ll tri // 3n fx a |- fu // 3p o v o 3n T a =rr + C a
+c26: vbar o 3n // f fs fx o fx 3n x tri C 3y 1 C q9 -| // 3y // vd 3y T fu -| fx o C // tri C vd a .bro tri fx o
+c27: 1 C fx tri o 3n vbar =22 T ffx tri C o 3n q9 ++ 3y a -| ++ 1 fx o f a T v // tri m 3n a =22 C |- fu a C
+# c25 の後半「La Dao par moy ro rrru」と c26 の「Jay」は平文の字の並び（無効字と推定）なので書いていない。
+# 2026-10-20 改訂：2回目の書き起こし（Codex 3回）の多数が ⊣ と読んだ fx を -| に、H# と読んだ tt を H# に直した（計50か所。目で確かめたのは f.100 c05 の3か所だけ。second/RESULT.md）
+# 2026-10-20 改訂2：私の fx を Codex が + と読んだ25か所を拡大画像で1つずつ見た。⊢ が8、+ が3、4 が1（c_L04 #8、形は左に傾いた十字で推定）、fx のまま12、未確認1（c_L01 #4）。second/RESULT.md
+# 2026-10-20 改訂3：私の fx の直後が ꝑ（u）の18か所を拡大して見た。⊢（q）が14、t 形（c）のまま4（a_L12 #20「recueilly」、b_L01 #29・b_L02 #35「aucunes」、c_L15 #3）。
+# 2026-10-20 改訂4：画像で確かめて直した。W（=rr）と書いた4か所は ϖ（pi＝m。c12・c13・c21×2）、ß（c17）は beta、ꝭs 形の2か所（c24・c26）は fs。c21 #1・c25 #23 は切り出しが外れて未確認。
+# 2026-10-20 改訂5：改訂1（Codex の多数に合わせた50か所）を画像で1つずつ見直した。47か所は確かめられたので残し、3か所（a_L26 #25、b_L19 #16、c_L24 #22）は確かめられないので fx に戻した。一覧は second/RESULT.md の追記4。
+# 2026-10-20 改訂6：c04 #8 は改訂2で文脈から 4 にしたが、画像だけでは決めきれないので元の fx に戻した（RULES.md §2.2 の1）。

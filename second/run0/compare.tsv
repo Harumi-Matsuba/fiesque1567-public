@@ -1,0 +1,777 @@
+line	pos	mine	ai1	ai2	ai3	flag
+a_L01	2	//	-	-	-	MAJ:-
+a_L01	12	C	c	C	C	
+a_L01	13	o	o	o	c	
+a_L01	19	L	-	-	-	MAJ:-
+a_L01	20	//	-|	f	f	MAJ:f
+a_L01	26	//	-	-	-	MAJ:-
+a_L02	15	//	-	-	-	MAJ:-
+a_L02	24	fx	fx	fx	-|	
+a_L02	28	beta	beta	beta	s	
+a_L02	33	//	-	//	//	
+a_L02	34	11	=11	=11	-	MAJ:=11
+a_L02	39	//	//	-	//	
+a_L02	40	q9	q9	m	fu	split
+a_L03	1	rt	-	-	-	MAJ:-
+a_L03	2	ptil	-	-	-	MAJ:-
+a_L03	3	3y	?{flourished crossed sign}	?{overwritten looped sign}	?{ornate looped sign}	split
+a_L03	6	d6	?{thick diagonal flourish}	?{thick diagonal hooked sign}	?{large diagonal hooked sign}	split
+a_L03	7	v	v	b	v	
+a_L03	11	L	lf	lf	L	MAJ:lf
+a_L03	14	1	-|	-|	-|	MAJ:-|
+a_L03	16	fx	b	b	b	MAJ:b
+a_L03	24	fu	ptil	ptil	ptil	MAJ:ptil
+a_L03	34	1	-|	-|	-|	MAJ:-|
+a_L03	36	//	-	-	-	MAJ:-
+a_L03	38	lf	f	f	f	MAJ:f
+a_L03	42	x	-	b	-	MAJ:-
+a_L03	43	C	K	C	b	split
+a_L03	44	//	c	-	c	MAJ:c
+a_L03	48	//	-	-	-	MAJ:-
+a_L04	1	=10	=10	-	1	split
+a_L04	2	C	-	u	c	split
+a_L04	3	3y	=23	=23	=23	MAJ:=23
+a_L04	4	1	-|	-|	-|	MAJ:-|
+a_L04	6	P	?{thick diagonal flourish}	P	?{large hooked sign}	split
+a_L04	8	vbar	fx	fx	fx	MAJ:fx
+a_L04	9	o	vbar	vbar	vbar	MAJ:vbar
+a_L04	10	pi	K	K	K	MAJ:K
+a_L04	13	//	-	-	-	MAJ:-
+a_L04	14	ptil	ptil	rho	ptil	
+a_L04	18	p	ptil	ptil	c	MAJ:ptil
+a_L04	19	C	c	C	?{large diagonal hooked sign}	split
+a_L04	20	d6	?{thick diagonal flourish}	?{thick diagonal hooked sign}	1	split
+a_L04	21	=10	=10	1	c	split
+a_L04	22	C	-	u	C	split
+a_L04	23	o	=20	c	c	MAJ:c
+a_L04	24	v	v	=20	v	
+a_L04	25	//	-	v	-	MAJ:-
+a_L04	27	pi	vbar	pi	vbar	MAJ:vbar
+a_L04	31	C	c	C	c	MAJ:c
+a_L04	32	3y	T	fx	vbar	split
+a_L04	37	-|	-|	-	-|	
+a_L04	38	//	3n	fx	//	split
+a_L04	39	3n	a	3n	3n	
+a_L04	40	=rr	b	vd	b	MAJ:b
+a_L04	41	a	o	a	c	split
+a_L05	2	L	-	lf	L	split
+a_L05	3	//	lf	//	//	
+a_L05	8	fx	-	-|	-|	MAJ:-|
+a_L05	9	C	-|	C	C	
+a_L05	10	rho	c	-	-	MAJ:-
+a_L05	11	v	o	o	c	MAJ:o
+a_L05	13	//	3p	3p	3p	MAJ:3p
+a_L05	18	d6	a	o	o	MAJ:o
+a_L05	20	=10	=10	c	c	MAJ:c
+a_L05	21	L	lf	lf	L	MAJ:lf
+a_L05	24	fu	ptil	ptil	ptil	MAJ:ptil
+a_L05	29	v	rho	rho	c	MAJ:rho
+a_L05	35	3y	T	s	s	MAJ:s
+a_L05	41	//	-	//	-	MAJ:-
+a_L06	2	//	-	//	-	MAJ:-
+a_L06	4	P	-	-	-	MAJ:-
+a_L06	6	fx	-	-	-	MAJ:-
+a_L06	7	//	-|	-|	-|	MAJ:-|
+a_L06	10	fx	f	fx	f	MAJ:f
+a_L06	15	pi	K	K	K	MAJ:K
+a_L06	16	a	a	u	a	
+a_L06	20	+	-	4	fx	split
+a_L06	21	C	fx	C	C	
+a_L06	22	//	c	//	-	split
+a_L06	27	//	-	-	-	MAJ:-
+a_L06	35	a	a	u	u	MAJ:u
+a_L06	36	v	3p	3p	3p	MAJ:3p
+a_L06	38	+	fx	fx	fx	MAJ:fx
+a_L06	39	1	-|	-|	-|	MAJ:-|
+a_L07	3	//	-	//	-	MAJ:-
+a_L07	5	1	-|	-|	-|	MAJ:-|
+a_L07	11	o	o	o	-	
+a_L07	12	C	c	C	c	MAJ:c
+a_L07	13	tri	tri	tri	ptil	
+a_L07	14	a	-	-	a	MAJ:-
+a_L07	15	d6	?{thick diagonal flourish}	?{thick diagonal hooked sign}	?{large diagonal hooked sign}	split
+a_L07	16	v	3p	3p	3p	MAJ:3p
+a_L07	17	C	c	C	c	MAJ:c
+a_L07	22	K	K	?{blotted looped sign}	-	split
+a_L07	23	1	-	1	?{blotted sign}	split
+a_L07	25	//	-	-	-	MAJ:-
+a_L07	26	1	a	a	a	MAJ:a
+a_L07	28	x	pi	arrow	-	split
+a_L07	29	-|	-|	-|	-	
+a_L07	30	vd	vd	vbar	?{joined strokes}	split
+a_L07	31	//	-	//	vbar	split
+a_L07	33	1	a	a	a	MAJ:a
+a_L07	37	o	rho	o	o	
+a_L07	40	//	-	//	-	MAJ:-
+a_L07	42	C	c	C	C	
+a_L07	43	vbar	T	vbar	T	MAJ:T
+a_L08	2	rt	b	b	ptil	MAJ:b
+a_L08	3	fu	fu	fu	v	
+a_L08	4	fu	b	ptil	b	MAJ:b
+a_L08	5	v	o	v	c	split
+a_L08	7	vbar	c	vbar	vbar	
+a_L08	22	//	-	-	-	MAJ:-
+a_L08	25	C	c	C	C	
+a_L08	26	3n	1	1	3p	MAJ:1
+a_L08	27	=14	fx	fx	-|	MAJ:fx
+a_L08	29	fx	-	-	-	MAJ:-
+a_L08	30	//	-|	-|	-|	MAJ:-|
+a_L08	36	//	-	-	-	MAJ:-
+a_L08	38	L	lf	lf	L	MAJ:lf
+a_L09	9	=10	=10	u	1	split
+a_L09	10	//	-	c	c	MAJ:c
+a_L09	19	C	c	C	C	
+a_L09	21	1	a	1	1	
+a_L09	28	ffx	f	f	f	MAJ:f
+a_L09	32	C	-	C	C	
+a_L09	33	//	c	-	-	MAJ:-
+a_L09	35	C	c	C	C	
+a_L10	1	pi	arrow	arrow	arrow	MAJ:arrow
+a_L10	3	C	c	C	C	
+a_L10	5	//	-	//	//	
+a_L10	9	z	c	z	c	MAJ:c
+a_L10	13	v	3p	3p	3p	MAJ:3p
+a_L10	17	+	++	++	++	MAJ:++
+a_L10	24	C	c	C	C	
+a_L10	25	o	o	o	c	
+a_L10	31	L	-	-	L	MAJ:-
+a_L10	32	//	lf	lf	-	MAJ:lf
+a_L10	47	ffx	f	f	f	MAJ:f
+a_L11	6	f	3y	s	s	MAJ:s
+a_L11	9	fx	-|	-|	-|	MAJ:-|
+a_L11	19	=10	=10	u	1	split
+a_L11	20	b	b	c	c	MAJ:c
+a_L11	21	-|	-	b	b	MAJ:b
+a_L11	23	lf	f	f	f	MAJ:f
+a_L11	26	T	-	T	T	
+a_L11	27	C	-	C	C	
+a_L11	28	o	-	-	-	MAJ:-
+a_L11	29	T	T	vbar	vbar	MAJ:vbar
+a_L11	30	//	-	//	//	
+a_L11	31	fx	c	fx	fx	
+a_L11	32	L	vbar	-	L	split
+a_L11	33	//	tt	lf	-	split
+a_L11	38	vbar	vbar	T	vbar	
+a_L11	39	C	c	C	C	
+a_L11	45	o	-	-	-	MAJ:-
+a_L12	1	pi	?{blot}	?{crossed-out symbol}	?{struck-through sign}	split
+a_L12	4	L	lf	lf	L	MAJ:lf
+a_L12	10	//	-	-	-	MAJ:-
+a_L12	14	C	c	C	C	
+a_L12	15	o	o	o	c	
+a_L12	17	//	-	//	//	
+a_L12	18	-|	-|	fx	-|	
+a_L12	24	3y	fu	fu	fu	MAJ:fu
+a_L12	25	C	c	C	C	
+a_L12	27	3y	3p	-	-	MAJ:-
+a_L12	28	ffx	f	3p	3p	MAJ:3p
+a_L12	33	//	-	//	//	
+a_L12	34	tt	fx	fx	fx	MAJ:fx
+a_L12	36	//	-	-	-	MAJ:-
+a_L12	41	fu	-	-	-	MAJ:-
+a_L12	42	lf	a	u	a	MAJ:a
+a_L13	1	//	-	//	-	MAJ:-
+a_L13	3	ffx	f	f	f	MAJ:f
+a_L13	4	//	f	//	//	
+a_L13	9	v	3p	3p	3p	MAJ:3p
+a_L13	10	-|	c	C	C	MAJ:C
+a_L13	15	fu	ptil	ptil	ptil	MAJ:ptil
+a_L13	23	fx	-	fx	fx	
+a_L13	24	//	+	-	-	MAJ:-
+a_L13	26	lf	f	f	f	MAJ:f
+a_L13	27	a	tri	tri	tri	MAJ:tri
+a_L13	29	//	-	-	-	MAJ:-
+a_L13	39	//	-	-	-	MAJ:-
+a_L13	44	=10	=10	c	c	MAJ:c
+a_L14	1	//	-	//	-	MAJ:-
+a_L14	5	fx	tt	fx	?{H-like sign}	split
+a_L14	8	C	c	C	C	
+a_L14	9	o	?{thick diagonal flourish}	?{thick diagonal hooked sign}	?{large diagonal hooked sign}	split
+a_L14	13	//	-	-	-	MAJ:-
+a_L14	17	3y	c	3y	C	split
+a_L14	18	fx	-|	-|	-|	MAJ:-|
+a_L14	20	=10	=10	c	c	MAJ:c
+a_L14	23	//	-	-	-	MAJ:-
+a_L14	27	fu	ptil	ptil	ptil	MAJ:ptil
+a_L14	31	o	-	o	o	
+a_L14	32	T	vbar	T	T	
+a_L14	34	a	a	u	a	
+a_L14	38	vbar	vbar	pi	pi	MAJ:pi
+a_L15	3	P	ptil	ptil	ptil	MAJ:ptil
+a_L15	8	v	3p	3p	3p	MAJ:3p
+a_L15	14	v	-	3p	-	MAJ:-
+a_L15	15	//	3p	//	3p	MAJ:3p
+a_L15	18	1	1	-	-	MAJ:-
+a_L15	19	1	-|	-|	-|	MAJ:-|
+a_L15	20	vbar	vbar	K	K	MAJ:K
+a_L15	22	-|	c	C	C	MAJ:C
+a_L15	32	++	++	++	-	
+a_L15	33	v	-	-	fu	MAJ:-
+a_L15	34	//	3p	3p	3p	MAJ:3p
+a_L15	36	1	1	u	-	split
+a_L15	37	3y	3y	3y	3p	
+a_L15	39	C	c	C	C	
+a_L15	40	rho	rho	o	o	MAJ:o
+a_L15	41	H#	H#	H#	?{H-like sign}	
+a_L15	43	=22	=22	=22	=20	
+a_L16	5	//	-	//	-	MAJ:-
+a_L16	11	+	fx	fx	fx	MAJ:fx
+a_L16	15	C	c	C	C	
+a_L16	16	o	o	o	c	
+a_L16	18	1	o	o	1	MAJ:o
+a_L16	21	o	-	-	-	MAJ:-
+a_L16	27	L	-	-	L	MAJ:-
+a_L16	28	//	lf	lf	-	MAJ:lf
+a_L16	34	//	-	-	-	MAJ:-
+a_L16	38	=18	=18	1	=13	split
+a_L16	39	x	x	3y	x	
+a_L16	40	//	-	x	-	MAJ:-
+a_L16	43	C	c	C	C	
+a_L16	44	o	rho	o	c	split
+a_L17	4	//	-	//	//	
+a_L17	5	+	fx	fx	fx	MAJ:fx
+a_L17	7	+	fx	fx	fx	MAJ:fx
+a_L17	8	L	lf	lf	L	MAJ:lf
+a_L17	9	++	fx	++	++	
+a_L17	12	fx	fx	-	b	split
+a_L17	16	+	+	+	fx	
+a_L17	20	vd	-	-	-	MAJ:-
+a_L17	21	3y	Dz	Dz	Dz	MAJ:Dz
+a_L17	28	L	lf	lf	L	MAJ:lf
+a_L17	34	K	a	a	a	MAJ:a
+a_L17	35	=10	f	u	fx	split
+a_L17	36	v	3p	3p	3p	MAJ:3p
+a_L17	37	C	c	C	C	
+a_L17	38	ptil	fu	fu	fu	MAJ:fu
+a_L17	45	1	-	-	fx	MAJ:-
+a_L18	6	fx	tt	fx	?{H-like sign}	split
+a_L18	14	fu	fu	fu	-	
+a_L18	15	fu	ptil	ptil	ptil	MAJ:ptil
+a_L18	20	+	fx	fx	fx	MAJ:fx
+a_L18	27	//	-	-	-	MAJ:-
+a_L18	30	pi	o	-	-	MAJ:-
+a_L18	32	C	c	C	C	
+a_L18	35	//	-	//	//	
+a_L18	37	vd	o	o	o	MAJ:o
+a_L19	2	1	a	1	a	MAJ:a
+a_L19	5	//	-	//	//	
+a_L19	8	-|	-	-	-	MAJ:-
+a_L19	11	L	-	-	L	MAJ:-
+a_L19	12	//	lf	lf	-	MAJ:lf
+a_L19	14	z	c	C	C	MAJ:C
+a_L19	19	//	3n	-	-	MAJ:-
+a_L19	20	3n	f	3n	3n	
+a_L19	21	ffx	f	f	f	MAJ:f
+a_L19	24	//	-	//	-	MAJ:-
+a_L19	28	C	c	C	C	
+a_L19	29	3y	3p	3p	3p	MAJ:3p
+a_L19	45	a	-|	a	a	
+a_L20	2	//	-	//	-	MAJ:-
+a_L20	10	C	c	C	C	
+a_L20	18	+	fx	4	fx	MAJ:fx
+a_L20	19	C	c	C	C	
+a_L20	21	C	o	C	C	
+a_L20	22	//	c	//	//	
+a_L20	28	c	c	C	c	
+a_L21	6	=10	=10	c	c	MAJ:c
+a_L21	10	=18	3y	//	3y	MAJ:3y
+a_L21	20	v	3p	3p	3p	MAJ:3p
+a_L21	22	C	c	C	C	
+a_L21	25	=10	=10	c	c	MAJ:c
+a_L21	26	C	c	C	C	
+a_L21	27	o	o	o	c	
+a_L21	29	//	-	-	-	MAJ:-
+a_L21	33	3y	3y	3y	-	
+a_L21	34	-|	-	-|	C	split
+a_L21	35	//	-	-	3y	MAJ:-
+a_L21	40	o	-	-	-	MAJ:-
+a_L21	41	-|	vbar	vbar	vbar	MAJ:vbar
+a_L22	2	//	b	b	b	MAJ:b
+a_L22	3	-|	o	o	c	MAJ:o
+a_L22	8	v	3p	3p	3p	MAJ:3p
+a_L22	9	+	fx	fx	fx	MAJ:fx
+a_L22	13	-|	fx	fx	-|	MAJ:fx
+a_L22	15	-|	-	++	-	MAJ:-
+a_L22	16	++	++	rho	++	
+a_L22	17	q9	q9	//	3p	split
+a_L22	21	pi	pi	?{filled double-loop sign}	?{blotted w-like sign}	split
+a_L22	28	n	-	n	n	
+a_L22	29	//	3p	//	-	split
+a_L23	4	+	fx	fx	fx	MAJ:fx
+a_L23	9	C	c	C	C	
+a_L23	10	o	o	o	c	
+a_L23	13	//	-	-	-	MAJ:-
+a_L23	16	v	-	-	-	MAJ:-
+a_L23	24	-|	fx	fx	fx	MAJ:fx
+a_L23	28	3y	-	-	-	MAJ:-
+a_L23	37	=18	=18	3y	=13	split
+a_L23	38	//	-	//	//	
+a_L24	1	3p	-	v	-	MAJ:-
+a_L24	2	//	v	//	v	MAJ:v
+a_L24	5	C	c	C	C	
+a_L24	22	v	3p	3p	3p	MAJ:3p
+a_L24	38	ptil	fu	fu	fu	MAJ:fu
+a_L25	1	C	c	C	C	
+a_L25	2	o	o	o	c	
+a_L25	6	//	-	-	-	MAJ:-
+a_L25	10	=10	=10	c	c	MAJ:c
+a_L25	13	v	3p	3p	3p	MAJ:3p
+a_L25	15	+	fx	fx	fx	MAJ:fx
+a_L25	22	//	-	//	-	MAJ:-
+a_L25	32	fu	ptil	ptil	ptil	MAJ:ptil
+a_L25	34	lf	1	P	P	MAJ:P
+a_L25	40	a	a	u	a	
+a_L25	44	-|	-	-	-	MAJ:-
+a_L26	1	=10	=10	c	c	MAJ:c
+a_L26	8	pi	pi	arrow	?{joined w-like sign}	split
+a_L26	12	vd	pi	vd	vd	
+a_L26	20	o	-	o	o	
+a_L26	22	b	=23	=23	b	MAJ:=23
+a_L26	23	C	b	b	b	MAJ:b
+a_L26	24	3y	o	o	c	MAJ:o
+a_L26	25	fx	-|	-|	fx	MAJ:-|
+a_L26	30	C	c	C	C	
+a_L26	34	v	3p	3p	3p	MAJ:3p
+a_L26	37	=ff	f	f	f	MAJ:f
+a_L26	39	v	3y	3p	3p	MAJ:3p
+a_L27	4	fx	tt	fx	?{H-like sign}	split
+a_L27	7	//	-	-	-	MAJ:-
+a_L27	11	=14	rho	rho	4	MAJ:rho
+a_L27	12	b	4	4	b	MAJ:4
+a_L27	13	//	b	b	c	MAJ:b
+a_L27	26	-|	tt	tt	tt	MAJ:tt
+a_L27	28	//	-	//	//	
+a_L27	32	v	3p	3p	3p	MAJ:3p
+a_L27	34	o	o	-	-	MAJ:-
+a_L27	38	fu	ptil	ptil	ptil	MAJ:ptil
+a_L28	2	pi	pi	arrow	?{joined w-like sign}	split
+a_L28	3	fx	-	4	-|	split
+a_L28	4	o	-	o	o	
+a_L28	5	-|	-|	C	C	MAJ:C
+a_L28	6	//	o	//	//	
+a_L28	7	o	c	?{thick diagonal hooked sign}	?{large diagonal hooked sign}	split
+a_L28	8	//	?{thick diagonal flourish}	//	//	
+a_L28	14	v	3p	3p	3p	MAJ:3p
+a_L28	17	C	-	C	C	
+a_L28	18	//	c	//	-	split
+a_L28	19	fx	-|	-|	-|	MAJ:-|
+a_L28	35	C	c	C	C	
+a_L28	36	o	?{thick diagonal flourish}	?{thick diagonal hooked sign}	?{large diagonal hooked sign}	split
+b_L01	6	=ff	q9	q9	H#	MAJ:q9
+b_L01	9	fx	+	+	+	MAJ:+
+b_L01	11	3p	3p	3p	v	
+b_L01	13	fu	ptil	ptil	ptil	MAJ:ptil
+b_L01	14	-|	+	+	+	MAJ:+
+b_L01	19	v	3p	3p	C	MAJ:3p
+b_L01	20	3n	b	b	b	MAJ:b
+b_L01	22	fu	ptil	ptil	ptil	MAJ:ptil
+b_L01	27	//	-	//	//	
+b_L01	29	fx	fx	fx	+	
+b_L01	30	fu	ptil	ptil	ptil	MAJ:ptil
+b_L01	33	fx	T	T	T	MAJ:T
+b_L02	4	+	fx	fx	fx	MAJ:fx
+b_L02	19	=10	b	c	c	MAJ:c
+b_L02	29	1	a	c	a	MAJ:a
+b_L02	32	1	-	-	-	MAJ:-
+b_L02	35	fx	fx	fx	+	
+b_L03	4	//	-	//	//	
+b_L03	7	1	-	-	-	MAJ:-
+b_L03	8	++	o	o	o	MAJ:o
+b_L03	10	//	-	//	-	MAJ:-
+b_L03	11	=ff	q9	q9	H#	MAJ:q9
+b_L03	12	a	tri	tri	tri	MAJ:tri
+b_L03	16	fx	tt	tt	tt	MAJ:tt
+b_L03	31	fx	4	4	4	MAJ:4
+b_L03	35	f	fx	fx	fx	MAJ:fx
+b_L03	38	tri	b	tri	tri	
+b_L03	39	a	C	-	C	MAJ:C
+b_L03	40	C	1	C	1	MAJ:1
+b_L04	1	++	fu	fu	fu	MAJ:fu
+b_L04	5	C	b	c	b	MAJ:b
+b_L04	6	=22	z	=22	z	MAJ:z
+b_L04	17	fu	ptil	ptil	ptil	MAJ:ptil
+b_L04	22	f	fx	fx	fx	MAJ:fx
+b_L04	25	3y	3p	b	b	MAJ:b
+b_L04	26	=10	b	c	=10	split
+b_L04	28	fu	q9	q9	rho	MAJ:q9
+b_L04	30	o	rho	o	o	
+b_L04	33	a	a	a	u	
+b_L04	34	v	3p	v	3p	MAJ:3p
+b_L04	35	o	o	-	o	
+b_L04	37	ptil	p	p	v	MAJ:p
+b_L05	3	+	-|	-|	-|	MAJ:-|
+b_L05	7	|-	tt	tt	tt	MAJ:tt
+b_L05	15	-|	-	-	-	MAJ:-
+b_L05	19	3y	3y	3y	=23	
+b_L05	22	=10	-	b	=10	split
+b_L05	23	b	b	c	b	
+b_L05	24	-|	-	b	-	MAJ:-
+b_L05	25	+	fx	+	+	
+b_L05	26	q9	fu	beta	beta	MAJ:beta
+b_L05	33	-|	tt	tt	tt	MAJ:tt
+b_L05	41	=10	b	c	=10	split
+b_L06	3	p	rho	rho	rho	MAJ:rho
+b_L06	20	//	-	-	-	MAJ:-
+b_L06	24	3y	fu	fu	q9	MAJ:fu
+b_L06	25	f	s	lf	f	split
+b_L06	27	q9	fu	beta	beta	MAJ:beta
+b_L06	40	o	o	rho	rho	MAJ:rho
+b_L07	13	=20	o	o	o	MAJ:o
+b_L07	20	+	+	fx	fx	MAJ:fx
+b_L07	23	f	s	lf	f	split
+b_L07	27	fx	tt	tt	tt	MAJ:tt
+b_L07	41	vbar	-	-	tri	MAJ:-
+b_L08	4	=10	pi	c	pi	MAJ:pi
+b_L08	5	//	b	//	=10	split
+b_L08	7	fx	fx	fx	+	
+b_L08	11	a	a	-|	a	
+b_L08	14	a	tri	tri	tri	MAJ:tri
+b_L08	17	fx	+	fx	+	MAJ:+
+b_L08	21	fx	+	+	-	MAJ:+
+b_L08	22	1	1	1	+	
+b_L08	25	1	-	-	-	MAJ:-
+b_L08	35	3y	3y	3y	f/lf	
+b_L09	1	fx	+	+	+	MAJ:+
+b_L09	9	fx	+	+	+	MAJ:+
+b_L09	12	v	3p	3p	3p	MAJ:3p
+b_L09	13	pi	vbar	vbar	vbar	MAJ:vbar
+b_L09	22	T	T	T	o	
+b_L09	23	fx	fx	fx	T	
+b_L09	24	//	-	-	+	MAJ:-
+b_L09	26	fx	+	+	+	MAJ:+
+b_L10	13	K	K	K	arrow	
+b_L10	17	-|	1	+	1	MAJ:1
+b_L10	24	3p	-	-	-	MAJ:-
+b_L10	25	ptil	ptil	=ff	ptil	
+b_L10	27	K	-	fu	fu	MAJ:fu
+b_L10	28	//	fu	//	//	
+b_L10	32	fx	fx	fx	+	
+b_L10	36	ptil	b	-	b	MAJ:b
+b_L10	37	3y	3y	Dz	3y	
+b_L11	4	fx	4	4	4	MAJ:4
+b_L11	7	c	c	c	C	
+b_L11	8	fu	q9	q9	rho	MAJ:q9
+b_L11	9	u	a	a	u	MAJ:a
+b_L11	10	3n	K	K	K	MAJ:K
+b_L11	15	L	s	lf	f	split
+b_L11	17	K	fu	fu	fu	MAJ:fu
+b_L11	21	T	o	o	o	MAJ:o
+b_L11	22	vbar	T	T	T	MAJ:T
+b_L11	23	3y	3p	3p	3p	MAJ:3p
+b_L11	25	1	1	a	1	
+b_L11	29	=20	o	o	o	MAJ:o
+b_L11	31	o	rho	rho	rho	MAJ:rho
+b_L11	33	-|	-|	-|	+	
+b_L12	5	fx	-|	-|	-|	MAJ:-|
+b_L12	10	lf	f	f	f	MAJ:f
+b_L12	11	fx	-|	-|	-|	MAJ:-|
+b_L12	15	-|	4	4	4	MAJ:4
+b_L12	19	fu	m	m	m	MAJ:m
+b_L12	25	ptil	fu	fu	fu	MAJ:fu
+b_L12	29	fu	C	C	C	MAJ:C
+b_L13	1	++	K	-	fx/K	split
+b_L13	2	arrow	pi	pi	pi	MAJ:pi
+b_L13	13	C	-	-	-	MAJ:-
+b_L13	22	1	a	1	1	
+b_L13	24	fx	-|	-|	-|	MAJ:-|
+b_L13	29	v	-	3p	-	MAJ:-
+b_L13	30	//	3p	//	3p	MAJ:3p
+b_L13	35	fx	tt	tt	tt	MAJ:tt
+b_L13	40	T	-	T	-	MAJ:-
+b_L13	42	+	+	+	-	
+b_L14	1	=20	=20	=20	o	
+b_L14	9	L	s	lf	f	split
+b_L14	24	K	pi	b	=ss	split
+b_L14	25	=10	b	c	=10	split
+b_L15	3	fx	tt	tt	tt	MAJ:tt
+b_L15	6	fx	-|	-|	-|	MAJ:-|
+b_L15	13	//	-	//	-	MAJ:-
+b_L15	15	1	a	1	1	
+b_L15	21	fx	-|	-|	-|	MAJ:-|
+b_L15	24	fu	rho	rho	rho	MAJ:rho
+b_L15	26	=10	b	c	=10	split
+b_L15	33	3p	v	v	v	MAJ:v
+b_L15	34	K	K	tri	tri	MAJ:tri
+b_L16	9	v	3p	3p	3p	MAJ:3p
+b_L16	11	1	a	1	1	
+b_L16	26	v	3p	C	3p	MAJ:3p
+b_L16	32	vd	b	vd	vd	
+b_L16	33	//	vd	//	//	
+b_L17	4	fx	T	T	T	MAJ:T
+b_L17	6	L	s	lf	f	split
+b_L17	8	fu	ptil	ptil	ptil	MAJ:ptil
+b_L17	9	fx	-|	-|	-|	MAJ:-|
+b_L17	29	f	ptil	ptil	ptil	MAJ:ptil
+b_L17	30	fx	-|	-|	-|	MAJ:-|
+b_L17	34	fx	-|	-|	-|	MAJ:-|
+b_L17	39	fx	+	fx	+	MAJ:+
+b_L18	5	fx	tt	tt	tt	MAJ:tt
+b_L18	8	arrow	-|	-|	pi	MAJ:-|
+b_L18	11	//	-	//	//	
+b_L18	22	C	-	-	-	MAJ:-
+b_L19	1	ptil	//	//	//	MAJ://
+b_L19	3	ptil	q9	q9	rho	MAJ:q9
+b_L19	9	1	a	1	1	
+b_L19	16	fx	-|	-|	-|	MAJ:-|
+b_L19	19	ffx	beta	f	f	MAJ:f
+c_L01	1	=10	u	u	u	MAJ:u
+c_L01	4	fx	fx	+	fx	
+c_L01	5	vbar	pi	pi	pi	MAJ:pi
+c_L02	7	m	rho	fu	fu	MAJ:fu
+c_L02	8	a	a	u	u	MAJ:u
+c_L02	29	vbar	pi	pi	pi	MAJ:pi
+c_L02	33	vbar	pi	pi	pi	MAJ:pi
+c_L02	34	fx	+	+	+	MAJ:+
+c_L02	36	1	-	-	-	MAJ:-
+c_L02	37	pi	q9	q9	q9	MAJ:q9
+c_L03	11	v	3p	v	3p	MAJ:3p
+c_L03	21	v	3p	3p	3p	MAJ:3p
+c_L03	30	vbar	pi	pi	pi	MAJ:pi
+c_L03	35	vbar	pi	pi	pi	MAJ:pi
+c_L03	37	//	=11	=11	=11	MAJ:=11
+c_L03	42	vbar	pi	pi	pi	MAJ:pi
+c_L04	4	pi	arrow	arrow	arrow	MAJ:arrow
+c_L04	7	vbar	pi	pi	pi	MAJ:pi
+c_L04	8	fx	+	+	+	MAJ:+
+c_L04	15	fx	-|	-|	+	MAJ:-|
+c_L04	20	v	p	p	p	MAJ:p
+c_L04	26	vbar	pi	pi	pi	MAJ:pi
+c_L04	28	fu	ptil	ptil	ptil	MAJ:ptil
+c_L05	5	vbar	pi	pi	pi	MAJ:pi
+c_L05	7	tt	H#	H#	H#	MAJ:H#
+c_L05	9	fx	-|	-|	-|	MAJ:-|
+c_L05	18	fx	-|	-|	-|	MAJ:-|
+c_L05	19	a	a	a	u	
+c_L05	27	v	3p	3p	3p	MAJ:3p
+c_L05	29	fx	-|	-|	-|	MAJ:-|
+c_L05	30	vbar	pi	pi	pi	MAJ:pi
+c_L05	31	tt	H#	H#	H#	MAJ:H#
+c_L05	34	vbar	pi	pi	pi	MAJ:pi
+c_L06	5	fx	|-	+	+	MAJ:+
+c_L06	9	b	a	a	u	MAJ:a
+c_L06	20	v	3p	3p	3p	MAJ:3p
+c_L06	22	fx	+	+	+	MAJ:+
+c_L06	23	vbar	pi	pi	pi	MAJ:pi
+c_L06	26	fx	|-	+	+	MAJ:+
+c_L06	31	vbar	pi	pi	pi	MAJ:pi
+c_L07	5	vd	pi	pi	pi	MAJ:pi
+c_L07	7	tri	a	a	a	MAJ:a
+c_L07	8	vbar	T	T	T	MAJ:T
+c_L07	15	tt	H#	H#	H#	MAJ:H#
+c_L07	17	1	-	-	-	MAJ:-
+c_L07	18	C	u	u	u	MAJ:u
+c_L07	24	vbar	pi	pi	pi	MAJ:pi
+c_L07	29	lf	L	L	L	MAJ:L
+c_L07	33	vbar	pi	pi	pi	MAJ:pi
+c_L08	1	fu	p	fu	p	MAJ:p
+c_L08	6	4	+	+	+	MAJ:+
+c_L08	7	q9	q9	fu	q9	
+c_L08	10	fu	p	p	p	MAJ:p
+c_L08	16	vbar	pi	pi	pi	MAJ:pi
+c_L08	20	tt	H#	H#	H#	MAJ:H#
+c_L08	24	tt	H#	H#	H#	MAJ:H#
+c_L08	36	v	3p	3p	3p	MAJ:3p
+c_L08	37	C	u	u	u	MAJ:u
+c_L09	5	1	1	-	-	MAJ:-
+c_L09	6	v	3p	3p	3p	MAJ:3p
+c_L09	7	vbar	pi	pi	pi	MAJ:pi
+c_L09	9	vbar	pi	pi	pi	MAJ:pi
+c_L09	16	3y	3p	3p	3p	MAJ:3p
+c_L09	17	4	fx	+	+	MAJ:+
+c_L09	20	n	n	m	n	
+c_L09	22	=22	=23	=23	=23	MAJ:=23
+c_L09	23	vbar	pi	pi	pi	MAJ:pi
+c_L09	25	tt	H#	H#	H#	MAJ:H#
+c_L09	31	vbar	pi	pi	pi	MAJ:pi
+c_L09	35	1	-	-	-	MAJ:-
+c_L09	36	C	u	u	u	MAJ:u
+c_L10	4	vbar	pi	pi	pi	MAJ:pi
+c_L10	7	v	3p	3p	3p	MAJ:3p
+c_L10	16	=22	=23	=23	=23	MAJ:=23
+c_L10	18	-|	-	-	-	MAJ:-
+c_L10	22	fu	ptil	ptil	ptil	MAJ:ptil
+c_L10	24	u	u	a	u	
+c_L10	30	vbar	pi	pi	pi	MAJ:pi
+c_L10	32	C	C	C	c	
+c_L10	34	s	s	s	3y	
+c_L10	35	a	a	a	u	
+c_L10	36	fu	ptil	ptil	ptil	MAJ:ptil
+c_L10	41	vbar	pi	pi	pi	MAJ:pi
+c_L11	4	C	L	L	L	MAJ:L
+c_L11	15	//	=11	=11	=11	MAJ:=11
+c_L11	16	pi	m	m	m	MAJ:m
+c_L11	17	a	a	a	u	
+c_L11	23	fu	p	p	p	MAJ:p
+c_L11	32	vbar	pi	pi	pi	MAJ:pi
+c_L12	1	vbar	pi	pi	pi	MAJ:pi
+c_L12	6	tt	H#	H#	H#	MAJ:H#
+c_L12	7	fu	ptil	ptil	ptil	MAJ:ptil
+c_L12	10	3y	3p	3p	3p	MAJ:3p
+c_L12	11	fx	-|	-|	-|	MAJ:-|
+c_L12	14	vbar	pi	pi	pi	MAJ:pi
+c_L12	23	vbar	pi	pi	pi	MAJ:pi
+c_L12	28	vbar	pi	pi	pi	MAJ:pi
+c_L12	31	tt	H#	H#	H#	MAJ:H#
+c_L12	33	x	f	f	f	MAJ:f
+c_L12	36	=rr	pi	pi	pi	MAJ:pi
+c_L12	38	vbar	pi	pi	pi	MAJ:pi
+c_L13	2	fu	ptil	ptil	ptil	MAJ:ptil
+c_L13	9	v	3p	3p	3p	MAJ:3p
+c_L13	14	=rr	pi	pi	pi	MAJ:pi
+c_L13	15	-|	+	+	+	MAJ:+
+c_L13	20	fx	-	-	-	MAJ:-
+c_L13	21	o	-	-	-	MAJ:-
+c_L13	25	vbar	pi	pi	pi	MAJ:pi
+c_L13	29	vd	m	m	m	MAJ:m
+c_L13	39	1	u	u	u	MAJ:u
+c_L14	2	tt	H#	H#	H#	MAJ:H#
+c_L14	3	s	s	s	3y	
+c_L14	8	//	=11	=11	=11	MAJ:=11
+c_L14	19	vbar	pi	pi	pi	MAJ:pi
+c_L14	20	fx	|-	+	+	MAJ:+
+c_L14	26	vbar	pi	pi	pi	MAJ:pi
+c_L14	27	C	L	L	L	MAJ:L
+c_L14	30	fx	-|	-|	-|	MAJ:-|
+c_L14	37	v	3p	3p	v	MAJ:3p
+c_L14	39	fu	ptil	ptil	ptil	MAJ:ptil
+c_L15	4	fu	ptil	ptil	ptil	MAJ:ptil
+c_L15	9	=rr	H#	H#	H#	MAJ:H#
+c_L15	14	vbar	pi	pi	pi	MAJ:pi
+c_L15	16	1	u	u	u	MAJ:u
+c_L15	22	fx	-|	-|	-|	MAJ:-|
+c_L15	24	//	=11	=11	=11	MAJ:=11
+c_L15	32	vbar	pi	pi	pi	MAJ:pi
+c_L15	35	fx	+	+	+	MAJ:+
+c_L16	1	v	3p	3p	3p	MAJ:3p
+c_L16	2	fx	-|	-|	-|	MAJ:-|
+c_L16	8	v	3p	3p	3p	MAJ:3p
+c_L16	16	vbar	pi	pi	pi	MAJ:pi
+c_L16	20	vbar	-	-	-	MAJ:-
+c_L16	21	ptil	pi	pi	pi	MAJ:pi
+c_L16	23	tt	H#	H#	H#	MAJ:H#
+c_L16	24	fx	-|	-|	-|	MAJ:-|
+c_L17	1	tt	o	o	o	MAJ:o
+c_L17	4	fx	-|	-|	-|	MAJ:-|
+c_L17	8	vbar	pi	pi	pi	MAJ:pi
+c_L17	12	vbar	pi	pi	pi	MAJ:pi
+c_L17	13	=ss	beta	beta	beta	MAJ:beta
+c_L17	15	vd	pi	pi	pi	MAJ:pi
+c_L17	20	vbar	pi	pi	pi	MAJ:pi
+c_L17	22	lf	b	b	b	MAJ:b
+c_L17	23	fx	o	o	o	MAJ:o
+c_L17	28	fx	-|	-|	-|	MAJ:-|
+c_L17	30	//	=11	=11	=11	MAJ:=11
+c_L17	34	C	-	-	-	MAJ:-
+c_L17	35	rho	-	-	-	MAJ:-
+c_L18	3	fx	|-	+	+	MAJ:+
+c_L18	11	3y	ptil	ptil	ptil	MAJ:ptil
+c_L18	15	vbar	pi	pi	pi	MAJ:pi
+c_L18	19	fx	-|	-|	-|	MAJ:-|
+c_L18	23	3p	ptil	ptil	ptil	MAJ:ptil
+c_L18	26	3n	n	m	n	MAJ:n
+c_L18	28	3y	3p	3p	3p	MAJ:3p
+c_L18	32	C	fx	fx	fx	MAJ:fx
+c_L18	35	fx	-	-	-	MAJ:-
+c_L18	36	1	-|	-|	-|	MAJ:-|
+c_L18	37	C	u	u	u	MAJ:u
+c_L18	38	3y	=23	=23	=23	MAJ:=23
+c_L19	3	3y	3p	3p	3p	MAJ:3p
+c_L19	5	fx	-|	-|	-|	MAJ:-|
+c_L19	6	tt	H#	H#	H#	MAJ:H#
+c_L19	9	vbar	pi	pi	pi	MAJ:pi
+c_L19	19	fx	-|	-|	-|	MAJ:-|
+c_L19	22	3y	3p	3p	3p	MAJ:3p
+c_L19	24	vbar	pi	pi	pi	MAJ:pi
+c_L19	27	vbar	pi	pi	pi	MAJ:pi
+c_L19	29	C	L	L	L	MAJ:L
+c_L19	34	3p	ptil	ptil	ptil	MAJ:ptil
+c_L19	37	o	pi	pi	pi	MAJ:pi
+c_L19	38	3y	3p	3p	3p	MAJ:3p
+c_L20	8	tt	H#	H#	H#	MAJ:H#
+c_L20	14	fx	-|	-|	-|	MAJ:-|
+c_L20	19	vbar	pi	pi	pi	MAJ:pi
+c_L20	25	vbar	pi	pi	pi	MAJ:pi
+c_L20	29	3p	ptil	ptil	ptil	MAJ:ptil
+c_L20	31	fx	-|	-|	-|	MAJ:-|
+c_L20	34	v	3p	3p	3p	MAJ:3p
+c_L21	1	=ss	?{clipped bold looped sign}	?{cropped cross}	?{cropped bold looped cross}	split
+c_L21	6	vbar	pi	pi	pi	MAJ:pi
+c_L21	9	=rr	pi	pi	pi	MAJ:pi
+c_L21	14	vbar	pi	pi	pi	MAJ:pi
+c_L21	16	fu	ptil	ptil	ptil	MAJ:ptil
+c_L21	17	fx	-|	-|	-|	MAJ:-|
+c_L21	18	b	arrow	=rr	arrow	MAJ:arrow
+c_L21	23	s	s	s	3y	
+c_L21	26	=rr	pi	pi	pi	MAJ:pi
+c_L21	28	vbar	pi	pi	pi	MAJ:pi
+c_L21	31	1	-	-	-	MAJ:-
+c_L21	32	C	u	u	u	MAJ:u
+c_L21	35	vbar	pi	pi	pi	MAJ:pi
+c_L21	39	vd	m	m	m	MAJ:m
+c_L21	41	3n	-	3n	3n	
+c_L21	42	3n	3n	m	m	MAJ:m
+c_L22	1	fx	|-	+	+	MAJ:+
+c_L22	2	fu	ptil	ptil	ptil	MAJ:ptil
+c_L22	8	v	3p	3p	3p	MAJ:3p
+c_L22	14	+	+	4	4	MAJ:4
+c_L22	17	1	=22	=22	=22	MAJ:=22
+c_L22	18	C	b	b	b	MAJ:b
+c_L22	19	=22	pi	o	o	MAJ:o
+c_L22	22	=18	q9	q9	q9	MAJ:q9
+c_L22	24	fu	ptil	ptil	ptil	MAJ:ptil
+c_L22	30	v	3p	3p	3p	MAJ:3p
+c_L22	35	vbar	pi	pi	pi	MAJ:pi
+c_L22	38	vbar	-	-	-	MAJ:-
+c_L22	39	o	pi	pi	pi	MAJ:pi
+c_L23	2	fx	-|	-|	-|	MAJ:-|
+c_L23	7	ptil	fu	fu	fu	MAJ:fu
+c_L23	11	vbar	pi	pi	pi	MAJ:pi
+c_L23	14	v	3p	3p	3p	MAJ:3p
+c_L23	17	v	3p	3p	3p	MAJ:3p
+c_L23	18	fx	-|	-|	-|	MAJ:-|
+c_L23	21	vbar	pi	pi	pi	MAJ:pi
+c_L23	23	fx	fx	+	+	MAJ:+
+c_L23	37	vbar	pi	pi	pi	MAJ:pi
+c_L24	5	fx	-|	-|	-|	MAJ:-|
+c_L24	12	q9	H#	q9	q9	
+c_L24	15	3n	b	b	b	MAJ:b
+c_L24	17	C	3n	3n	3n	MAJ:3n
+c_L24	18	3p	o	o	o	MAJ:o
+c_L24	19	3y	C	C	C	MAJ:C
+c_L24	20	fx	P	ptil	P	MAJ:P
+c_L24	22	fx	-|	-|	-|	MAJ:-|
+c_L24	31	fx	1	1	1	MAJ:1
+c_L24	32	=16	d6	d6	6	MAJ:d6
+c_L24	35	vbar	pi	pi	pi	MAJ:pi
+c_L24	37	f	-	-	-	MAJ:-
+c_L24	38	=ss	ffx	ffx	ffx	MAJ:ffx
+c_L25	1	fx	++	++	++	MAJ:++
+c_L25	3	fx	-	-	-	MAJ:-
+c_L25	4	o	arrow	=rr	arrow	MAJ:arrow
+c_L25	9	//	=11	=11	=11	MAJ:=11
+c_L25	13	fx	|-	+	+	MAJ:+
+c_L25	16	3p	ptil	ptil	ptil	MAJ:ptil
+c_L25	18	v	3p	3p	3p	MAJ:3p
+c_L25	23	=rr	pi	pi	pi	MAJ:pi
+c_L25	24	fx	+	+	+	MAJ:+
+c_L26	1	vbar	pi	pi	pi	MAJ:pi
+c_L26	6	=ss	ffx	ffx	ffx	MAJ:ffx
+c_L26	7	fx	arrow	=rr	arrow	MAJ:arrow
+c_L26	8	o	+	+	+	MAJ:+
+c_L26	9	fx	++	++	++	MAJ:++
+c_L26	14	3y	-	-	-	MAJ:-
+c_L26	15	1	3p	3p	3p	MAJ:3p
+c_L26	16	C	u	u	u	MAJ:u
+c_L26	18	fx	-|	-|	-|	MAJ:-|
+c_L26	26	fx	-|	-|	-|	MAJ:-|
+c_L26	37	o	pi	pi	pi	MAJ:pi
+c_L27	1	1	-	-	-	MAJ:-
+c_L27	2	C	=22	=22	=22	MAJ:=22
+c_L27	3	fx	4	4	4	MAJ:4
+c_L27	7	vbar	pi	pi	pi	MAJ:pi
+c_L27	8	=22	++	++	++	MAJ:++
+c_L27	19	fx	-|	-|	-|	MAJ:-|
+c_L27	25	a	a	tri	a	
+c_L27	27	v	3p	3p	3p	MAJ:3p
+c_L27	35	fx	|-	+	+	MAJ:+
+c_L27	38	C	u	u	u	MAJ:u

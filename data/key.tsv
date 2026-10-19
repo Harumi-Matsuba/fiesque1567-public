@@ -1,0 +1,95 @@
+# 記号名	平文	出典（table＝Tomokiyo の復元表 table/easternScipion.png。名前と形はこのセッションが 579×240 の画像から読んだもの）	形・注
+//	a	table	斜めの2画（1段目）
+11	a	table	縦の2画（2段目）
+4	b	table	数字の 4
+c	b	table	小文字 c
+fx	c	table	横棒つきの f 形（1段目。n の f との見分けは原本で要確認）
+n	c	table	小文字 n
+D	d	table	D 形
+k	d	table	小文字 k
+a	e	table	小文字 a
+a!	e	table	a に点か印（○で囲み、線で o の u と結ぶ）
+o	e	table	小さい o（3段目）
+x	f	table	小文字 x
+m	g	table	小文字 m
+z	g	table	小文字 z
+L	h	table	巻いた L 形（ℓ に近い）
+s	h	table	小文字 s（○で囲み、線で nn の S と結ぶ）
+1	i	table	数字の 1
+tri	i	table	Δ
+8	i	table	数字の 8
+p	l	table	小文字 p
+C	l	table	大きい C
+pi	m	table	ϖ（π の変形）
+wt	m	table	ω に波線（ω̃）
+Dbar	m	table	Đ（横棒つき D）
+pq	m	table	ꝓ 形（4段目、p に鉤）
+f	n	table	f 形（1段目）
+3n	n	table	ʒ/ȝ 形（2段目）
+9	n	table	数字の 9（3段目）
+u	o	table	小文字 u（○で囲み、線で e の a! と結ぶ）
++	o	table	＋
+++	o	table	ǂ（横棒2本の十字）
+H#	o	table	# に近い形（4段目）
+3p	p	table	ʒ 形の大きいもの（○で囲み、線で z と結ぶ）
+lf	p	table	長い f（ſ 形）
+|-	q	table	⊢
+-|	r	table	⊣
+beta	r	table	β
+T	s	table	T
+v	s	table	v
+vbar	t	table	横棒つきの v（ʊ 形）
+ffx	t	table	ff に横棒（2段目）
+fu	u	table	横棒つきの f／ꝑ 形（1段目）
+ptil	u	table	p に波線（p̃）
+q9	u	table	ꝗ／ɥ 形（3段目）
+d6	x	table	δ 形
+3y	y	table	ʒ 形（3 に似る）
+8z	z	table	ɣ／8 に似る形（○で囲み、線で p と結ぶ）
+=ee	ee	table	ſ 形の長い縦画（double letters の段）
+=ff	ff	table	ꝥ 形（double letters の段）
+=ii	ii	table	塗りつぶした 8 形（double letters の段）
+=ll	ll	table	数字の 7（double letters の段）
+=mm	mm	table	ß／8 に尾（double letters の段）
+=nn	nn	table	大きい S（○で囲み、線で h の s と結ぶ）
+=rr	rr	table	W（double letters の段）
+=ss	ss	table	ff 形（double letters の段）
+=10	et	table	数字 10
+=13	faire	table	数字 13
+=14	est	table	数字 14
+=18	vous	table	数字 18
+=20	pour	table	数字 20
+=21	tant	table	数字 21
+=22	que	table	数字 22
+=23	quel/quil	table	数字 23
+=inf	le Roy	table	∞
+=inf~	l'empereur	table	∞ に尾
+=phi	Saxe	table	Φ
+.fo	(null)	table	冠詞に見える文字の組（表の nulls 欄：fo・Ea・of・fv・Il・par …）
+.Ea	(null)	table	同上
+.of	(null)	table	同上
+.fv	(null)	table	同上
+.Il	(null)	table	同上
+.par	(null)	table	同上
+b	d	inferred	「lr／b」に見える形。f.39r の entendu・duc・dicte で一致（Tomokiyo の表の D の崩れかもしれない）
+P	d	inferred	Þ 形。f.39r の d'une・de で一致
+.bro	(null)	inferred	行頭・行中の「bro」。平文の文字の無効字（Tomokiyo の nulls 欄の「…」に当たると推定）
+vd	m	inferred	「ʊd／vd」の続け書き（Tomokiyo の ω̃ の崩れかもしれない）。Guillaume・amené で一致
+rt	l	inferred	上に波線のある r 形（f.39r c04 の行頭。luy）
+rho	?	inferred	ρ 形。値は未定
+au	(null)	inferred	行頭の「au」形（f.39r c08）。平文の文字の無効字と推定
+K	?	inferred	太い横棒で消したような ꝑ 形（f.39r c08）。値は未定
+tt	o	inferred	2回目の書き起こしで Codex が H#（Tomokiyo の # に近い形＝o）と読んだ。f.100 c05「vingt jours」で o が合う。元の注：「ŧŧ」形（横棒つきの t が2つ）。値は未定（assez の ss か）
+arrow	?	inferred	太い矢印・鍵穴形（⊸）。f.39r c20。値は未定
+Dz	?	inferred	「ꝺʒ／Đʒ」の続け書き。f.39r c18・c21・c24。値は未定（Tomokiyo の Đ＝m かもしれない）
+.moy	(null)	inferred	平文の「moy」。「par moy」の組で暗号文の中に入る（Tomokiyo の記事の f.39 の抹消と同じ語）
+.ri	(null)	inferred	平文の字の組「ri」（f.158 の冒頭、Il ri ol）
+.ol	(null)	inferred	平文の字の組「ol」（同上）
+.Dav	(null)	inferred	平文の字の組「Dav／Dao」（f.100 c25、f.158 c06）
+.La	(null)	inferred	平文の「La」（同上）
+.Day	(null)	inferred	平文の「Day」（f.158 c14、Dav Day）
+fs	t	inferred	f.100「intention」「tenant」、f.158 の尤度の比較（tryval.py の1位）で t。元の注：「ꝭs／fs」形（f と s が続いた形、f.158）。Tomokiyo の ss（ff 形）か。値は未定
+pp	?	inferred	「ꝑꝑ」形（p が2つ並んで横棒で結ばれる、f.158）。値は未定
+=16	ce	inferred	数字 16（Tomokiyo の表にない）。f.39v「dommaige 16 royaulme」、f.158「de 16 royaume」で ce と読める
+.fi	(null)	inferred	平文の字の組「fi」（f.79、fi of）
+.ti	(null)	inferred	平文の字の組「ti」（f.94・f.158、ti ol）
