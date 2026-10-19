@@ -19,9 +19,9 @@
 ## 4. Cross-check used for corrections (second/run0/)
 - First, the 74 line images of ff. 39r, 39v and 100r were transcribed three times by Codex without seeing the first transcription, and compared (second/run0/RESULT.md). The sign list used then (PROMPT.md) had confusing descriptions.
 - Corrections were made after looking at the disagreements. Only corrections confirmed on the enlarged image were kept:
-  - 50 places changed to the Codex majority: 47 confirmed and kept, 3 not confirmed and reverted (table in second/run0/RESULT.md, addendum 4).
-  - 25 places Codex read as +: 8 corrected to ⊢, 3 to +, 12 kept as t-shape; 1 had been set to 4 from context and was reverted; 1 could not be checked (addendum 2).
-  - 18 places in "qu": 14 corrected to ⊢, 4 kept as t-shape (addendum 3).
+  - 50 places changed to the Codex majority: 47 confirmed and kept, 3 not confirmed and reverted (table in second/run0/RESULT.md, section on the review of the 50 places).
+  - 25 places Codex read as +: 8 corrected to ⊢, 3 to +, 12 kept as t-shape; 1 had been set to 4 from context and was reverted; 1 could not be checked (same file, t-shape and +).
+  - 18 places in "qu": 14 corrected to ⊢, 4 kept as t-shape (same file, ⊢ and the y-shape).
   - 4 places in f. 100 written as W were confirmed on the image as ϖ and corrected.
 - Because this comparison was used to correct the first transcription, it is not called "independent".
 
@@ -48,13 +48,13 @@
 ## 7. Calibration
 - None. No contemporary decipherment was found in the volume (all 183 views seen at reduced size), and La Ferrière's edition prints only Catherine's replies, not the plain text of Fiesque's ciphered passages.
 
-## 8. Levels (this repository's publication criteria)
-| Level | Conditions |
+## 8. Criteria for full and partial reading
+| Status | Conditions |
 |---|---|
-| B partial reading | no shuffled key ≥ true key in 1000; at least one passage that makes sense; ≥70% agreement with the independent second transcription (with calibration: ≥65% letters) |
-| C full reading | B plus ≥85% agreement with the independent second transcription and ≥95% of signs with a value (with calibration: ≥90% signs or ≥85% letters) |
+| partial reading | no shuffled key ≥ true key in 1000; at least one passage that makes sense; ≥70% agreement with the independent second transcription (with calibration: ≥65% letters) |
+| full reading | the partial-reading conditions plus ≥85% agreement with the independent second transcription and ≥95% of signs with a value (with calibration: ≥90% signs or ≥85% letters) |
 
-- ff. 94r, 100r and 158r meet C. ff. 39r, 39v and 79r are B (independent second transcription below 85%).
+- ff. 94r, 100r and 158r meet the full-reading criteria. ff. 39r, 39v and 79r are partial readings (independent second transcription below 85%).
 - Agreement is judged by value; name agreement is also given.
 
 ## 9. Use of AI

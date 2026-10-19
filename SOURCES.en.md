@@ -14,7 +14,7 @@ Images, PDFs and the image of the key table are not redistributed here. Sources 
 ## Key
 - Satoshi Tomokiyo, "French Ciphers for German (and Eastern) Affairs", Cryptiana, https://cryptiana.web.fc2.com/code/frencheastern.htm (version of 2026-03-15, consulted 2026-10-20); table image easternScipion.png. The `table` values in data/key.tsv are this table rewritten with sign names.
 
-## Prior-work check (by the solving session, 2026-10-19/20)
+## Prior-work check (by the reader, 2026-10-19/20)
 | Where | Version / date | Result |
 |---|---|---|
 | Cyphersolver (D. Bourdeau) | origin/main 0258b8a (2026-10-18); 46 issues and PRs; public pages (2026-10-19); 10 forks | no reading of fr. 15919 / Fiesque |
@@ -26,7 +26,7 @@ Images, PDFs and the image of the key table are not redistributed here. Sources 
 | Web search (English, French) | 2026-10-20 | nothing |
 
 - Not checked: the DECODE search interface, pangoleen/cipher-readings, Lasry's publication list, BnF fr. 17020 ff. 227–228 (inventory of this volume).
-- An adversarial prior-work check by a session other than the solving one (docs/PRIOR_CHECK.md) has not been done yet. Within the places above no earlier reading was found; this is not a claim of being first.
+- An adversarial prior-work check by someone not involved in the reading (docs/PRIOR_CHECK.md) has not been completed yet. Within the places above no earlier reading was found; this is not a claim of being first.
 
 ## Tools
 - wordfreq (French word frequencies; model for the control)

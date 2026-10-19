@@ -1,5 +1,5 @@
 # BnF fr.15919 f.100r（「4 Septemb. 1568 Vienne」「du comte de Fiesque au Roy」。本文は Madame で始まる）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
-# 画像：gallica/full/v105.jpg の右ページ。切り出しは work/strips.py（x 4400–6750、1行目の中心 y≈590、行間 106）。
+# 画像：Gallica btv1b90573568 コマ105の右（原寸）。切り出しは src/strips.py・src/lineimgs.py（x 4400–6750）。
 # 記号名と十字形の扱いは transcription_f039r.txt と同じ。行の中にある平文（Jay receu など）は書いていない。
 # c01 の前は平文「Madame Jay receu v[ost]re l[ett]re du … du passé」。
 c01: .Il .fo .of =10 b tri fx vbar
@@ -30,9 +30,4 @@ c25: fx 3n fx o C // =ll tri // 3n fx a |- fu // 3p o v o 3n T a =rr + C a
 c26: vbar o 3n // f fs fx o fx 3n x tri C 3y 1 C q9 -| // 3y // vd 3y T fu -| fx o C // tri C vd a .bro tri fx o
 c27: 1 C fx tri o 3n vbar =22 T ffx tri C o 3n q9 ++ 3y a -| ++ 1 fx o f a T v // tri m 3n a =22 C |- fu a C
 # c25 の後半「La Dao par moy ro rrru」と c26 の「Jay」は平文の字の並び（無効字と推定）なので書いていない。
-# 2026-10-20 改訂：2回目の書き起こし（Codex 3回）の多数が ⊣ と読んだ fx を -| に、H# と読んだ tt を H# に直した（計50か所。目で確かめたのは f.100 c05 の3か所だけ。second/RESULT.md）
-# 2026-10-20 改訂2：私の fx を Codex が + と読んだ25か所を拡大画像で1つずつ見た。⊢ が8、+ が3、4 が1（c_L04 #8、形は左に傾いた十字で推定）、fx のまま12、未確認1（c_L01 #4）。second/RESULT.md
-# 2026-10-20 改訂3：私の fx の直後が ꝑ（u）の18か所を拡大して見た。⊢（q）が14、t 形（c）のまま4（a_L12 #20「recueilly」、b_L01 #29・b_L02 #35「aucunes」、c_L15 #3）。
-# 2026-10-20 改訂4：画像で確かめて直した。W（=rr）と書いた4か所は ϖ（pi＝m。c12・c13・c21×2）、ß（c17）は beta、ꝭs 形の2か所（c24・c26）は fs。c21 #1・c25 #23 は切り出しが外れて未確認。
-# 2026-10-20 改訂5：改訂1（Codex の多数に合わせた50か所）を画像で1つずつ見直した。47か所は確かめられたので残し、3か所（a_L26 #25、b_L19 #16、c_L24 #22）は確かめられないので fx に戻した。一覧は second/RESULT.md の追記4。
-# 2026-10-20 改訂6：c04 #8 は改訂2で文脈から 4 にしたが、画像だけでは決めきれないので元の fx に戻した（RULES.md §2.2 の1）。
+# 修正の記録（2026-10-20）：Codex による照合（second/run0/）の食い違いを見て直した。残したのは画像を拡大して確かめた修正だけで、確かめられなかった修正は元に戻した。箇所の一覧は second/run0/RESULT.md。

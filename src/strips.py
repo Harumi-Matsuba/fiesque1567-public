@@ -1,5 +1,5 @@
 # 原寸画像から行の帯を切り出し、左右2分割を縦に並べた画像を作る（目視の書き起こし用）。
-# 使い方: python3 strips.py ../gallica/full/v043.jpg 出力接頭辞 x0 x1 y_first step n [h]
+# 使い方: python3 strips.py images/v043.jpg 出力接頭辞 x0 x1 y_first step n [h]
 #   y_first：最初の行の中心の y、step：行の間隔、n：行数、h：帯の高さ（既定 160）
 import sys
 from PIL import Image

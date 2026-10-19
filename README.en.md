@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| Status | **ff. 94r, 100r, 158r: meet the conditions for a full reading (level C). ff. 39r, 39v, 79r: partial reading (level B).** In every letter most lines are conjectural readings with word division and supplied spelling ("inf." in [docs/READING.en.md](docs/READING.en.md)) |
-| Prior work | In the places checked on 2026-10-19/20 ([SOURCES.en.md](SOURCES.en.md)) no earlier reading of these five letters was found. Satoshi Tomokiyo reconstructed and published the key, writing "The reconstructed key below will allow reading undeciphered portions". An adversarial check by a session other than the solving one has not been done yet, so this is not a claim of being first |
+| Status | **ff. 94r, 100r, 158r: full reading (agreement with the independent second transcription 87.5–91.9%, over 99% of signs with a value). ff. 39r, 39v, 79r: partial reading (agreement 76.1–82.4%).** In every letter most lines are conjectural readings with word division and supplied spelling ("inf." in [docs/READING.en.md](docs/READING.en.md)) |
+| Prior work | In the places checked on 2026-10-19/20 ([SOURCES.en.md](SOURCES.en.md)) no earlier reading of these five letters was found. Satoshi Tomokiyo reconstructed and published the key, writing "The reconstructed key below will allow reading undeciphered portions". An adversarial prior-work check by someone not involved in the reading has not been done yet, so this is not a claim of being first |
 | Human checking | **No human has checked the transcription.** Both transcriptions are by AI (first Claude, second Codex). Agreement between AIs is no substitute for human checking |
 | Figures | Control: in 1000 shuffled keys none scored as high as the true key, on all six pages / Calibration: none (no contemporary decipherment or plain text) / Value agreement with the independent second transcription (Codex, without seeing the first): f. 39r 76.1%, f. 39v 82.4%, f. 79r 81.5%, f. 94r 91.9%, f. 100r 87.5%, f. 158r 90.5%. See [docs/METHOD.en.md](docs/METHOD.en.md) |
 | Use of AI | Transcription, inferred values, decipherment, scripts and documents by Claude (Claude Opus 5.5); second transcription by OpenAI Codex. A human chose the target, permitted the image download and decides on publication ([docs/METHOD.en.md](docs/METHOD.en.md) §9) |
@@ -13,13 +13,13 @@
 BnF fr. 15919 holds the letters of Scipion de Fiesque (Scipione Fiesco), sent from the court of Emperor Maximilian II in Vienna to King Charles IX and the Queen Mother Catherine de Médicis, during the negotiation of the King's marriage with Elisabeth of Austria. This repository records a reading of the ciphered passages of five of these letters with Satoshi Tomokiyo's reconstructed key.
 
 ## Letters and contents (summary, conjectural)
-| Letter | Date, addressee | Level | Contents |
+| Letter | Date, addressee | Status | Contents |
 |---|---|---|---|
-| f. 39r–v | 6 March 1568, to the Queen Mother | B | Duke Johann Wilhelm of Saxony, campaigning for the French king, brought six Flacian preachers; his brother Johann Friedrich is a prisoner; the Emperor means to work for an end of the French civil war |
-| f. 79r | 17 July 1568, to the Queen Mother | B | Talk at court of sending Archduke Charles to Spain for the "délivrance" of the Spanish prince (Don Carlos) |
-| f. 94r | 14 August 1568, to the Queen Mother | C | The Emperor himself explains why he sends Archduke Charles to Spain: the prince's affair and Flanders |
-| f. 100r | 4 September 1568, to the King | C | The marriage negotiation; a passage reads "le prince d'Espaigne estoit mort", and the Emperor says there is no obstacle any more |
-| f. 158r | 29 October 1569, to the King | C | After the King's victory (taken to be Moncontour), the Emperor offers to mediate peace and recommends clemency |
+| f. 39r–v | 6 March 1568, to the Queen Mother | partial | Duke Johann Wilhelm of Saxony, campaigning for the French king, brought six Flacian preachers; his brother Johann Friedrich is a prisoner; the Emperor means to work for an end of the French civil war |
+| f. 79r | 17 July 1568, to the Queen Mother | partial | Talk at court of sending Archduke Charles to Spain for the "délivrance" of the Spanish prince (Don Carlos) |
+| f. 94r | 14 August 1568, to the Queen Mother | full | The Emperor himself explains why he sends Archduke Charles to Spain: the prince's affair and Flanders |
+| f. 100r | 4 September 1568, to the King | full | The marriage negotiation; a passage reads "le prince d'Espaigne estoit mort", and the Emperor says there is no obstacle any more |
+| f. 158r | 29 October 1569, to the King | full | After the King's victory (taken to be Moncontour), the Emperor offers to mediate peace and recommends clemency |
 
 Not checked against historical sources. The full reading is in [docs/READING.en.md](docs/READING.en.md); open points in [docs/OPEN.en.md](docs/OPEN.en.md).
 

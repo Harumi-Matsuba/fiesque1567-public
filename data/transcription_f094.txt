@@ -1,5 +1,5 @@
 # BnF fr.15919 f.94r（「14 Aoust 1568 Vienne」「du Comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
-# 画像：gallica/full/v099.jpg の右ページ。行の画像は work/trackline.py で second/img/f_L01–f_L26（f_L03 が暗号の始まる行）。
+# 画像：Gallica btv1b90573568 コマ99の右（原寸）。行の画像は src/trackline.py で作った（f_L02 が暗号の始まる行）。
 # 記号名と十字形の扱いは transcription_f039r.txt と同じ。行の中の平文（receu など）は書いていない。
 # c01 の前は平文「Madame, Jay receu vostre lettre du 9e de Juillet par laquelle me escripvez」。続く「fi ol par moy」は無効字
 c01: |- fu a // tri a tt // 3y o b a 4 tri o 3n a f vbar // 3n b -| a

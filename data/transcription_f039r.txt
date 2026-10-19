@@ -1,8 +1,8 @@
 # BnF fr.15919 f.39r（1568年3月6日 ウィーン、Fiesque から王妃宛）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
-# 画像：gallica/full/v043.jpg（openapi.bnf.fr の原寸）。行の切り出しは work/strips.py（x 4250–7200、1行目の中心 y≈1206、行間 118）。
+# 画像：Gallica btv1b90573568 コマ43の右（BnF の IIIF の原寸）。行の切り出しは src/strips.py・src/lineimgs.py（x 4250–7200）。
 # 記号名は key.tsv。区切りの細い縦線「/」は書いていない。
 # 十字形は形だけで名前を付けた（文脈で選ばない）：+＝左右対称の太い十字、fx＝上の短い t 形、-|＝左だけに腕、|-＝右だけに腕、++＝横棒2本。
-#   小さい y 形は v、下に長い輪のある y 形は 3p とした。
+#   輪のある y 形は、文脈で s（v）と p（3p）に書き分けた。この画像では形で分けられない（docs/OPEN.md）。
 # 1行目の前は平文「Madame ma derniere l[ett]re a este du penultiesme du passe depuis Laquelle」。直後の「Jay par moy fo」は抹消。
 c02: tri // 3y o 3n vbar a f b fu =22 C o b fu fx v a L // 3n m fu tri =ll // fu vd a
 c03: .bro =phi |- fu 1 o T vbar // =ll a o 3n x -| // 3n fx a =20 fu ++ T vbar fx a v o beta fu 1 fx o // 11 vd o 3n a // q9 a n
@@ -32,6 +32,4 @@ c26: C o -| ++ 3y // fu vd a =10 fu ++ v x + -| fx o T x -| // 3n fx ++ 1 T o v 
 c27: =10 vd o T pi a v pi |- fu tri vd o 1 vbar tri 3n vbar tri o fu b C 3y .bro fx 3n tri a fx C fx f m v -| ++ =ff ++ v
 c28: T fu -| fx o x // 1 fx vbar =14 b // P fu tri T =23 T o -| ++ 1 fx vbar -| o // fu fx ++ v vd o tri =ll a fu -|
 c29: =22 pi fx o -| // o // 3n vbar fu 3n m v o ptil C // -| 1 m fu o ptil -| o 3n ptil a -| T fx a fu C o |- fu tri
-# 2026-10-20 改訂：2回目の書き起こし（Codex 3回）の多数が ⊣ と読んだ fx を -| に、H# と読んだ tt を H# に直した（計50か所。目で確かめたのは f.100 c05 の3か所だけ。second/RESULT.md）
-# 2026-10-20 改訂3：私の fx の直後が ꝑ（u）の18か所を拡大して見た。⊢（q）が14、t 形（c）のまま4（a_L12 #20「recueilly」、b_L01 #29・b_L02 #35「aucunes」、c_L15 #3）。
-# 2026-10-20 改訂5：改訂1（Codex の多数に合わせた50か所）を画像で1つずつ見直した。47か所は確かめられたので残し、3か所（a_L26 #25、b_L19 #16、c_L24 #22）は確かめられないので fx に戻した。一覧は second/RESULT.md の追記4。
+# 修正の記録（2026-10-20）：Codex による照合（second/run0/）の食い違いを見て直した。残したのは画像を拡大して確かめた修正だけで、確かめられなかった修正は元に戻した。箇所の一覧は second/run0/RESULT.md。

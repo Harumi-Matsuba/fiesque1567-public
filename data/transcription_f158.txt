@@ -1,5 +1,5 @@
 # BnF fr.15919 f.158r（「29 octob. 1569 Vienne」「du comte de Fiesque au Roy」。本文は Sire で始まる）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
-# 画像：gallica/full/v163.jpg の右ページ。行の画像は work/trackline.py で second/img/d_L01–d_L23 に作った（行をたどって傾きを補う）。
+# 画像：Gallica btv1b90573568 コマ163の右（原寸）。行の画像は src/trackline.py で作った（行をたどって傾きを補う）。
 # 記号名と十字形の扱いは transcription_f039r.txt と同じ（⊢＝|-、t 形＝fx、太い＋＝+、⊣＝-|）。「ıg」は q9 とした。
 # c01 の前は平文「Sire, Jay receu vos lres du … et … de ce moys.」
 c01: .Il .ri .ol // fu a n C // fx ++ v f a

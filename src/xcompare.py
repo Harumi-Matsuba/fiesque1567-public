@@ -1,5 +1,5 @@
 # 私の書き起こし（transcription_*.txt）と、Codex の書き起こし（second/out/pass*_<頁>.jsonl）を行ごとに並べて比べる。
-# letellier1644/work/xcompare.py と同じ考え方（記号の並びを編集距離で対応させ、一致・食い違い・3回の多数を数える）。
+# 記号の並びを編集距離で対応させ、一致・食い違い・3回の多数を数える。
 # 無効字（私の .xxx と au、Codex の [..]）は比べない。
 # 使い方: python3 src/xcompare.py > 出力.tsv（集計は標準エラー）。前の照合（second/run0）用。書き起こしはその後に直したので、いまの data/ と比べると second/run0 の数字とは合わない
 import sys, re, json, glob, collections, os

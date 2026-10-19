@@ -8,17 +8,17 @@ The key is Satoshi Tomokiyo's reconstructed table (rows marked `table` in data/k
 
 ## Figures per letter
 
-| Letter | Date, addressee | Gallica view | Lines | Signs | Signs with a value (table+inferred / table only) | Control: true key / best of 1000 shuffled keys (table+inferred) | Same (table signs only) | Independent second transcription (value agreement) | Level |
+| Letter | Date, addressee | Gallica view | Lines | Signs | Signs with a value (table+inferred / table only) | Control: true key / best of 1000 shuffled keys (table+inferred) | Same (table signs only) | Independent second transcription (value agreement) | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| f.39r | 6 March 1568, Vienna, to the Queen Mother | view 43, right | 28 | 1182 | 99.4%／92.7% | -3.464／-4.805（0/1000） | -3.236／-4.327（0/1000） | 76.1% | B |
-| f.39v | (continuation of f.39r) | view 44, left | 19 | 729 | 98.4%／92.9% | -3.328／-4.743（0/1000） | -3.036／-4.435（0/1000） | 82.4% | B |
-| f.79r | 17 July 1568, Vienna, to the Queen Mother | view 83, right | 24 | 802 | 99.6%／93.3% | -3.141／-4.756（0/1000） | -2.945／-4.289（0/1000） | 81.5% | B |
-| f.94r | 14 August 1568, Vienna, to the Queen Mother | view 99, right | 25 | 867 | 99.9%／92.5% | -3.081／-4.592（0/1000） | -2.868／-4.253（0/1000） | 91.9% | C |
-| f.100r | 4 September 1568, Vienna, to the King (endorsed "au Roy"; the text begins "Madame") | view 105, right | 27 | 996 | 99.7%／94.1% | -3.254／-4.677（0/1000） | -3.089／-4.446（0/1000） | 87.5% | C |
-| f.158r | 29 October 1569, Vienna, to the King | view 163, right | 23 | 846 | 99.4%／92.1% | -3.091／-4.639（0/1000） | -2.873／-3.979（0/1000） | 90.5% | C |
+| f.39r | 6 March 1568, Vienna, to the Queen Mother | view 43, right | 28 | 1182 | 99.4%／92.7% | -3.464／-4.805（0/1000） | -3.236／-4.327（0/1000） | 76.1% | partial |
+| f.39v | (continuation of f.39r) | view 44, left | 19 | 729 | 98.4%／92.9% | -3.328／-4.743（0/1000） | -3.036／-4.435（0/1000） | 82.4% | partial |
+| f.79r | 17 July 1568, Vienna, to the Queen Mother | view 83, right | 24 | 802 | 99.6%／93.3% | -3.141／-4.756（0/1000） | -2.945／-4.289（0/1000） | 81.5% | partial |
+| f.94r | 14 August 1568, Vienna, to the Queen Mother | view 99, right | 25 | 867 | 99.9%／92.5% | -3.081／-4.592（0/1000） | -2.868／-4.253（0/1000） | 91.9% | full |
+| f.100r | 4 September 1568, Vienna, to the King (endorsed "au Roy"; the text begins "Madame") | view 105, right | 27 | 996 | 99.7%／94.1% | -3.254／-4.677（0/1000） | -3.089／-4.446（0/1000） | 87.5% | full |
+| f.158r | 29 October 1569, Vienna, to the King | view 163, right | 23 | 846 | 99.4%／92.1% | -3.091／-4.639（0/1000） | -2.873／-3.979（0/1000） | 90.5% | full |
 
 - Control: in 1000 keys with the letter values shuffled, none gave a more French-like text than the true key, for every letter. French-likeness is the mean log-likelihood of letter trigrams built from the top 50,000 French words of wordfreq (src/control.py).
-- Level follows this repository's publication criteria ([METHOD.en.md](METHOD.en.md) §8: C "full reading" needs, among others, ≥85% agreement with the independent second transcription; B "partial reading" needs ≥70%). Even in letters meeting C, most lines are marked "inf." below and include word division and filled-in spelling.
+- Status follows [METHOD.en.md](METHOD.en.md) §8 (full reading needs, among others, ≥85% agreement with the independent second transcription; partial reading ≥70%). Even in letters meeting the full-reading criteria, most lines are marked "inf." below and include word division and filled-in spelling.
 - Marks: "dir." = the key output reads directly as words. "inf." = includes word division, filled-in spelling, choosing s/p for the y-shaped sign, or re-reading similar signs. (?) = unread or a guess. [ ] = supplied letters.
 
 ## f. 39r–v (6 March 1568, to the Queen Mother)

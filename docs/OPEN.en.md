@@ -7,7 +7,7 @@ Undecided and conjectural points in the transcription and reading of the five le
 ## 1. Values of signs
 | Sign | Current treatment | Basis | Open point |
 |---|---|---|---|
-| y-shape with a loop (v and 3p in the transcription) | read as s or p from context | Tomokiyo's table has separate signs for s (v) and p (large ʒ) | At this image resolution the two shapes could not be told apart (38 places enlarged, second/run0/RESULT.md, addendum 3). The v/3p distinction in the transcription is contextual, not a reading of shape. In the comparison with the independent second transcription both are treated as one class (value s/p) |
+| y-shape with a loop (v and 3p in the transcription) | read as s or p from context | Tomokiyo's table has separate signs for s (v) and p (large ʒ) | At this image resolution the two shapes could not be told apart (38 places enlarged, second/run0/RESULT.md, section on ⊢ and the y-shape). The v/3p distinction in the transcription is contextual, not a reading of shape. In the comparison with the independent second transcription both are treated as one class (value s/p) |
 | ⊸ (arrow) | no value | f. 39r c20 "beau fils du comte ⊸" | Conjectured to stand for "Palatin" (Johann Wilhelm's father-in-law was the Elector Palatine). Few occurrences |
 | ρ (rho) | no value | 5 occurrences | Probably a vowel; no decisive evidence (likelihood differences < 0.01) |
 | K (ꝑ with a thick bar) | no value | 7 occurrences | as above |

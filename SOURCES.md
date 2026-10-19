@@ -14,7 +14,7 @@
 ## 鍵
 - 友清理士（Satoshi Tomokiyo）「French Ciphers for German (and Eastern) Affairs」、Cryptiana、https://cryptiana.web.fc2.com/code/frencheastern.htm （2026-03-15 版、2026-10-20 に参照）。復元表の画像 easternScipion.png。data/key.tsv の table の値は、この表を記号名に置き換えたもの。
 
-## 先行の確かめ（解いた側のセッションによる、2026-10-19〜20）
+## 先行の確かめ（読み手自身による、2026-10-19〜20）
 | 先 | 版・日付 | 結果 |
 |---|---|---|
 | Cyphersolver（D. Bourdeau） | origin/main 0258b8a（2026-10-18）、issue・PR 46件、公開ページ（2026-10-19）、フォーク10件 | 15919・Fiesque の解読なし |
@@ -26,7 +26,7 @@
 | Web 検索（英・仏） | 2026-10-20 | 該当なし |
 
 - 調べていない先：DECODE の検索画面、pangoleen/cipher-readings、Lasry の論文一覧、BnF fr.17020 f.227–228（この巻の明細）。
-- 解いたのとは別のセッションによる、否定するつもりの先行の確かめ（docs/PRIOR_CHECK.md）は、まだしていない。上の範囲で先行の解読が見当たらないというだけで、「初めて」とは言わない。
+- 読みにかかわっていない調べ手による、否定するつもりの先行の確かめ（docs/PRIOR_CHECK.md）は、まだ済んでいない。上の範囲で先行の解読が見当たらないというだけで、「初めて」とは言わない。
 
 ## 使った道具
 - wordfreq（仏語の語の頻度、対照実験の模型）
