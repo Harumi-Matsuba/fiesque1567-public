@@ -1,0 +1,28 @@
+# BnF fr.15919 コマ130の左（f.124v、1568年12月2日の書簡の続き）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ130の左（原寸）。行の画像は src/trackline.py（ai_L01–ai_L25）。行頭「Il ti ol」は無効字。
+c01: .Il .ti .ol -| o T ++ q9 C b -| a fx a fu fu |- fu tri P o vd a fu -| a 3n vbar |- fu ++ tri T
+c02: fx a =23 b o vd o T pi a x 1 fx vbar o 3n vbar f b -| a q9 b fu fx P fu q9 a
+c03: .Day // fx a =22 tri a v fu tri T fx ++ vd v -| // 3n b -| a pi |- fu tri //
+c04: x // 1 fx vbar fs + q9 T C o v fx ++ 3n T H# pp tri fx a T =23 // v a fu o 3n fu a -| T C o T
+c05: v -| tri 3n fx a T P // =ll a vd // tri m 3n a // pp tri 3n =23 v 3n o b ++ s // H# o 3n vbar
+c06: // 3y b a // q9 vbar -| a 4 o =ll a T vbar // 3n vbar b fu pi =22 P fu =ii 3n a fu ++ fu C 3y
+c07: b -| ++ 1 fx vbar =23 v f -| tri 3n T a f vbar ++ =ff // v tri ++ 3n b a 3y // H# a vd 4 C lf
+c08: T ++ q9 + 3y fx ++ q9 =ll a q9 -| b o P a pp // 3n b -| a C o v // tri T b o C a vd v tri -| a
+c09: .Il .ti .ol tri a q9 ++ fu T // 3y o T fx -| tri v vbar fx ++ =ii a // q9 ++ 1 fx vbar x // 1 fx vbar
+c10: a 3n vbar // f b -| a // q9 C o m // vbar fx ++ vd a 3n b ++ 3n =23 3n a T tri 3n f ++ q9 o -| ++ 1 vbar
+c11: // q9 fx fu 3n a fx L ++ T a vbar ++ q9 fx L // 3n vbar C // -| a =ll tri m 1 ++ 3n =10 =23 // q9 ++ 1 fx vbar
+c12: P ++ s a fx ++ 3n m a // q9 b o v fu vbar a v |- fu tri T a b s fx fu ++ tri a 3n vbar
+c13: // H# a vd 4 C o -| // C // T // tri 3n fx vbar vd // -| vbar tri f .Day =10 =22 |- fu // 3n vbar
+c14: // fu x // 1 fx vbar b fu vd // -| tri // 1 m a tri C 3n a T a f v // -| C o -| // .bro
+c15: tri q9 T fx fu a T // fx a =23 // 3y a o q9 3n ++ q9 fu a =ll o T b o C // -| fx L o b fu fx
+c16: n L // -| C o T .Day .par .La tri a fx -| ++ tri T |- fu // fu -| a v f a fu
+c17: b o T fx ++ q9 fu -| tri -| b fu fx ++ T vbar a b o T v // tri m 3n a =22 P C o =14
+c18: C tri f vbar a 3n vbar tri ++ f b fu =ii .Il .ti .ol tri C 1 =23 v C // tri -| // vd // b fu o -| vbar 1 -|
+c19: fx ++ =ii a tri P vd a b ++ tri fx vbar v m ++ q9 fu o -| 3n a beta fx // -| tri o q9 a ++ tri T
+c20: 4 tri o 3n =23 3y // b q9 fx L // 3n C a vd a 3n vbar fs ++ fu vbar a T x ++ tri T // fx a =22
+c21: tri a v fu tri T 1 q9 m a -| C tri 3n vbar a f fs tri ++ 3y b a pi 1 =14 =22 T tri Dz
+c22: a T v ++ ptil v a T // x tri =ll a // tri T 3n lf .Day =22 pi a T v fx fu T a // q9 H# tri C //
+c23: T o fx q9 3n b a tri a v o 3n T a |- fu // fu -| a vbar ++ q9 -| P o C // -| fx L o b fu fx
+c24: C o vbar ++ fu fs T o -| // -| o T ++ fu C fu .Il .ti .ol
+# 暗号はここまで。続く平文：Il ti ol (無効字) Madame la fin apres avoir prié le Createur vous donner …、De Spire ce 2 de Decembre 1568。署名 Scipione Fiesco。
+# 2026-10-20：画像で全行を見直して書き直した（三角 ▲ を tri（i）として a と分けた、⊢ꝑ（qu）を t 形と書いていた箇所、行の区切りを画像の行に合わせた（今は24行、ai_L01–ai_L24。ai_L25 は平文）など）。単独の斜線は書かず、二重の斜線（a）だけを書いた。

@@ -1,0 +1,35 @@
+f079-071	B	u-like at line end (triangle over u)
+f079-072	A	short upright stroke
+f079-073	B	filled triangle
+f079-074	B	small o-like pair (unclear)
+f079-075	A	slanted pair
+f079-076	B	slanted pair
+f079-077	A	small filled triangle
+f079-078	A	looped s-like 8
+f079-079	B	slanted pair
+f079-080	B	small t with bar both sides
+f079-081	B	slanted pair
+f079-082	A	slanted pair
+f079-083	A	f with crossbar
+f079-084	A	slanted pair
+f079-085	B	n shape
+f079-086	B	slanted pair
+f079-087	A	3 with tail
+f079-088	B	thin plus
+f079-089	B	n shape
+f079-090	B	filled triangle
+f079-091	A	u-like (triangle over ru)
+f079-092	A	a
+f079-093	A	slanted pair
+f079-094	B	stem with left arm
+f079-095	A	ic group
+f079-096	A	slanted pair
+f079-097	B	slanted pair
+f079-098	B	slanted pair
+f079-099	A	slanted pair
+f079-100	A	slanted pair
+f079-101	B	a with long tail dash
+f079-102	A	y (several signs between, ambiguous)
+f079-103	B	slanted pair after y
+f079-104	B	stem with left arm
+f079-105	B	ig-like stroke plus tail sign

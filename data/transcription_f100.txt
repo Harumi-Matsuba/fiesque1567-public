@@ -31,3 +31,4 @@ c26: vbar o 3n // f fs fx o fx 3n x tri C 3y 1 C q9 -| // 3y // vd 3y T fu -| fx
 c27: 1 C fx tri o 3n vbar =22 T ffx tri C o 3n q9 ++ 3y a -| ++ 1 fx o f a T v // tri m 3n a =22 C |- fu a C
 # c25 の後半「La Dao par moy ro rrru」と c26 の「Jay」は平文の字の並び（無効字と推定）なので書いていない。
 # 修正の記録（2026-10-20）：Codex による照合（second/run0/）の食い違いを見て直した。残したのは画像を拡大して確かめた修正だけで、確かめられなかった修正は元に戻した。箇所の一覧は second/run0/RESULT.md。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

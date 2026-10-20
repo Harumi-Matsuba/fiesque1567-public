@@ -1,0 +1,32 @@
+# BnF fr.15919 コマ7の右ページ（f.3r、コマ7左の続きと推定）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ7の右（原寸）。行の画像は src/trackline.py で作った（o_L01–o_L25）。区切りの縦線と抹消が多い。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。抹消された記号は書いていない。
+c01: T o n fx fu -| ptil // v + 3n 4 o v + 1 3n vbar 8 C pi a b 1 fx vbar =23 // 4 1 o 3n
+c02: fx H# z 3n o fu vbar + fu vbar n o fu // // u vbar =22 b tri a ptil T n // 1 vbar Dz pi o
+c03: 8 fu // a fu fs + ptil v 1 H# fu -| v b o T 1 -| P o q9 + 1 -| n -| o v vbar 1 a 3n vbar o
+c04: a f 4 H# s a ptil f 3y + 3n a vbar pi // b 1 fx vbar b o -| a n L o x =23 3y
+c05: v a 3n v o -| + 1 fs vbar =10 4 1 a 3n vbar + v fs vd a c // 1 =ll o -| + 1 -| vbar -| a v v + 3n n o
+c06: 8 fu vd // T a vd 4 fu o =23 // v -| 1 3n v m + fu vbar a 3n n o f -| H# v ++ v
+c07: vbar + fu fs o H# + 1 v 3n o f v fx fu ptil H# 3n v beta 1 a 3n 1 b 1 -| a 8 ptil v =22 T
+c08: // z 1 fx fu + 3n // 3y a o fu v // -| a v v + 3n n o a vbar =20 n o 8 // 3y -| a vbar o 3n
+c09: fu a f + fu =rr 1 a -| fu =20 fx fu ptil v a 3n o 3n fu + 3y a -| fu // beta o v fx C ptil vbar 1 H# 3n
+c10: =10 =18 // 3y a v n 1 v vbar fx o v vbar a p a vbar vbar -| a // pp 1 3n =22 3n o =18
+c11: vd a vbar fs 1 o v u 3n v a 1 f o b o v tri m -| // 3n P fu + 3n z ptil a fu -| P o v ptil 1 v
+c12: pi // =20 b 1 fx vbar =23 // fu fx -| H# 1 fx vbar + ffx // v 1 + 3n b o v a v fu // 1 3n b -|
+c13: P fu -| + 3y b o v vd // fu ptil 1 T fx ++ pp 1 n a v =22 v fx 3n // vd 4 11 H# // b o fu
+c14: 3y // 1 fx vbar fx H# 3n T vbar // f vbar 1 3n fx 4 fu o n + 3n vbar -| a fu fx 3y vd // v
+c15: =22 =20 n a fu // 8 C 3n o v a v fu // 1 3n vbar v + 1 fs fx vbar n -| 8 fu 3n o C a
+c16: ptil a fu C vbar n -| H# 1 fx o 8 o fu ptil 3y b 1 fx vbar v =22 n o =23 vd o ptil a 3n + 1 fx vbar b
+c17: P 1 -| o P o v fu // fu C vbar o -| o x + 3y v =22 8 o v vbar + tri v 8 n 3y fu +
+c18: a f x // 1 v + 1 fx vbar fx + ptil -| 1 -| vd o v pi a 4 -| fu 1 fx vbar =22 fu // vd c 11 H# // b o fu
+c19: b fu -| fx 3y v H# fu ffx + 1 fx vbar // n + 3n v vbar // f vbar 1 3n + 4 fu a fu o fs q9 -| f fx
+c20: ptil a 3n 1 -| // fu P + vd pi // 1 m o b o v // pi // z o T vbar u fu // =22 =ll o n L + v o
+c21: 1 4 + 1 fx vbar x fx -| vbar C + 1 3n m vbar // 1 3n o b -| fu // ptil u -| 1 vbar o =10 =22 8 o
+c22: fu o v -| 3y + 1 v b o pi a =23 n o fx 1 a 3n P a 3n a n -| + 1 -| o C o v
+c23: vd // fu 1 3n v a vbar =23 o 3n 3y // v -| fu o vd + 3n b a fx fu 1 3n o n L a -| fx L o 3n vbar
+c24: =22 fu // b o v fu f 3y + 3n b a C fu 3y a vbar P ptil -| + 3y fu fu
+c25: beta a vd + 3n v vbar -| // f vbar v // -| f p fu T 1 a ptil -| v -| // 1 v + 3n T =22 =10
+# 暗号はここまで（ページの終わり）。抹消の記号は書いていない。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：v007r-100（消した 1）は、隣の v007r-101 で C を =10（ıc）に直したので、ı は =10 の一部。消したままにした。
+# 2026-10-20：上の確かめで直した箇所のうち、追加の読み手の Codex が1回目の読みを選んだ 4 か所（v007r）は、読み手がそろわないので元に戻した。

@@ -1,0 +1,12 @@
+as_L01	
+as_L02	
+as_L03	
+as_L04	lf 1 fx o lf a // 3y + a vbar a 3n fu o fx ++ rt =rr tri a 1 z o rt ++ fu v vd // 3n
+as_L05	vbar // -| p ++ 3y C // -| a T y ++ 3n + u =22 pi a x o + 11 x T 1 p + lf a =22 tri o pp ptil 3y // z // 3n
+as_L06	tri o vbar ++ y n 1 // 3n o fx a =22 vd a T + beta a lf 1 p a y tri a T fx o -| tri pi ++ 3n tri a y =23 a 3n
+as_L07	fs // 3n tri =22 fx o x // n a lf o // 1 p pi // -| tri 11 m a // H# tri f =22 y 1 o 3n tri a y [par moy]
+as_L08	-| a T ++ C ptil vbar tri ++ 3n tri 3y a 3n fu ++ 3y o beta vbar a fu f a -| T ++ s // tri z a =23 // y f // -| vbar tri a f
+as_L09	L -| // P a o L a C o =22 p vd // tri a fx o =22 vd a 3n -| // f tri H# // 4 tri a 3n vbar ++ T vbar [par la]
+as_L10	-| a T y ++ 3n fx a u -| a T ++ C ptil vbar tri ++ 3n c // =22 =ll a // 3y // 3n vbar a ptil o tri a 3n o x // tri =ll tri -| // z
+au_L01	1 s a 3n fu ++ 3y o beta tri 3n fx ++ lf o tri 3n // f vbar y // + C o L tri a vbar fx ++ 1 p =rr tri a lf beta H# fx 1 o C
+au_L02	

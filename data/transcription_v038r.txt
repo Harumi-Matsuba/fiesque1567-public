@@ -1,0 +1,12 @@
+# BnF fr.15919 コマ38の右（f.34r、1568年2月15日の国王宛の書簡の続き）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ38の右（原寸）。行の画像は src/trackline.py で作った（w_L01–w_L09）。行頭の抹消の字は書いていない。
+c01: // fu H# tri x fx 3n vbar v C fu T tri o ptil -| v // fu C vbar -| o T =22 -| o T vbar -| fu 4 C rho T
+c02: vbar // 3n vbar b o x -| // 3n fx o =22 P o x C // 3n b fx -| o v 3n o v fx -| vbar o 3n vbar // C // x tri 3n
+c03: fu 3n o m -| // 3n b o -| ptil 3y 3n o // C // C ptil u vd // 1 m 3n o =10 C rho b fx -| vbar b fu fx
+c04: P // C 4 o vd fx 3n T vbar -| o // fu fx 1 -| T fx ptil v v ++ 3n b o =22 fu =22 -| o 4 a =ll tri fx 3n
+c05: o 3n x C // 3n b fx -| o v v // 4 fx o =23 x // 1 fx vbar fu 3n o m -| // 3n b P o T v a 3n fx o
+c06: o 3n // =ll a vd // 1 m f o -| fx fu tri a // b o tri // x // 1 fx vbar C o fu a -| b o T -| o 1 T vbar -| o T
+c07: =10 fx fu C vbar -| o fx a o 3n vbar -| o vbar tri a 3n vbar T o fx -| o vbar fs o vd a 3n vbar v C fu T tri o fu -| T
+c08: fx // v f tri vbar // 1 3n o T b o m a 3n v b o fx L o fu // C =10 P o v 1 a P z o o T vbar -| o
+c09: v -| o T vbar v fx fu // 3n vbar tri C C o T vd // 3n b o -|
+# 暗号はここまで。続く平文：Je n'ay encore la …

@@ -76,7 +76,7 @@ P	d	inferred	Þ 形。f.39r の d'une・de で一致
 .bro	(null)	inferred	行頭・行中の「bro」。平文の文字の無効字（Tomokiyo の nulls 欄の「…」に当たると推定）
 vd	m	inferred	「ʊd／vd」の続け書き（Tomokiyo の ω̃ の崩れかもしれない）。Guillaume・amené で一致
 rt	l	inferred	上に波線のある r 形（f.39r c04 の行頭。luy）
-rho	?	inferred	ρ 形。値は未定
+rho	e	inferred	ρ 形。コマ35「l(ρ)empire」「l(ρ) royaulme」で e（2026-10-20）。それ以前は値なし
 au	(null)	inferred	行頭の「au」形（f.39r c08）。平文の文字の無効字と推定
 K	?	inferred	太い横棒で消したような ꝑ 形（f.39r c08）。値は未定
 tt	o	inferred	2回目の書き起こしで Codex が H#（Tomokiyo の # に近い形＝o）と読んだ。f.100 c05「vingt jours」で o が合う。元の注：「ŧŧ」形（横棒つきの t が2つ）。値は未定（assez の ss か）
@@ -89,7 +89,8 @@ Dz	?	inferred	「ꝺʒ／Đʒ」の続け書き。f.39r c18・c21・c24。値は
 .La	(null)	inferred	平文の「La」（同上）
 .Day	(null)	inferred	平文の「Day」（f.158 c14、Dav Day）
 fs	t	inferred	f.100「intention」「tenant」、f.158 の尤度の比較（tryval.py の1位）で t。元の注：「ꝭs／fs」形（f と s が続いた形、f.158）。Tomokiyo の ss（ff 形）か。値は未定
-pp	?	inferred	「ꝑꝑ」形（p が2つ並んで横棒で結ばれる、f.158）。値は未定
+pp	ff	inferred	「ꝑꝑ」形（p が2つ並んで横棒で結ばれる、f.158）。Tomokiyo の ꝥ（ff）の崩れと推定。値 ff はコマ125右「profite」・コマ149右「affec…」の文脈から（2026-10-20）
 =16	ce	inferred	数字 16（Tomokiyo の表にない）。f.39v「dommaige 16 royaulme」、f.158「de 16 royaume」で ce と読める
 .fi	(null)	inferred	平文の字の組「fi」（f.79、fi of）
 .ti	(null)	inferred	平文の字の組「ti」（f.94・f.158、ti ol）
+.Dao	(null)	inferred	平文の字の組「Dao」（f.79v）

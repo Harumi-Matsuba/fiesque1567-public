@@ -1,0 +1,44 @@
+[
+{
+"id": "v008r2-001",
+"line": "q_L02",
+"row": 1,
+"pos": 20,
+"before": "a f b",
+"after": "a vbar fx",
+"A": "mine",
+"B": "codex",
+"textA": "\"tri\"",
+"textB": "\"a\"",
+"mine": "tri",
+"codex": "a"
+},
+{
+"id": "v008r2-002",
+"line": "q_L02",
+"row": 1,
+"pos": 21,
+"before": "f b tri",
+"after": "vbar fx -|",
+"A": "mine",
+"B": "codex",
+"textA": "\"a\"",
+"textB": "\"vd\"",
+"mine": "a",
+"codex": "vd"
+},
+{
+"id": "v008r2-003",
+"line": "q_L02",
+"row": 1,
+"pos": 24,
+"before": "a vbar fx",
+"after": "u pi a",
+"A": "codex",
+"B": "mine",
+"textA": "there is no sign here (only a thin separator line, a gap, or nothing)",
+"textB": "there is one sign \"-|\" here",
+"mine": "-|",
+"codex": "-"
+}
+]

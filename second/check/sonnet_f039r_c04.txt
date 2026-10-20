@@ -1,0 +1,35 @@
+f039r-141	A	thin faint // between t and y
+f039r-142	A	tall long-s stroke with curl, tail below line
+f039r-143	A	small filled triangle
+f039r-144	B	faint // before the 1
+f039r-145	A	faint // between y and t
+f039r-146	A	// before wide pi
+f039r-147	B	t with bar after separator
+f039r-148	B	2-shaped crescent with loop
+f039r-149	A	small o under big diagonal
+f039r-150	A	faint // after t
+f039r-151	A	3-shaped sign with tail
+f039r-152	B	t with bar both sides
+f039r-153	A	faint // between p-bar and y
+f039r-154	B	thorn-like stem with loop at top right
+f039r-155	A	faint // after v
+f039r-156	A	short upright with small hook
+f039r-157	B	small round sign with cap bar
+f039r-158	B	2-shaped C with faint loop; neither fits well, c closer
+f039r-159	A	faint // before x
+f039r-160	B	short upright 1 before 3
+f039r-161	B	3-shaped sign after 1
+f039r-162	B	2-shaped with big faint loop
+f039r-163	B	p-like rho with curved stem
+f039r-164	B	H-like two uprights with bar
+f039r-165	B	// with dots near
+f039r-166	B	plus with stem above and below
+f039r-167	B	2-shaped with big loop
+f039r-168	B	short upright stroke
+f039r-169	B	nothing between cap-o and b
+f039r-170	A	looped script L after o
+f039r-171	B	faint //
+f039r-172	B	faint // after 7
+f039r-173	A	faint // after x
+f039r-174	B	2-shaped with big loop
+f039r-175	A	faint // after x

@@ -1,0 +1,28 @@
+r_L01	fx pi // L // vd o tri a y ptil pi 1 y a n y // fx vbar o 1 d a 3n vbar L o pi + 3n T 1 a fu + L a a tri m 3n o
+r_L02	1 H# =ll o y [] =22 3y x p vbar ptil u fx 1 L fx fu tri a a T vd o tri a fx u lf pi + 3y T u a vbar rho o z z p
+r_L03	// =ll 11 3y // fx fx a fx tri o fu a fx y a fx 1 fu fx L o =phi u C f o T vbar y fu 1 fu o 3n fu // fu vbar 1 a fx lf + T a
+r_L04	C o vbar + 1 fu 1 fx vbar fx H# fu 1 fx 1 fx vbar o 3n a u fx fx o T vbar a fu a 7 o =23 fx a C o fu + 1 fx vbar
+r_L05	c a fu n + y b o z a 3n T tri a y 1 a K C c vd o + lf u fu // p o 3n // =ll o pi // 1 m 3n a z o // =ll o 1
+r_L06	T a fx 3n fx 1 // 3n + u o 3n x // fu o fx + tri o n a fu C o lf a + fu 1 fu f vbar u u y 1 tri 3n T C o y
+r_L07	// 4 o L 1 vd a T + ++ f vbar 1 o =rr =ff s o 3n // 3y f // + C o // =inf~ + fu 1 pi // tri tri fx vbar
+r_L08	=23 o T vbar + 1 n vbar // tri fu o fx 1 vbar 3y b o =22 C + fu a // fx fx o 1 =rr 4 C lf tri o m a 3n T
+r_L09	pi // 1 T =23 o T y a fx ++ 1 f vbar =22 + rt // 3n tri T o y Dz 1 vd // 3n b o pi a f vbar y T o 1 H# 1 a 3n o
+r_L10	ptil u fu 3y c a u =22 y a + T ++ s a f 3y + y o 1 H# 1 fx vbar c c L o T + 4 a tri + 1 c c =22 + tri o 3n
+r_L11	3n + T vbar tri C o 3n // fu + // 3n + fu ptil u =ll a T L a =23 o T vbar c 1 a 3n fu 1 // 3y =22 + 3n
+r_L12	tri C fu 3y // o y + 1 y vbar =22 // C // tri o 1 H# + 4 lf tri p T o f fu // 1 fu o c =22 T y H# fu L // vbar y
+r_L13	o 3n x 4 // f + a pi // 1 y 3n + f b o + ++ vd y // 1 m 3n tri o T Dz y C o f 3n vbar a y c c
+r_L14	C // 4 n a =22 tri o C ptil 3y b 1 1 T + 1 y =22 // fu y // 1 T tri ++ b fu + b o ?{phi-like} a c b fu fx H# 1 d vbar
+r_L15	-| n a x // 1 T + 1 a 3n vbar n a T // pi // vbar y tri p vd // tri 1 fx vbar =23 // o T n + 1 rho vbar //
+r_L16	fx u T b o fu vbar y // fx vbar 1 n fu =ll 1 a + 1 o a y u 3n vbar b o 4 H# s o a f + -| o 3n H# 1 beta a
+r_L17	a vbar =23 o T y o 1 a fx fu tri a C y 3n a fu H# ptil C b + ++ f vbar + H# 3n vbar + o fu a 3n 1 +
+r_L18	// C o ptil 1 f x H# 3y 3n o // b + a =22 3y y + f vbar s fu 1 a c =22 tri vbar pi // 4 o fu 1 a
+r_L19	=22 + H# s o tri C pi // tri 1 fx vbar C c vbar // f 3n b o x + 1 y |- fu 1 C ptil o fu C vbar =22
+r_L20	y // + o vd y o 1 1 // 3n + u 3n + ++ 3n m f + 1 H# tri o y p // + ++ s o a 3n ++ 3y u =23 //
+r_L21	tri o 3n f 3n 1 o vbar a f 1 1 C + s a c u // Dz vbar 1 a o 3n fu a 1 T pi c c =23 3y
+r_L22	T n L o 1 vd 1 f a b fu 4 ++ 3n y 1 a b tri + 3n vbar tri a p // 3y 1 o pi a 1 + 3y o 1 a vbar
+r_L23	y + 1 a fx + H# 1 + a c c T // H# o fu 1 a 1 + =22 pi c c =18 // fu H# tri 3n // ptil 1 a y
+r_L24	pi + 1 f b 1 a // pp a + vbar 1 H# 3n f fu a 1 y p fu 3y tri C vd o b o pi // 3n tri o
+r_L25	vbar ++ fu T 1 + ptil 1 y + ++ s o ptil + 3n vbar C o T // pp // 1 + o y b a x 4 // 3n + u
+r_L26	vd // 1 T c c tri o 3n a C fu 3y f vbar T n // 3y =22 b 1 + o T 1 c C o y 3n + fu ptil o =ll a y
+r_L27	=22 f // fu + 3n y y // 4 tri a + // fu 1 a s o 3n vbar C // y p fu T m 4 // 3n L y // + vbar 1 a y // 4
+r_L28	C o vd + 3y o 3n b a fx L // 3n vbar + s // 3y pi vbar 1 a 3n vbar d6 + 3y ++ 3n o L 1 a vbar fs a

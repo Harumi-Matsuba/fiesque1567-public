@@ -1,0 +1,35 @@
+f039r-036	B	2-shaped with faint loop
+f039r-037	B	large hooked diagonal blob
+f039r-038	A	2-shaped with big loop
+f039r-039	B	faint double slash
+f039r-040	A	wide bold double loop
+f039r-041	B	2-shaped with big loop
+f039r-042	B	flat 3-like sign
+f039r-043	B	v with tail
+f039r-044	A	upright with left arm
+f039r-045	B	faint double slash
+f039r-046	B	h-like with long tail
+f039r-047	B	W-like thin pointed
+f039r-048	A	blackletter looped L
+f039r-049	B	stem with left arm
+f039r-050	B	2-shaped with faint loop
+f039r-051	A	rho-like
+f039r-052	A	double slash
+f039r-053	B	delta-like round with stroke
+f039r-054	B	looped L
+f039r-055	A	y with tail
+f039r-056	B	t cross both sides
+f039r-057	B	3-shaped with curl
+f039r-058	B	double slash
+f039r-059	A	double slash
+f039r-060	A	thorn-like
+f039r-061	A	t cross
+f039r-062	A	double slash
+f039r-063	A	wide bold double loop
+f039r-064	A	2-shaped with big loop
+f039r-065	A	double slash
+f039r-066	B	double slash
+f039r-067	B	plus-like cross
+f039r-068	A	upright with small left flag (unsure)
+f039r-069	B	single upright
+f039r-070	B	2-shaped with loop

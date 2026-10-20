@@ -1,0 +1,9 @@
+id	row	pos	mine	codex_reading	sonnet2	sonnet3	decision
+v008r-001	1	1	8	rho	mine	codex	keep:split
+v008r-002	1	8	x	C	codex	codex	fix:C
+v008r-003	1	9	fx	+	codex	codex	fix:+
+v008r-004	1	10	-|	+	codex	codex	fix:+
+v008r-005	1	28	x	C	codex	mine	keep:split
+v008r-006	2	2	8	rho	mine	codex	keep:split
+v008r-007	2	8	fx	+	codex	codex	fix:+
+v008r-008	2	12	-|	fx	mine	codex	keep:split

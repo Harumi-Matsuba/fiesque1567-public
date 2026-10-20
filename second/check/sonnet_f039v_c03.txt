@@ -1,0 +1,21 @@
+f039v-106	A	stem with arm to right at top
+f039v-107	A	faint two slanted strokes
+f039v-108	A	ic group
+f039v-109	A	thick blot
+f039v-110	A	y with tail below
+f039v-111	B	y with tail
+f039v-112	A	small triangle
+f039v-113	B	short stroke plus tall d-loop
+f039v-114	A	two slanted strokes
+f039v-115	A	capital T
+f039v-116	A	looped script L
+f039v-117	B	2-shaped sign with big loop
+f039v-118	B	t, stem above bar
+f039v-119	B	upright with arm right
+f039v-120	A	wide flat bold double loop with bar
+f039v-121	A	small t-cross, stem slightly above bar
+f039v-122	B	no sign between lr and a
+f039v-123	B	p with mark above
+f039v-124	B	hooked t-like
+f039v-125	B	symmetric small cross
+f039v-126	N	only tails from line above, no sign found

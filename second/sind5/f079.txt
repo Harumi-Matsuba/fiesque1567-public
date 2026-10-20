@@ -1,0 +1,24 @@
+e_L05	fx fu a C o T tri ptil 4 fx ++ // f m + // 3n b
+e_L06	o T n q9 3y a -| L a x P o + q9 H# tri fx vbar // =ll a fx o 3y a T y // tri m 3y o
+e_L07	C o fx ptil a fu 3n 1 + a f fx H# 1 o T y // fx vbar 3y 3n a // fu + q9 f fx H# q9 =rr tri o fx
+e_L08	tri a 3n // 3y y a q9 fs vbar // 3n L fx a // fx ptil H# 3y vbar tri a 3n fs fx o T vbar a C H# 3n m q9 a
+e_L09	P o pi a q9 p 1 n fu a o C // fx fx lf o tri fu fx n lf // fx C o T =14 q9 a 3n K tri a n 3y
+e_L10	y // fx C o fx // x u // fu + q9 3n y vd H# 3n vbar q9 H# K =ll fu P tri fx a =22 fx o T vbar
+e_L11	C o f fx // 3n P fx a vd a q9 fx o L a z a 4 a fx // vbar 1 H# 3n L 3y o 3n q9 H# c a fx
+e_L12	C y + q9 fx f fx tri o beta fx tri o 3n // H# a fx vbar q9 o ptil T a pi n 3n vbar H# C o C // lf a u
+e_L13	P o C tri q9 fx // 3n fx a L q9 3y fx tri 3n fx a =10 =23 fx o T vbar fs a 3n q9 =22 C fx K a T
+e_L14	y fx ++ fx H# y =22 C // fx n lf o b q9 fx n lf // fx C o T vd a T pi rho y o 3n pi fx o rt // 3n L
+e_L15	fx a q9 H# 3y // tri m a 3y // 3y 11 3n y x u C tri vd y a fx // vbar fx tri H# a x + 1 vbar
+e_L16	m fx // 3n L P o T tri fx =10 =14 // 3n T L o C tri 4 a fx o y L a vd y C H# 3y o fx
+e_L17	vbar H# fx q9 fs C o q9 fx y H# fu ptil ++ tri fx C o C // L o C tri q9 fx // 3n fx a L ptil P tri a fx vbar
+e_L18	y fx tri 3n fx a vbar H# q9 vbar o T x H# tri y tri o 3n a C a s y q9 tri T
+e_L19	// H# o q9 fx 1 a fx fx // fx C o T pi // 3n tri o vd a f vbar y o fs T H# 3n vbar y tri
+e_L20	T o fx fx 1 a vbar y =22 tri q9 T =22 T // fx o T vbar lf n q9 fx a tri o 3n o f // 3y fx tri o 3n T
+e_L21	y o q9 P o T n H# fu ptil fx tri fx P H# 3n vbar tri a vd a y q9 tri H# o // H# a q9 x
+e_L22	fx o beta =10 // q9 fx H# tri =22 tri a 3n o f // 3y // q9 T a vbar H# q9 fx lf o fx // q9 fx p 3n o
+e_L23	vd a 3n vbar // x fx o lf y // fx fx a =22 1 y // =rr o T vbar // pi a T // q9 K tri b o fx 3n tri a H# T
+e_L24	y fx ++ f + y =22 1 y o q9 vd a T o 3n y a pi fx C rho =22 // y fx o T =23 // q9 fx H# 1 fx vbar
+e_L25	L o C a fx lf u o 3n a T y // tri z L a =23 pi a L a tri fx H# 1 fx vbar o 3n fx H# vd 4 tri o 3n
+e_L26	P a pi o vd y T a y o 3n a T y o fx a fx H# 1 fx vbar // q9 + tri fx fx o T y H# 3n fx n =10
+e_L27	=22 3n o T vbar // 3n vbar o fs fx H# fx o T y o fx T H# s a f // fx vbar 3y =rr x C vd // T o vd
+e_L28	fx C o =22 T tri a 1 a q9 H# a o H# // 3y o L a 3n T fx // q9 H# tri fx =22 C 3y q9 a fx lf H# T a

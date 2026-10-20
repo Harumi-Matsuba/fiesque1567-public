@@ -9,7 +9,8 @@ sys.path.insert(0, os.path.join(ROOT, 'src'))
 
 from decode import load_key, load_lines, decode  # noqa: E402
 
-LETTERS = ['f039r', 'f039v', 'f079', 'f094', 'f100', 'f158']
+import glob
+LETTERS = sorted(os.path.basename(f)[14:-4] for f in glob.glob(os.path.join(ROOT, 'data', 'transcription_*.txt')))
 
 
 class TestDecode(unittest.TestCase):

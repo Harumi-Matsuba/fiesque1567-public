@@ -1,0 +1,16 @@
+[
+{
+"id": "v071ls-001",
+"line": "ab_L01",
+"row": 0,
+"pos": 12,
+"before": "tri o fx",
+"after": "-| ++ tri",
+"A": "mine",
+"B": "codex",
+"textA": "\"-|\"",
+"textB": "\"fx\"",
+"mine": "-|",
+"codex": "fx"
+}
+]

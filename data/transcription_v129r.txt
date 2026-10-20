@@ -1,0 +1,20 @@
+# BnF fr.15919 コマ129の右（f.124r、「2 Decemb. 1568 Spire」、王妃宛）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ129の右（原寸）。行の画像は src/trackline.py（ah_L01–ah_L16）。前の平文の結び「… autre guerre」の後に無効字「Il ti ol」。
+c01: .Il .ti .ol pi vd // b tri fx vbar =23 C fu 3y // o T vbar a n T fx -| tri v vbar =22
+c02: vd ++ 3n T tri a fu -| b // fu vd // =ll a T o f // =ll ++ 1 fx vbar // H# tri o m a -| q9 3n a fu tri =ll a
+c03: b fu P q9 fx q9 fu C v L // 3n m b o 4 // q9 1 a -| o T .par .moy =10 =22 T tri fx o =ll //
+c04: =14 ++ 1 fx vbar q9 beta // 3y =23 fx -| // tri m 3n + 1 fx vbar =22 vbar ++ q9 T C o v fx tri -| n fu =ll o T
+c05: .Day b o C a pi v tri -| a T a 3n -| o H# a 3n vbar tri H# a f vbar =10 3n o -| o vd q9 // v
+c06: T a 3n vbar fx L ++ v a |- fu tri =20 -| ++ 1 fx vbar 4 tri a 3n -| o vbar ++ q9 -| 3n o beta // q9
+c07: P ++ =mm // tri m a b fu -| ++ 3y .Dao .La tri o C fu 3y // 3y =22 tri a v o 3n T H# tri v =22 T tri
+c08: vd ++ 3n T tri a q9 -| b // q9 vd // C a o T vbar ++ tri fx vbar // =ll a // q9 vbar a pi o T b fu
+c09: P q9 fx fu fu C x // 3n =22 fx fu tri C fu // q9 -| // x // 1 fx vbar =20 C o b tri pi o -| vbar tri -| =23
+c10: 3n o pi a 3n // T vbar o f x -| // 3n fx a fx ++ 3n vbar -| a pi fx a T fu a =22 C o fx -| q9 1 vbar
+c11: n ++ q9 -| H# tri fx vbar =23 // H# o vd fx C ++ 1 fx vbar .Il .ti .ol tri C vd // b tri fx vbar =23
+c12: vbar -| ++ q9 fu + 1 fx vbar 4 tri o 3n C + f |- fu ++ 3n o f v a T fx L // =22 // fu fx q9 3n o T
+c13: x ++ -| fx a T 3n // =ll 11 H# a 3n vbar fx ++ 3n vbar -| a pi n =23 T a b a fx q9 -| ++ 1 fx vbar n
+c14: pi a vbar fs -| a 4 ++ 3n ++ beta b -| a n b tri =ll 1 m a 3n fx a o f fx a x // 1 fx vbar vd // 1 T
+c15: =22 b // =ll a -| // H# tri o m a -| C o T vbar a pi o T // 3y f // -| vbar o 3n // f vbar a T //
+c16: C a vd v tri -| a tri fu b ++ fu fx vbar a =22 fx a 3n o T ++ tri fx vbar ++ ffx // v tri ++ 3n b tri =23
+# 暗号はここまで（ページの終わり）。続きはコマ130の左。
+# 2026-10-20：画像で全16行を見直して書き直した（三角 ▲ を tri（i）として a と分けた、ŧ を ꝑ／ǂ と取り違えていた箇所など）。単独の斜線は書かず、二重の斜線（a）だけを書いた。ŧŧ は形どおり H#（o）としたが、この手では ss かもしれない（未定）。

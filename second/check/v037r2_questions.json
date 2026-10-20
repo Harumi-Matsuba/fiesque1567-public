@@ -1,0 +1,30 @@
+[
+{
+"id": "v037r2-001",
+"line": "x_L01",
+"row": 0,
+"pos": 31,
+"before": "o fu b",
+"after": "fu + y",
+"A": "codex",
+"B": "mine",
+"textA": "\"pi\"",
+"textB": "\"o\"",
+"mine": "o",
+"codex": "pi"
+},
+{
+"id": "v037r2-002",
+"line": "x_L02",
+"row": 1,
+"pos": 36,
+"before": "3n o -|",
+"after": "=ll a T",
+"A": "mine",
+"B": "codex",
+"textA": "\"++\"",
+"textB": "\"H#\"",
+"mine": "++",
+"codex": "H#"
+}
+]

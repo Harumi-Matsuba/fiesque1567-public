@@ -1,0 +1,24 @@
+# BnF fr.15919 コマ155の右（1569年10月1日、Passome?、王妃宛「du comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ155の右（原寸）。行の画像は src/trackline.py（ap_L01–ap_L22）。冒頭「Madame」の後の抹消は書いていない。記号名と十字形の扱いは transcription_f039r.txt と同じ。三角 ▲ は tri（i）、ℌ は 3n（n）、3 に似た尾つきは 3y（y）、ループつきの y 形は文脈で v（s）か 3p（p）。
+c01: q9 ++ fu v // q9 -| a 3y f a fu q9 a ++ tri -| n o T vbar -| a // vd 3y C o pi a 3n vbar
+c02: a T fx p // tri -| n 3y o 3p // -| fx a =ll o =22 q9 ++ fu v // 3y a 3n q9 ++ 3y a 3p // -| vd ++ 3n L ++ vd pi a =22 .La
+c03: b a v o T fx L // 3y C o vbar -| a 1 3p tri a T vd a P fu 3p // H# a P a fx o =22 vd a T fx -| tri v q9 a 3y f // -|
+c04: C // =16 b fu q9 tri 3n m vbar L q9 tri fx vbar tri a T pi o b fu pi ++ tri v P // ++ q9 T vbar b a -| 3n tri o beta .Dao
+c05: .moy b a |- fu ++ 3y 3n a q9 3p ++ q9 fu // 3n vbar // 3p -| a T o 3n vbar a T fx -| tri 3p -| a // q9 vbar -| a fx L ++ v a
+c06: x ++ -| v =22 tri a T fx // 3y // q9 fu -| // 3y =22 vd a H# tri a fu -| v b a fx L // 3n vbar ++ s // 3y n q9 // 3n a
+c07: m // ++ 3n vbar x // 1 fx vbar C -| // 3n b a tri 3n T vbar // f fx a C o vd 3y // q9 // 3n fu // 3n fx a -| C o v vd // -| tri // m a v
+c08: .Day .Dao .La C o T =22 fu 3y vbar ++ q9 vbar a T x ++ tri v 3n // q9 -| ++ tri a 3n vbar o f fx ++ -| a v -| tri a 3n v T fx a fu
+c09: beta a T ++ fu C b -| a T tri 3n ++ f |- fu ++ 3n // o fs // 3n b -| // C o fx ++ q9 =rr tri a -| =22 tri a 1 =mm // 3y a T fx -| tri
+c10: 3p vbar =22 pi // b a -| 3n tri a -| o vd a 3n vbar b a v o T fx L o a 3n o T v // tri m 3n a C a =22 fu 3n a
+c11: T fx // q9 -| ++ tri fx vbar a T vbar -| o 3p C fu T vbar fx v vbar |- fu // C // T // tri 3n fx vbar vd // -| vbar tri 3n fx vbar o
+c12: 3p -| ++ fx L // tri 3n a b a -| u vbar ++ q9 -| .Dao .Dao .La tri // 3y b tri fx vbar // pi fx a =22 vd // q9 a 3y
+c13: a T fx -| tri 3p vbar b a C o T vbar // fs b a v // x 1 3y v b fu pi P ++ 3n vbar tri fu // o T vbar a x ++ -| vbar
+c14: // tri T a vd a T pi o vd a 3n vbar =22 q9 ++ 3y x ++ -| fx a v T ++ tri a 3n vbar o f T a vd 4 C o C a =22 fu
+c15: vd // P tri fx vbar =23 // a fu 3n ++ q9 fu a =ll o v =22 q9 ++ 3p a s o vd 3y v ++ 3n vbar C a fu o C o T tri a m o
+c16: b a P o q9 // 3n vbar 3p ++ tri vbar tri vbar tri a -| v n b a T tri -| a P a 3n vbar // 3n b -| a =22 fu fx L o vd tri 3n tri fu 3p
+c17: ++ 3n vbar 3p -| tri 3n v n // q9 H# 1 =23 3n // 11 P q9 tri T =23 fx a x // fx o // q9 fx fu 3n a C o q9 f b a
+c18: m a 3n v a 3n // =ll o vd // tri m 3n a vbar ++ q9 vbar a T x ++ tri v =23 a T vbar // q9 tri T a =23 3y // 3p C fu T tri
+c19: a 1 q9 -| v tri 3n vbar a =ll tri m o f fx a v P o T =22 =ll o T tri 1 q9 T =22 v // fx a T vbar L o 1 q9 -| a tri fu 3n a
+c20: fx o T vbar -| tri a 3n v b a T fx ++ q9 fu a -| vbar tri fu vd ++ 3n T vbar -| a // q9 ++ tri -| m -| // 3n b .La
+c21: b a T tri -| P a q9 ++ tri -| pi L ++ -| v b a fx a v vbar -| ++ q9 fx C o v .Il .ti .ol
+# 暗号はここまで（ap_L21 の行末に無効字「Il ti ol」、ap_L22 は平文「Ne se presentant autre chose …」）。ŧŧ（H#）は c03「pa(ss)e」c17「a(ss)is」で ss と読める。

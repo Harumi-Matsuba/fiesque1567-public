@@ -1,0 +1,16 @@
+id	row	pos	mine	codex_reading	codex	sonnet2	sonnet3	decision
+f039r5-001	2	40	q9	fu	mine	mine	mine	keep:both-mine
+f039r5-002	4	2	C	u	mine	mine	mine	keep:both-mine
+f039r5-003	4	10	pi	b	codex	mine	mine	keep:split
+f039r5-004	6	6	fx	-|	codex	codex	codex	fix:-|
+f039r5-005	6	35	u	a	mine	mine	mine	keep:both-mine
+f039r5-006	7	22	1	-	codex	codex	codex	fix:delete
+f039r5-007	8	7	vbar	C	mine	codex	codex	keep:split
+f039r5-008	9	21	1	u	mine	mine	mine	keep:both-mine
+f039r5-009	10	17	+	++	mine	mine	mine	keep:both-mine
+f039r5-010	16	18	1	u	mine	mine	mine	keep:both-mine
+f039r5-011	22	21	pi	arrow	mine	mine	mine	keep:both-mine
+f039r5-012	26	8	pi	arrow	codex	codex	codex	fix:arrow
+f039r5-013	26	37	=ff	f	mine	codex	mine	keep:split
+f039r5-014	26	39	y	C	mine	codex	mine	keep:split
+f039r5-015	28	2	pi	arrow	codex	mine	mine	keep:split

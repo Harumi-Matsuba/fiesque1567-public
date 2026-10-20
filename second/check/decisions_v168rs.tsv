@@ -1,0 +1,17 @@
+id	row	pos	mine	codex_reading	sonnet2	sonnet3	decision
+v168rs-001	1	28	b	-	mine	mine	keep:both-mine
+v168rs-002	1	29	a	-	mine	mine	keep:both-mine
+v168rs-003	1	30	beta	-	mine	mine	keep:both-mine
+v168rs-004	2	35	fu	ptil	codex	codex	fix:ptil
+v168rs-005	2	39	b	-	mine	mine	keep:both-mine
+v168rs-006	2	40	a	-	mine	mine	keep:both-mine
+v168rs-007	3	1	P	tri	mine	mine	keep:both-mine
+v168rs-008	3	24	P	tri	mine	mine	keep:both-mine
+v168rs-009	4	4	P	tri	mine	mine	keep:both-mine
+v168rs-010	4	36	3y	y	codex	codex	keep:y-class
+v168rs-011	6	10	P	tri	mine	mine	keep:both-mine
+v168rs-012	6	21	P	tri	mine	mine	keep:both-mine
+v168rs-013	7	27	//	-	mine	mine	keep:both-mine
+v168rs-014	7	29	vbar	-	codex	neither	keep:split
+v168rs-015	7	34	fu	ptil	codex	codex	fix:ptil
+v168rs-016	8	3	tri	a	codex	codex	fix:a

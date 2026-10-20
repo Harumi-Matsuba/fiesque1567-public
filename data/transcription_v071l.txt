@@ -1,0 +1,8 @@
+# BnF fr.15919 コマ71の左（f.66v、1568年6月12日の書簡の続き）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ71の左（原寸）。行の画像は src/trackline.py で作った（ab_L01–ab_L05）。行頭の「Il」は無効字。
+c01: .Il + v f tri 3n 1 ++ f tri o .Dao fx -| -| ++ tri T |- fu // m -| // 3n b v o tri 3n a
+c02: tri C 3n a f -| o T + fu C b -| // H# fu fx ptil 3n a fx L + T a =23 3n // 3y a
+c03: a fu -| o T v + 3n fx a b o T v // tri m 3n a C // =22 fu C a 3y vd a
+c04: tri o T v a fx u 3n o vbar // -| b o -| // m fu tri o fx a T // pi tri fu o -| fx
+# 続く平文：Il ne se parle plus d'aucun armement d'armes en Allemaigne …、De Vienne ce xii de Juing 1568。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。

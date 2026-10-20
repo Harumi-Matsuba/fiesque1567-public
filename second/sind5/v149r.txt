@@ -1,0 +1,29 @@
+am_L01	=22 tri a L a fx 3n ++ a y P tri fx a =10 fx a vd ++ 3n T vbar fx a beta // 3y 11 3n vbar tri fx a y u fx a vbar // 4 L a o 3n tri L
+am_L02	fx lf a pi tri 3n =20 a T vbar fx o =16 + ++ q9 =rr tri a beta vbar q9 1 fx a pi // fu 11 L a // T ++ ?{7} o q9 =rr a fu a o [mon]
+am_L03	fx q9 // a T vbar o fx // q9 T a =22 vd ++ 3n T tri a a fu -| L a C a y ?{7} tri o q9 fx a vd a C // o 3n q9 ++ 3y lf y // fx 1 1 1 1
+am_L04	K 3n m L a T y // q9 C vbar tri a fx y ++ -| P tri 3n // a fx a y L fu L a T vbar p tri a fu vd a o vd a y // =rr tri 3n =22 ?{7} a
+am_L05	pi a x q9 fs 3n // y f ++ beta vbar lf y a q9 fx o vd a 3n vbar ?{large H-like with loop} fx u o C T q9 tri fu // 3n vbar C // =22 q9 C o // y fx a T // q9 fx a
+am_L06	P ++ lf a =16 C a T vbar fx o a 3n T o vd fx C fx o ?{7} a L a fu // beta ++ 3y 3n a // pi tri a a fu ++ 3y // 3y L a T vbar u
+am_L07	vd // q9 a a y Dz vd // 3n tri a L o C fu =13 a 3n vbar o f L fx a =22 fx fu // 3n L a f q9 ++ 3y // T vbar a y vd ++ 3n T a tri
+am_L08	m 3n a q9 fx C o fx // 4 L a tri 3n // fu L a m fu a T a o f a T y // tri z 3n a =20 T a fx ++ 3n L H# q9 ?{7} ++ a fx L a z //
+am_L09	pi ++ fx vbar P a C // x a q9 o beta H# 3y 3n a =16 T H# a q9 fx C q9 3y Dz vd // 3n L // vbar a T L a 3n vbar // 3n L fx a P q9
+am_L10	?{large looped sign with tilde} |- ptil a ?{7} o =14 + ++ tri a fx vbar T // fx a y ++ q9 fu vbar tri ++ 3n T q9 fx C o x // 1 fx vbar L ptil pi // 4 tri // 1 m a fx fu a y a
+am_L11	vbar -| // fx vbar ++ tri a fs L a =16 L a tri vbar a vd // m o T vbar a =10 vd // L // pi a T // x tri a ?{7} a // a T 3n lf C a =22 fu
+am_L12	vd a y [rouu la] L a y // fx // q9 11 3n vbar a fu // q9 ++ tri fx vbar vd ++ 3n T vbar fx a // K ++ tri fx x ++ -| vbar // m fx a //
+am_L13	fx C o =10 L a fx C // tri fx a q9 ++ fu ?{7} ++ tri fx a T vbar fx o C u vd a P tri // vbar a q9 fx =10 vd ++ 3y o s a q9 beta
+am_L14	P a fx a ?{7} q9 3y vd a o p a o // fx ptil ++ 3y tri fu // q9 -| ++ 1 fx vbar x // tri fx vbar -| a T y ++ 3n fx a // q9 L tri fx vbar T tri a fu -|
+am_L15	n // 4 L a tri 3n // fu =22 C o y fx lf + T a y a T vbar ++ tri a 3n vbar fx lf 11 3n z lf y vbar // fx C // vd ++ fx vbar L a z lf //
+am_L16	fx ++ 3y 3n a T // x a ?{g-like} o =10 fx q9 a T vbar // 3n vbar q9 a x fu tri fu // q9 ++ tri fx vbar P a C tri fx a -| o P a T y ++ q9 T a -|
+am_L17	y // L a fx vbar a x a tri a ?{7} a // tri T 3n lf =20 a T vbar fx o P a // tri m a y C fu u fx ++ 3n q9 a 3n // fx C a // fu fu 3y
+am_L18	=10 =23 // q9 |- ++ tri fx vbar 3y ++ -| vbar // // m fx a // 4 C o =10 L a T tri fx a beta ++ tri vbar =22 =16 L a tri vbar a vd // m a T
+am_L19	lf 3n a x q9 vbar Dz vbar // 3n vbar a L o T y ++ q9 T a beta C // T a fx H# 3n L o ?{H-like with loop} n o L T q9 -| K ++ 3y // 3y // 3n vbar
+am_L20	a 3n vbar // f L ptil L a y q9 tri T =16 tri 3n vbar a f vbar tri ++ 3n =18 // q9 -| ++ tri fx vbar y -| tri a L a 3n o f -| tri a 3n y [rouu]
+am_L21	vd // 3n L a fx // T // vd // m a T vbar u L a P a n // =22 y fx a pi tri o fx u vd a 3n vbar tri fu 3n 3y a q9 T vbar
+am_L22	o 3n q9 ++ 3y a q9 3n m fx ++ q9 =rr tri a beta fu a o L a n n // fx a fu T // H# a q9 -| H# tri vbar =22 vbar ++ q9 vbar
+am_L23	C a x // 1 fx vbar L a fx o vd // fx tri // 1 m a 1? T a fx H# tri vbar beta a vd a T y q9 -| C q9 3y ?{H-like with loop} n o L =10 =22
+am_L24	P a y q9 tri T tri fu =18 // q9 -| ++ tri vbar x // 1 fx vbar a 3n vbar // f L fx a y // fx vd ++ 3n T tri a fu -| L a x ++ fx =22
+am_L25	q9 // fu C tri =16 // vd fx // H# // L a q9 -| =23 C fu 3y // q9 ++ tri fx vbar fx a vd tri y C a 3n vbar tri a fx o fx a T ++
+am_L26	C fu vbar 1 fx 3n P fu vd // fx tri // m a P a T // y a fx ++ 3n L a x tri a ?{7} a C o =22 fu tri fu L a T a -| ++ tri vbar
+am_L27	=14 fx a fx ++ 3n n fu fu L =10 Dz vbar -| // fx vbar a P a y q9 // 3n vbar C fu 3y a 3n o T y // tri m 3n a fu a o [mon]
+am_L28	fx a |- fu // 3y // 3n vbar =16 vd // m a T vbar a a 3n vbar // f L fu a ?{7} o // q9 -| ++ tri vbar a 3n q9 ++ 3y o // vd y =20
+am_L29	y ++ q9 fu ++ tri fx // q9 L a tri fx vbar T tri a q9 beta L a x ++ fx =22 q9 // fu fu o L a fx a =13 =10 tri fx a ?{7} fu 3y lf a

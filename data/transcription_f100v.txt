@@ -1,0 +1,33 @@
+# BnF fr.15919 f.100v（f.100r の続き、1568年9月4日）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ106の左（原寸）。行の画像は src/trackline.py で作った（k_L01–k_L27）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。行の中の平文（receu など）は書いていない。
+c01: .Il .ti .ol v o -| T ++ s a =10 =23 vd o v // -| C o -| ++ 1 fx vbar // v -| o T vd // 1 v =22 C rho
+c02: pi // =ll tri // 1 m a o T vbar ++ 1 fx vbar f ++ 3n pi C ptil b =10 =22 T ++ 3n x -| o beta a C // -| fx L o b ptil fx
+c03: n L // -| C rho T 3n tri -| ++ 1 fx vbar v ++ 1 3n vbar o 3n o T v // tri m 3n a .Dao .moy q9 ++ tri C //
+c04: vbar ++ q9 fs fx a =22 tri // 3y v a ptil vbar tri -| o beta pi fx o T vbar L o q9 -| a b o .Il .ti .ol
+c05: tri o pi a T ptil tri T + tri o 3n m // -| b a P o C fu 3y // ptil ++ tri -| beta tri o 3n T b tri fx vbar =22
+c06: pi // q9 tri o v o T f -| a q9 vbar b o C // vd ++ -| vbar b ptil v -| tri 3n n a b o T v // tri m 3n a
+c07: =10 =20 fx a =22 vd ++ 3n L ++ vd pi a // =rr tri ptil // q9 o -| C rho f ++ ptil =rr tri o -| b ptil P ptil fx
+c08: P // C + a fx ptil tri v ++ -| vbar // C o v fx a -| vbar // tri 3n o T f ++ q9 ptil o =ll a T b o C // vd ++ -| vbar
+c09: b ptil P 1 fx vbar v -| tri 3n fx a .Dao .moy f // -| b o P a q9 // 3n vbar tri C o 3n // fu ++ 1 fx vbar
+c10: =22 C fx fu a fx -| fu tri vbar b o ptil a -| v tri vbar // C tri a .Day =10 3y f -| tri 3n T fx o T vbar a
+c11: fx ++ fu =ll a ptil -| =22 vd ++ 3n L ++ vd pi a fx fu tri o T vbar ++ 1 vbar beta o q9 a 3n ptil // fu ++ 1 fx vbar
+c12: vbar // -| b o // o T vbar -| a P o v a fx L o =10 vd a vd a v ++ -| vbar a -| C // T a ptil fx o m fu o -| tri T ++ 3n
+# c10 の「receu」と、行頭の「Day」の後の平文は書いていない。
+c13: b ptil fx ++ 3y L a .par =10 =20 fx a fx fu tri pi a fx ++ fx ++ 8z // 3n b 1 a v b o =18 o T fx -| tri v -| a
+c14: fx ++ vd pi a // ptil -| // vbar -| ++ q9 ptil a fx o T vbar // ffx tri b o 3n vbar tri C 3n a vd o f //
+c15: P tri fx vbar // fu vbar -| a fx L ++ v a T tri 3n ++ f =22 vbar ++ fu T v ++ vd pi o v T fu 4 tri o fx vbar v
+c16: // fx a C // =10 =22 b ptil tri ++ fu -| // fu C a 3n b o vd // tri f tri C x // fu C vbar =22 =10 o v // H# a
+# c13 の「par」は無効字。c14 の「ffx」は f 2つに横棒の形（Tomokiyo の ff に横棒＝t）。
+c17: fx a v // T 1 vd // tri T o 3n fx a T vbar o fx ++ q9 -| vbar C o f a 3n v // -| C a 4 tri o 3n b ptil tri fu o -|
+c18: v a 1 vd o 3n vbar T o C ++ 3n C // x // 3n vbar // tri T 3y o b o v L ++ fu a T .Il .ti .ol .Day
+c19: pi v ++ -| vbar a C rho m -| // 3n b P o ptil a tri C // fu o fx vbar ++ ptil ffx a T // fx L // vd fx -| a
+c20: =10 // fx ++ vd pi // 3n b a =22 vbar ++ ptil vbar a T // fx ++ fu -| vbar T // 4 tri =ll a // fu H# tri b o
+c21: P o fu a tri ptil o 3n -| ++ fx a T fx ++ fu -| vbar a T .Dao .Day tri // 3y b o v ptil 1 T b tri fx vbar
+c22: // pi fx fu a // ptil C fx ptil 3n v b o v T fu fx tri o fx vbar v b ptil -| ++ 3y 3n o T a fx ++ 3n vbar // f vbar // 3n T
+c23: b o C a o b 1 fx vbar =22 pi C o ptil -| // x // 1 fx vbar =10 3n o T a // H# o fu -| // 3n T b o T
+c24: v // -| ++ C o vbar ++ fu T tri H# ptil -| T vd // fx L tri 3n tri 3n a f vbar =22 C fx fu a o 3n vbar -| a v -| tri 3n T a
+c25: =10 =22 fu ++ ptil v // fu tri o v o 3n vbar // f b ptil =22 v H# fu -| b ++ s a -| fx ++ fu =ll o ptil -| // C o ptil -| T
+c26: b o H# a tri 3n m T tri C v ++ 3n vbar a 3n ptil ++ 3y a o 3n // =ll a vd // tri m 3n a b o fu a -| T
+c27: v C fu T tri o ptil -| T v -| tri 3n fx a T pi C o T o T v o -| T fu // b o beta =10 =13 o 3n vbar // f b fx a
+# 暗号はここまで（ページの終わり、続きは f.101r）。

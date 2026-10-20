@@ -14,7 +14,7 @@ c13 QUE uousauesensemrlesecerestraimneauecunei
 c14 bohea LL ianceilmadictquacestleureilnyaslus
 c15 aucunedi RR icultei QUE lemariaigefaictcacle
 c16 srincessaigneestoictumortmais QUE
-c17 osiroictdestremediatepccemariaigel?
+c17 osiroictdestremediatepccemariaigele
 c18 enquoyilneyoictnierdelpy QUEL/QUIL neylailsicily
 c19 esyeroict QUE uousenseriey?tanteleielpycey
 c20 QUE iecroyoisseurement QUE uoustrouperieslon QUE
@@ -25,4 +25,4 @@ c24 cemariaigeauinnelpycyciensce LL ec CE intenti
 c25 cncela LL iancequapesense RR ole
 c26 tenantcecnfilyilurayamysurcelailmeice
 c27 ilcient QUE stilenuoyeroicenessaigne QUE lquel
-# 記号 996 個のうち、表と推定を合わせて値が付いたもの 993 個（99.7%）
+# 記号 996 個のうち、表と推定を合わせて値が付いたもの 994 個（99.8%）

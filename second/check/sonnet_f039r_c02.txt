@@ -1,0 +1,35 @@
+f039r-071	B	small a-like sign after C and the little hook
+f039r-072	B	big thick diagonal ending in a d-like loop, delta shape
+f039r-073	A	ꝛ shape with faint loop below-left, after y
+f039r-074	B	thick blotted p-like sign (K) clearly present
+f039r-075	B	short upright stroke after the blot
+f039r-076	B	faint double slanted strokes after vd
+f039r-077	B	short upright stroke, i-like
+f039r-078	A	x-like blob before the left-arm upright
+f039r-079	A	upright plus tall d loop present
+f039r-080	B	faint double slanted strokes
+f039r-081	A	short upright stroke after b
+f039r-082	B	faint double slanted strokes between x and p
+f039r-083	A	ꝛ with loop below-left present
+f039r-084	A	small round sign with bar over it
+f039r-085	B	tall stroke plus small r (b-like)
+f039r-086	A	second p-like sign with bar on descender
+f039r-087	A	small y/v with tail
+f039r-088	B	small round sign with a dot/cap after T
+f039r-089	A	double slanted strokes after t-like sign
+f039r-090	A	ꝛ with loop below-left after triangle
+f039r-091	A	h/ʒ-like body with dot, tail swinging left
+f039r-092	B	digits 1 and 4 together
+f039r-093	A	faint double slanted strokes after t
+f039r-094	B	single ʒ like digit 3 with tail
+f039r-095	A	double slanted strokes present
+f039r-096	A	tall l with small top loop and foot
+f039r-097	A	double slanted strokes present
+f039r-098	B	ꝛ with big loop below-left
+f039r-099	B	small i-like upright after b
+f039r-100	A	two tall f/long-s strokes joined, bold
+f039r-101	A	ꝛ with large loop present
+f039r-102	A	faint double slanted strokes
+f039r-103	B	ꝛ with loop below-left
+f039r-104	B	wide flat bold bar-like blot at line start
+f039r-105	A	ꝛ with loop below-left after triangle

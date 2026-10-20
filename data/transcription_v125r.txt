@@ -1,0 +1,18 @@
+# BnF fr.15919 コマ125の右（f.120r、「6 Novemb. 1568 Vienne」、王妃宛）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ125の右（原寸）。行の画像は src/trackline.py（af_L01–af_L17）。この手は区切りに単独の斜線「/」を多用する（書いていない）。左の余白に当時の解読らしい書き込みがある。
+c01: .bro P a fu d6 v ++ 3n vbar v f c fx // H# o vd tri fx a fu a q9 o 3n vbar T tri o pi 1 C fu a
+c02: =10 vbar -| H# 3y v -| a m tri vd o 3n vbar v b a m a 3n T b o v tri a b z o o 3n fu ++ 3y o beta
+c03: // fu T o fx ++ q9 -| v b o vd ++ 3n T tri a q9 -| C o v -| tri f fx a b a fx ++ 3n P a =10
+c04: =22 C o -| ++ 3y b o P // pi 3n a vd // -| fx a d6 v ++ q9 T a C // T a q9 -| b fu
+c05: v -| tri 3n fx a P // q9 -| // 3n m a T =10 =23 x // 1 fx vbar q9 f a C tri m fu a // q9 a fx =10
+c06: vbar ++ q9 vbar a T C o v q9 tri =ll a T pi // -| tri vbar 1 vd a T =20 o 3n fu + 3y a -| T o fx ++ q9 -| v
+c07: // q9 b tri fx vbar v -| tri 3n fx a b // q9 -| // 3n m a T .par .moy .Day tri // 3y o 3n vbar // f b fu
+c08: b o 4 ++ 3n C tri o q9 =23 3y // C ++ 3n m vbar o vd v T =22 C // =ll o vd // tri m 3n a 3n
+c09: o T vbar a v tri q9 3n tri a fx ++ P a o =ll a =14 // fx o T vbar L u fu -| a =20 b o pp // 3n b -| a
+c10: C // fx fu a -| o =ll a b q9 P 1 fx vbar v -| tri 3n fx a P // q9 -| // 3n m a T C o T .Day
+c11: fx ++ vd pi tri H# // 1 -| o T ++ 3n vbar fx ++ 3n vbar tri f q9 a C o q9 -| q9 ++ 3y // tri m a
+c12: q9 o -| T C o b q9 n P // C 4 a =10 v -| tri 3n fx a b // q9 -| // 3n m o T vd // tri T =10
+c13: C // v fu fu T m -| // 3n b v // -| vbar tri a fx -| ++ tri b =23 v 3n a v -| ++ pp tri vbar o
+c14: -| ++ 3n vbar -| tri o 3n T
+# 暗号はここまで。続く平文：receu par La Dao … presentant autre chose digne de vous escripre de privay …
+# 2026-10-20：画像で全14行を見直して書き直した（三角 ▲ を tri（i）として a と分けた、ŧ を ꝑ と書いていた誤り、行頭の「lro」を無効字 bro でなく lr（b）＋ o と読んだ、など）。単独の斜線（区切り）は書かず、二重の斜線（a）だけを書いた。

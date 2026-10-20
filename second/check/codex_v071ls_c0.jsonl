@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a15815-8342-7bf2-b2e7-48e811a57a90"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"v071ls-001\tB\tupright stem with bar on both sides"}}
+{"type":"turn.completed","usage":{"input_tokens":17393,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":144,"reasoning_output_tokens":123}}

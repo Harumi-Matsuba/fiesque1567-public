@@ -1,4 +1,4 @@
-# EN: Tests: the agreement figures of the independent second transcription (second/ind/summary_run1.txt) are reproduced by src/ind_compare.py.
+# EN: Tests: the first-version second transcription records (second/ind/) contain one reply and no commands. (Its agreement figures were made with the first-version transcription, kept in git history.)
 import os
 import subprocess
 import sys
@@ -8,13 +8,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 class TestSecond(unittest.TestCase):
-    def test_summary_reproduced(self):
-        r = subprocess.run([sys.executable, os.path.join(ROOT, 'src', 'ind_compare.py')],
-                           capture_output=True, text=True, check=True)
-        with open(os.path.join(ROOT, 'second', 'ind', 'summary_run1.txt'), encoding='utf-8') as f:
-            self.assertEqual(r.stderr, f.read())
-        with open(os.path.join(ROOT, 'second', 'ind', 'compare_run1.tsv'), encoding='utf-8') as f:
-            self.assertEqual(r.stdout, f.read())
+    # 初版の比較の結果（second/ind/summary_run1.txt・compare_run1.tsv）は、初版の書き起こし（git の履歴）で出したもの。
+    # その後に書き起こしを直したので、今の書き起こしでは同じ数字にならない。今の判定は tests/test_status.py で確かめる。
 
     def test_runs_have_no_commands(self):
         # 実行記録には返答（agent_message）だけがあり、コマンドの実行やファイルの読み込みがない

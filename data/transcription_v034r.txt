@@ -1,0 +1,16 @@
+# BnF fr.15919 コマ34の右（f.30r、「21 Janvier 1568 Vienne」「du Comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ34の右（原寸）。行の画像は src/trackline.py で作った（s_L01–s_L12）。前半10行は平文。区切りの縦線と抹消が多い。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。抹消された記号は書いていない。
+c01: // v f -| o 3n P -| a // fu C vbar -| a v fx L fx T o L T tri 3n H# 3n z 3y o v vbar b o C tri ++ o -| a
+c02: =22 T o v a 3n x // f v -| o fs fx fu 1 -| 3n o f vbar o 3n // =ll a vd // 1 m 3n o C a v C ptil v
+c03: C vbar fx v vbar =23 T o -| // v fx H# tri 4 C fu C o =22 fu pi // b o vd // 3n b o v C fu T tri o fu -| v
+c04: x fx tri v T 1 tri 3y -| o -| a fu 3n fx fu ptil o =ll a v b o C // =rr 1 fu b o vd fx 3n T tri o fu -|
+c05: P o fu tri m 3n o -| ++ =ll a v // fu =22 fu tri a 3n // 3y T fx o ptil b 1 fx a // fu vbar -| o
+c06: fx L ++ v a 3y ++ -| v =22 tri o 3n // 3y f ++ tri 3n fx vbar o fu b o C a vbar fs -| o T
+c07: b o v fu 1 v C o fx fu 1 3n v tri o T vd a 3n ++ fu o vd 4 -| o =10 // b fx u =22
+c08: tri o v ptil 1 v fx ++ 3n m f H# 1 T vbar -| a tri o fx -| ++ 3y T =23 b o T 1 -| a =22 C =22
+c09: -| o T v ++ 3n fx o b o fx u v C o vbar fs -| o T v ++ fu -| T fx // fu fx 1 -| Dz vd o
+c10: =18 o T vbar a v b o vd a fu -| o v fx ++ 3n vbar f v b o C fu 3y C o vd o
+c11: T o vd 4 C o =23 // C ++ s a o 3n ptil 3y o P o 3n vbar -| o fs a 3n 1 -| 4 ++ s o pi 1 vbar 3y a f
+c12: v ++ ptil -| C o vbar a 3n tri -| o 3n H# a T vbar o 4 ++ s o ++ v f Dz f 1 ++ 3n tri o
+# 暗号はここまで。抹消の記号は書いていない。

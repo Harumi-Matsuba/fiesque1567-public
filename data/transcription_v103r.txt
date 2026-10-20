@@ -1,0 +1,23 @@
+# BnF fr.15919 コマ103の右（f.98r、「21 Aoust 1568 Vienne」「du Comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ103の右（原寸）。行の画像は src/trackline.py で作った（ac_L01–ac_L19）。左の余白に当時の解読らしい書き込みがある（較正に使う）。
+# 前は平文「Madame, encores qu'il ne se soit passé autre chose depuis ce que je vous ay escript du xiiii de ce moys je n'ay voulu faillir de vous advertir」
+c01: =22 T a fx ++ T fx =23 fu ptil -| a // pi C o v // v T =10 v // H# // tri m a // C // -| fx L o b fu fx n L // -| C o T =10
+c02: T ++ 3n x -| o beta a fx fu // 3n b C tri fx -| ++ ffx 3n o -| // b o T v // tri m 3n a .Dao .Day
+c03: =10 // ptil H# tri =22 T a v // -| // b fu ptil // 3n vbar fu fx a o 3n 3y // =ll // f vbar tri C vbar ++ ptil
+c04: n L ++ 1 fx vbar // vd // -| T a tri =ll a =ll a ++ ptil // ptil vbar -| a C tri o ptil b a v fx ++ fu ptil o 3n
+c05: P ++ -| b fx s a -| // pi ++ 3n T tri o ptil -| C o fx ++ vd vbar a b o
+c06: vbar 3n b o P a C fu 3y =13 C o -| a fx fu a tri C =10 fx // -| o H# a T fx fu tri // v f // -|
+c07: vbar tri o 3n a f vbar // pi o C v -| 1 3n fx a fx a n // -| pi // 3y vd a x ++ -| vbar T a x -| o beta a
+c08: C fu 3y // 3y f vbar o T vbar a fs ++ ptil T tri T tri ++ fu -| v ++ 4 a z H# // 3n vbar =10 vd o T pi a T
+c09: // fx o T vbar a P o -| 3n tri o -| a b a f a fx L o .par .moy C // =22 ptil C o tri C T o v vbar
+c10: vd ++ 3n T vbar -| a x ++ -| vbar v -| ++ vd f // T // fu ++ C ptil 3n vbar a .Il .ti .ol .Day H# a ptil
+c11: f vbar =22 vbar ++ fu T C o T L ++ s a fu -| T =10 v C // 1 T tri -| v =22 C fu 3y T o -| ++ 3n vbar
+c12: x // 1 fx vbar v =23 C o T -| o v ptil vbar o -| // o T vbar -| a x // 1 fx vbar v // C fu 3y
+# 行の中の「Jay receu」「Dao」などは平文の字の並び。
+c13: o 3n fx ++ -| o T =23 3n o vd // z a 1 tri o 3n T b 1 fx vbar P fu v // H# // tri z a b o T ++ 3n
+c14: x -| o beta a o 3n x -| // f fx a =10 v // -| Dz tri o fx vbar ptil -| o T tri o vd a T fu tri T =10
+c15: // v o -| fx a fu =22 T tri =18 C o ptil ptil 3y ++ H# -| o v fx fu tri fu 3n o x // tri =ll tri -| // b o
+c16: -| o vbar ++ beta 3n a -| v // -| fx a fx L o vd tri 3n fx // -| pi o 3n // fx ++ s a o 3n fu 3y a =10
+c17: C a T a Dz vbar tri 3n fu a vbar ++ fu T a T a fu -| v =23 v // -| vbar tri -| C o fx fu // vbar -| tri o T pi a
+c18: b o T o v vbar a vd fx -| a
+# 暗号はここまで。続く平文：J'ay entendu que l'on a nouvelles en ceste court …

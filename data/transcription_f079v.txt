@@ -1,0 +1,14 @@
+# BnF fr.15919 f.79v（f.79r の続き、1568年7月17日）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ84の左（原寸）。行の画像は src/trackline.py で作った（g_L01–g_L11）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。
+c01: |- 1 q9 o T a q9 T vbar o v fs a T // 3n T v -| H# f + v =10 =22 3n a vd a q9 vbar o T rho tri vd a
+c02: .Il a 3n v ++ -| C q9 3n .ti .ol a o 3n a x // a =ll 1 -| // 3y =18 // b q9 o -| vbar a -| b o fx a
+c03: =22 a o 3n C o -| // 3y b a C tri m 1 fu o 3n vbar b o tri H# q9 -| o 3n rho fx q9 -| // v -| // 3n b fx a
+c04: vd // tri T 1 a .Dao o fx -| // tri 3n T =22 fx o T vbar // H# // tri -| a T + tri fx vbar x H# -| vbar C ++ 3n m
+c05: C o fx ++ q9 tri vbar fx H# q9 -| vbar // q9 H# tri 1 n 3y =22 C // q9 o 3n ptil a b o
+c06: C // -| + L o b q9 fx f L // -| C rho T 1 fx =10 fx o fx a =23 T a vd // 3n 3y a o 3n vbar -| a pi
+c07: =10 ? =23 // tri =ll a -| o T tri b o -| o 3n x C // 3n b -| o T =10 Dz T + C a -| =10 // b fx ptil C
+c08: fx tri -| fx a v o q9 f C rho fx q9 o T vbar v tri vd // C Dz vbar // 3n vbar b o T a q9 a H# tri -|
+c09: .Il .ti .ol // tri 3n T 1 m ++ q9 pp o fx 3n a b o T o v -| // tri m 3n ++ C v .ti .ol vd // tri T
+c10: fx ptil // 3n vbar // vd H# 3y tri o 3n 3y q9 o H# tri T // q9 fx ptil 3n a // v f // -| // 3n fx a
+# c10 の末尾の「receu」は平文。続く平文：L'Empereur n'a encores à aucuns nommé ceux qu'a esté deliberé en la diette … De Vienne ce xvii de Juillet 1568。

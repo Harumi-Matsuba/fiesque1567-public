@@ -1,0 +1,35 @@
+f039r-211	B	ꝛ with big loop below
+f039r-212	A	p with bar on descender
+f039r-213	A	stroke plus 8 (18)
+f039r-214	A	2-shaped with loop
+f039r-215	B	2-shaped with faint loop below
+f039r-216	B	two slanted strokes
+f039r-217	B	short stroke plus tall d loop
+f039r-218	B	t-like stem with left arm
+f039r-219	A	two slanted strokes
+f039r-220	A	small o
+f039r-221	B	stem with left arm at line end
+f039r-222	A	two slanted strokes
+f039r-223	A	stem with left arm
+f039r-224	A	cross, stem above and below bar
+f039r-225	B	t-like cross
+f039r-226	B	t-like cross, short arms both sides
+f039r-227	B	double-bar cross after b
+f039r-228	A	double-bar cross
+f039r-229	B	g-like p-ish sign with bar
+f039r-230	B	wide bold flat double loop
+f039r-231	B	two slanted strokes
+f039r-232	A	two slanted strokes
+f039r-233	B	t with short bar both sides
+f039r-234	B	2-shaped with large loop
+f039r-235	A	two slanted strokes before h-shape
+f039r-236	B	only a separator line
+f039r-237	B	t with bar both sides
+f039r-238	A	only thin line after p
+f039r-239	A	3-shaped z with tail
+f039r-240	B	two slanted strokes
+f039r-241	A	3-shaped sign at line end
+f039r-242	B	two slanted strokes
+f039r-243	A	c-like with curl below joined to bar
+f039r-244	B	2-shaped with big loop
+f039r-245	A	two slanted strokes

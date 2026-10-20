@@ -1,0 +1,30 @@
+# BnF fr.15919 コマ140の右（f.135r、「14 Janvier 1569 Vienne」、王妃宛）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ140の右（原寸）。行の画像は src/trackline.py（aj_L01–aj_L27）。行頭「Madame」の後の「Il ti ol」は無効字。この手は字の大きさがそろわず確度低め。
+c01: .Il .ti .ol tri C // =rr tri q9 // vd o fx -| a b =23 q9 3n m fx ++ q9 =rr tri a beta
+c02: =22 C // -| fx L o b fu n fx L // -| C o v // o 3n fu ++ 3y a P o T v // tri m 3n o C o =22 fu
+c03: v // -| vbar a fs b a vd // P -| tri C C o P tri T a v vbar tri o T pi a b fu vd ++ tri T
+c04: f // H# a .par .moy tri // 3y b o vbar -| a vd o 3n vbar fs // T fx L o b a 3n vbar o f b -| a
+c05: P a pi T tri C v o T vbar ++ tri fx vbar o 3n fx ++ -| a v x // 1 fx vbar // q9 fx fu 3n a P o C tri
+c06: 4 a -| // vbar tri fx 3n vbar ++ q9 fx L // 3n vbar C o vd // -| tri 11 tri m a tri C vd // b tri fx vbar
+c07: =22 fx a n ++ q9 =rr tri a -| 3n a v ++ -| vbar + tri fx vbar =22 C // =rr tri q9 lf P o T ++ f
+c08: x -| a beta o =10 =22 C =22 v a q9 b o 3n vbar beta lf // q9 fx ++ =mm // 3n fx a vd o 3n vbar b o T
+c09: // x =13 T vd // tri T =22 =22 c tri o 3n fs ++ T vbar tri C o 3n // fs vbar // 3n b ++ tri fx vbar q9 3n m
+c10: // q9 vbar C vbar -| a v // -| C o =22 C tri fu a 3n o T v a -| ++ tri fx vbar // q9 ++ tri -| =22 C =22
+c11: C q9 pi tri a beta a .Dao .par .La =10 =22 fx a fx ++ q9 =rr tri o -| // q9 ++ tri fx vbar
+c12: -| o 3n fx ++ f vbar -| a vd ++ 3n T tri a fu -| C a fx // -| b tri 3n // C b o m q9 tri T a
+c13: a 3n vbar -| o 4 // -| n a =ll ++ s a =10 T // -| 11 m ++ H# a vbar ++ q9 fs o T x ++ tri v
+c14: o 3n fx ++ beta a v =22 tri a C // 3y a T ++ 3n b a P tri T // 3n vbar =22 tri a b o T tri -| a
+c15: beta fx tri v =22 C o vd // -| tri // 1 m a T // fx n ++ vd v C tri T vbar c tri o 3n fs ++ T vbar
+c16: =10 =22 tri a T v a -| ++ tri v // fx a T vbar L o q9 -| a =22 vd ++ 3n T tri a q9 -| C a
+c17: n // -| P tri 3n // C b a m q9 tri T a =14 o f a T v // tri m 3n a =22 T // 3n v v C fu v
+c18: -| o vbar // -| b a -| vbar ++ q9 fs fx a =20 -| ++ tri vbar fx ++ 3n n C q9 =rr a tri a 3n // 3y
+c19: T fx a fu o 3n vbar tri -| a beta // q9 fx fu 3n vd ++ vbar b // q9 11 3n vbar // tri m a vbar ++ q9 fx L // 3n vbar
+c20: fx a x // 1 fx vbar .Day C o 4 -| q9 tri vbar fx ++ q9 fx vbar x ++ beta vbar tri fx 3y =22
+c21: =ii o T v ++ q9 v a C // x tri =ll a // tri T 3n lf b a pi =10 vd o T pi a v =22 C
+c22: fx fu 3n m |- fu tri T fx // 1 vbar v + q9 fu a 3n vbar =20 o T fx L fx v a T v a fx -| a pi o T
+c23: vd // b tri fx vbar pi fx a vd // -| tri 11 tri m a b fu =ii fx a x a -| // v o q9 -| a
+c24: pi a 3n vbar vd // tri v =22 =ii =14 // v -| a v =22 pi a T v ++ q9 T a C // v a
+c25: fx q9 3n b a x tri =ll a b o pi =10 =22 vd // b // pi a pi // -| m fu a -| tri vbar a
+c26: =16 x tri =ll a T a vd // -| tri a // q9 -| ++ 3y b a v ++ -| vbar q9 m // C fx a =22
+# 暗号はここまで。
+# 2026-10-20：画像で全行を見直して書き直した（三角 ▲ を tri（i）として a と分けた、ꝫ を 4・数字と取り違えた箇所、⊢ꝑ（qu）を t 形と書いていた箇所など）。

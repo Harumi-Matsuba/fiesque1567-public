@@ -1,0 +1,35 @@
+f039r-106	B	ꝛ with big loop below-left
+f039r-107	B	thick f/l-like sign with foot after o
+f039r-108	A	faint double slanted strokes before h
+f039r-109	A	upright with left arm at top
+f039r-110	A	two tall strokes crossed by a bar, tail
+f039r-111	B	small ʒ/s-like curl after the double-bar cross
+f039r-112	A	upright with short left tick, t-like
+f039r-113	A	nothing between b and o
+f039r-114	A	long thick s-like stroke with top hook
+f039r-115	A	ꝛ with big loop between T and o
+f039r-116	B	small round o-like sign with cap
+f039r-117	A	capital T
+f039r-118	A	double slanted strokes
+f039r-119	A	ℓ-like looped letter after t
+f039r-120	B	double slanted strokes
+f039r-121	B	ꝛ with big loop below-left
+f039r-122	A	only a thin separator line
+f039r-123	B	bold wide flat double-loop blot at line start
+f039r-124	B	thick f-like looped ℓ after o
+f039r-125	B	faint double slanted strokes after the 7
+f039r-126	A	ꝛ with loop below-left
+f039r-127	A	double slanted strokes after T
+f039r-128	A	p with long stem and bar on descender
+f039r-129	B	ꝛ with loop below-left
+f039r-130	A	ʒ with long tail present
+f039r-131	A	bold black blot with tall strokes and bar
+f039r-132	B	two uprights with bars, hash-like
+f039r-133	B	double slanted strokes
+f039r-134	N	only a letter a visible, no p-like sign
+f039r-135	B	tall slanting long s at line end
+f039r-136	B	double slanted strokes at line start
+f039r-137	A	small round o with cap after //
+f039r-138	A	double slanted strokes after black blot
+f039r-139	A	open plain c-shape after y
+f039r-140	A	upright with left arm, t-like

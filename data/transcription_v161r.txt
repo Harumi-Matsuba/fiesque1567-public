@@ -1,0 +1,15 @@
+# BnF fr.15919 コマ161の右（1569年10月15日?、Passome?、王妃宛「du comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ161の右（原寸）。行の画像は src/trackline.py（ar_L01–ar_L10 と at_L01–at_L02）。前の平文の結び「… autre chose digne de vous escripre」の後に無効字「Il ti ol」。記号名と十字形の扱いは transcription_f039r.txt と同じ。三角 ▲ は tri（i）、ℌ は 3n（n）、3 に似た尾つきは 3y（y）、ループつきの y 形は文脈で v（s）か 3p（p）。
+c01: .Il .ti .ol T tri 3n ++ f =22 a // 3y
+c02: 3p -| tri a pi b a vd o P a -| a T tri C // ffx fx a q9 |- fu a beta C // H# a vd 4 fu lf =22 fx a
+c03: vbar tri a 3n fs // L o -| x ++ beta vbar T a vbar -| // tri fx vbar o fx L ++ T a =22 3p |- fu tri H# o vbar ++ q9 -| 3n a -|
+c04: // q9 3p -| tri a tri fu b tri fx a b fu tri .Dao .moy C o =22 fu vd // P tri fx vbar =23 3n // o 3n vbar // f b fu
+c05: -| tri a 3n v b // P 1 q9 // 3n vbar // tri m a b a fx o =23 vd // q9 ++ tri vbar P a -| 3n tri o beta o vd a 3n vbar
+c06: P 1 fx vbar x ++ -| v =22 C // vd 4 // H# // b a fu -| b a C // -| ++ 3y 3n a P // 3n m C o vbar a =rr o
+c07: 3p a -| T 1 q9 // b a vbar // 3n vbar =23 3p a 1 q9 C vbar C o v 3p -| tri 3n fx a v 3p -| ++ fs a T vbar // 3n v b a
+c08: 3n a // 4 // 3n b ++ s a -| q9 ++ 3p a s o vd 3y v 1 C P a C o T v a fx ++ q9 -| tri beta v -| ++ vd a vbar
+c09: fs // 3n vbar =22 =ll a C o x a -| // 11 q9 H# tri b a T ++ 3n fx ++ T vbar a vd // tri T =23 3n // 11 b fu tri v
+c10: =23 fx a x // fx o a 3n fx ++ -| a v // q9 fx fu 3n -| a vd q9 o pi a 3n vbar P // -| vd a v a 3n // =ll a
+c11: pi // tri m 3n a ++ fu tri fu // b ++ s a C H# 3n ++ -| b a b a T vbar -| fx o // b fu a -| vbar 3y b a fx o |- fu ++ 3n
+c12: 3y -| a vd q9 a -| // .Dao .Il .ti .ol
+# 暗号はここまで（at_L02 の頭に無効字「pav（Dao）Il ti ol」、続きは平文「Lon dessus Mercredy … la Chambre …」）。c11 の「ŧŧ」（H#）は「a(ss)embler」の位置で ss と読める。

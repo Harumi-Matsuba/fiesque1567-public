@@ -1,0 +1,4 @@
+id	row	pos	mine	codex_reading	codex	sonnet2	sonnet3	decision
+v008r2-001	2	20	tri	a	codex	codex	codex	fix:a
+v008r2-002	2	21	a	vd	codex	codex	codex	fix:vd
+v008r2-003	2	24	-|	-	codex	mine	codex	keep:split

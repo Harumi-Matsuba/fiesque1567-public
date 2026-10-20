@@ -1,0 +1,25 @@
+# BnF fr.15919 コマ150の右（f.145r、1569年9月10日の国王宛の書簡の続き）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ150の右（原寸）。行の画像は src/trackline.py（ao_L01–ao_L22）。行頭「Il ti ol」は無効字。記号名と十字形の扱いは transcription_f039r.txt と同じ。この手では、h に似た尾つきの形（ℌ）が n（3n）、3 に似た尾つきの形（ʒ）が y（3y）、三角 ▲ が tri（i）。
+c01: .Il .ti .ol b a vd v ++ -| vbar // 3n fx a tri o 3n a x // tri =ll 1 -| // 3y // b q9 tri T a -| =16 b tri fx vbar a .La .ti
+c02: vd // m a T vbar a 3p // -| L ++ =mm a Dz 3p -| a v =22 C fu 3y b a 3p o T fx L o -| // 3y n fx a 3p a 3n b // 3n vbar
+c03: tri // 3y q9 ++ fu =ll fu -| a 3n q9 ++ 3y o -| C a b tri vbar T // q9 C vbar tri a -| // q9 tri fx C // 3p -| a T o 3n vbar a
+c04: // pp tri 3n =22 =ll a 3n a b a vd ++ q9 -| a T vbar o 3n 3p a tri 3n o n C fu 3y b tri -| a =22 tri a 3n o T q9 tri v
+c05: q9 ++ fu =ll fu a 3n vbar -| a -| o 3n v -| ++ f fx 3y // q9 a n pi b a fx o =23 =18 // 3y C a q9 // q9 fx a vd a
+c06: Dz vd // 3n b a -| 3p // -| =16 b tri fx vbar a tri 3n T vbar -| q9 fx vbar tri ++ 3n vbar ++ q9 fx L // 3n vbar =22 fu =22 vbar -| // 1 fx vbar tri
+c07: =22 o C // Dz T a -| q9 // vbar tri ++ 3n b a q9 ++ 3y a T vbar // vbar 3y f // -| fx a =22 tri a T q9 tri v // H# a q9 -| o
+c08: =22 fx a q9 T vbar =14 a q9 ++ q9 v b a T fx ++ q9 fu -| tri -| T // 3n v a f vbar tri -| a beta // q9 fx fu 3n x -| q9 tri fx vbar
+c09: n // q9 H# tri b a 3n a C a 3p -| tri a beta b a P ++ s a -| ++ -| b -| a =23 3n // tri =ll a // q9 fx fu 3n T a fx ++ q9
+c10: -| v b // =ll o vd // tri m 3n a o 3n x // q9 a fu -| b a q9 ++ v T q9 4 tri a vbar v n T C a q9 a 3y fx // -| fx a 3n a
+c11: T a -| ++ tri vbar =22 vbar a vd v v 3p a -| b fu C // 3y // 3n vbar 3p // -| 3p C fu T tri T tri a q9 -| v x ++ tri T vbar // T vbar a
+c12: C o fx a T vbar o pp a fx vbar n q9 a fu fx C // tri -| o vd a 3n vbar =23 3n a q9 ++ q9 C b -| ++ tri fx vbar L // 3p // -|
+c13: P a -| T // -| a 3p q9 vbar // fs tri ++ 3n // vbar fs // 3n b fu =23 fx ++ m 3n ++ tri T vbar |- fu // n -| // 3n b 3p a tri 3n a
+c14: T a -| ++ tri fx vbar tri fu ++ 4 a 3y .Day .ti .ol a T vbar // 3n vbar fs ++ q9 3p vbar fx a =22 tri a 1 =18 3p q9 a T o T fx -| a 3p -| a
+c15: =22 o fx tri T vbar o x ++ tri v T a 3n ++ f =22 tri // 3y // q9 H# tri b ++ s a =16 C o vbar o vbar -| a // C tri vd 3p a -| // vbar -| tri fx a
+c16: // C // =22 =ll a tri // 3y // q9 H# tri x // 1 fx vbar a 3n vbar // 3n b -| a b a 1 =16 v // -| vbar C o Dz vbar // 3n vbar a vd o 3n vbar
+c17: |- fu // q9 a 3p b a T v ++ q9 T a T a -| v // x tri =ll u n =22 C fu 3y T a -| o v // tri // vd // tri v 4 ++ 3n x tri C v
+c18: C // 3p -| tri // 3n vbar b a vbar a 3n tri -| C // vd // tri 3n // b fx a =22 C o vd o vd // -| a // m a T a pp o fx vbar q9
+c19: C o 3p C fu v vbar ++ T vbar =23 T a -| ++ 1 fx vbar 3p ++ H# tri 4 C o C // =22 =ll a vd a vd // b tri fx vbar =22 =ll a =18 .Dao
+c20: -| a vd a -| fx 3y o n =22 C o 3p C fu T tri a fu -| v -| // tri T ++ 3n v a =ll o =14 C tri a 3n vbar a 3n fu o b a fx o 3n
+c21: =22 o q9 ++ fu v // |- fu ++ 3y a =ll o T a vd 3p C ++ 3y a -| // b a fx tri a 3n C ++ f fx q9 ++ tri fu n =18
+c22: x a -| // -| a T 3p ++ 3n fx a C // =22 =ll a o =ll a vd a fx // tri =ll a -| // 11 3p -| a v .Il .ti .ol
+# 暗号はここまで（ao_L22 の行末に無効字「Il ti ol」、続きは平文）。この手のʒ類：3 に似た尾つき（ʒ）は 3y（y）、ループつきの y 形は、文脈で v（s）か 3p（p）とした（形では分けられない。f.39r の y 形と同じ扱い）。初め y 形も 3y と書いていたので、c01–c06 を文脈で直した（par・expres・despescheray・cependant・peine・prier の p）。ŧŧ（H#）は c19「po(ss)ible」で ss と読める。

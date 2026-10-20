@@ -1,0 +1,30 @@
+r39-061	B	//
+r39-062	B	bold plus
+r39-063	B	d loop part
+r39-064	A	d-loop joined to 3
+r39-065	B	p with thick bar
+r39-066	A	stem with arm
+r39-067	A	stem with slash and bar
+r39-068	A	//
+r39-069	A	small o
+r39-070	B	plain z
+r39-071	B	//
+r39-072	B	two tall strokes one bar
+r39-073	B	stem right arm
+r39-074	A	18
+r39-075	B	none
+r39-076	A	small o
+r39-077	B	stem arm
+r39-078	B	n
+r39-079	B	//
+r39-080	A	t with bar
+r39-081	B	18
+r39-082	B	//
+r39-083	B	stem arm
+r39-084	A	t bold
+r39-085	A	tall stroke plus r
+r39-086	A	hash
+r39-087	A	small o
+r39-088	B	4-like
+r39-089	B	r with loop
+r39-090	B	t with bar

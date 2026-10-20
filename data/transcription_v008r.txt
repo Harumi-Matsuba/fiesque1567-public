@@ -1,0 +1,8 @@
+# BnF fr.15919 コマ8の右（f.4r の上、1567年10月の書簡の最後の暗号2行）書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ8の右（原寸）。行の画像は src/trackline.py で作った（q_L01–q_L02）。
+c01: 8 a vbar // n L a C + -| vbar // pi a 3n fx fu a -| 1 -| vd // 1 v 1 fu x // fu C vbar
+c02: =22 8 o pi a 3y m + fu ptil a -| 3n o 4 1 a f b a vd vbar fx -| u pi a 3n vbar
+# 続く平文：L'ambassadeur de l'Empereur arrivant de Constantinople le … du grand seigneur …、De Vienne ce … d'Octobre 1567。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：上の確かめで直した箇所のうち、追加の読み手の Codex が1回目の読みを選んだ 1 か所（v008r）は、読み手がそろわないので元に戻した。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：codex・sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。

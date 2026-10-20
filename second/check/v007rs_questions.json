@@ -1,0 +1,58 @@
+[
+{
+"id": "v007rs-001",
+"line": "o_L02",
+"row": 1,
+"pos": 14,
+"before": "n o fu",
+"after": "// u vbar",
+"A": "mine",
+"B": "codex",
+"textA": "there is one sign \"//\" here",
+"textB": "there is no sign here (only a thin separator line, a gap, or nothing)",
+"mine": "//",
+"codex": "-"
+},
+{
+"id": "v007rs-002",
+"line": "o_L05",
+"row": 4,
+"pos": 22,
+"before": "fs vd a",
+"after": "// 1 =ll",
+"A": "codex",
+"B": "mine",
+"textA": "\"C\"",
+"textB": "\"c\"",
+"mine": "c",
+"codex": "C"
+},
+{
+"id": "v007rs-003",
+"line": "o_L09",
+"row": 8,
+"pos": 11,
+"before": "a -| fu",
+"after": "fx fu ptil",
+"A": "mine",
+"B": "codex",
+"textA": "\"=20\"",
+"textB": "\"z\"",
+"mine": "=20",
+"codex": "z"
+},
+{
+"id": "v007rs-004",
+"line": "o_L09",
+"row": 8,
+"pos": 12,
+"before": "-| fu =20",
+"after": "fu ptil y",
+"A": "mine",
+"B": "codex",
+"textA": "\"fx\"",
+"textB": "\"o\"",
+"mine": "fx",
+"codex": "o"
+}
+]

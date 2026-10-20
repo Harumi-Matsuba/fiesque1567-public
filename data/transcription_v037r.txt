@@ -1,0 +1,7 @@
+# BnF fr.15919 コマ37の右（f.33r、1568年2月15日、国王宛。本文は Sire）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ37の右（原寸）。行の画像は src/trackline.py で作った（x_L01–x_L02）。前は平文「… a esté bien à propos parce que comme je vous ay escript je l'ay」。
+c01: // v f o -| fx a fu ptil 3n m v a ptil x // fx L o =23 3n // fu + 1 fx vbar o fu b o fu + v 3n + fu ptil o =ll
+c02: arrow o v fu tri T C rho v // -| vbar o vd a 3n vbar b o vd + 3n T 1 a fu -| P o fu tri m 3n o -| ++ =ll a T
+# 続く平文：Il luy a dict que mauvais commandement de l'Empereur …
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。

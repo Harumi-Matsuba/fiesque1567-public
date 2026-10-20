@@ -1,0 +1,29 @@
+am_L01	=22 tri a L a + ptil ++ a y tri a + a o + a vd ++ 3n T o + lf fs // 3y 11 3n o a + a 3y u + a o // + L a o 3n L
+am_L02	+ f a pi a 3n =20 a T o + o =16 + ++ ptil pi a fs vbar ptil vd + a pi // p 11 L a // T ++ 7 o ptil pi a [pao moy]
+am_L03	+ ptil // a T o + // ptil T a =22 vd ++ 3n T tri a fu + L a C a 3y tri o ptil + a vd a C // o 3n ptil ++ 3y 3n y // + a
+am_L04	fu 3n m L a T y // ptil o tri a a + y ++ + vd a 3n // a + a y L fu L a T o p a a K d a o d a y // # a 3n =22 7 a
+am_L05	a a x ptil 3n // y f ++ fs o y a ptil + o vd a 3n o L + o L T a T fu // 3n o C =22 C 3y y + a T L
+am_L06	tri ++ s a =16 C a T + o a 3n T o vd + a o + o 7 a L a p // fs ++ z 3n a // pi tri a ptil ++ 3y // 3y L a T o pi
+am_L07	vd // ptil a a y d vd // 3n L a L o ptil z vd a 3n o f L + a =22 + ptil // 3n L a f ptil ++ z // T o a y vd ++ 3n T a
+am_L08	m 3n a ptil + C o + // + 3n a 3n // p L a m p a T a o f a T y // a z 3n a o T a + ++ 3n L # ptil 7 ++ a + L a z //
+am_L09	pi ++ + o d a z // x a ptil o fs ++ z 3n a =16 T # a ptil + C ptil z d vd // 3n L // v a T L a 3n o // 3n L + a d ptil
+am_L10	K + p a 7 o =14 ++ o f o T // + a y ++ ptil p o tri ++ 3n T ptil + C o x // + o 3n ptil // + a // 1 m a + p a y a
+am_L11	o 1 // + o ++ a fs L a =16 L a + o a vd // m o T o a =10 vd // L // pi a T // x a 7 a // a T 3n 3y z a z z ptil
+am_L12	d a y [renu la] L a y // + // ptil // 3n o a p // ptil ++ a + o vd ++ 3n T o + a // fu ++ a + x ++ + o // m + a
+am_L13	+ C o =10 L a T z // a + a ptil ++ fu 7 ++ a + a T o + o C u vd a d a // o a ptil + =10 vd ++ z o a ptil fs
+am_L14	d a T a 7 ptil z C d o p a o // + fu ++ z a p // ptil + ++ + o x // a T o + a T y ++ 3n + a // ptil L a T o T a a ptil +
+am_L15	n // + L a 3n // fu =22 C o y + f + T a y a T o ++ a 3n o + f 11 3n z lf y y // + C vd ++ + o L a 3n
+am_L16	+ ++ z 3n a T // x a 3n o =10 + ptil a T o // 3n o ptil a x fu a p // ptil ++ a T o d a z a + a + o d a T y ++ ptil T a +
+am_L17	v // L a T o a x a 7 a // a T 3n C =20 o a T o + o d a // a m a y ptil ptil v + ++ 3n ptil a 3n // + z a // fu ptil z
+am_L18	=10 =23 // ptil + ++ a T o 3y ++ + o // m + a // =14 =20 o =10 L a T a + a fs ++ a T =22 =16 L a T o a vd // m a T
+am_L19	fs a x ptil o d 3y o // 3n o a L o T y ++ ptil T a fs C // T a + # 3n L o K ++ vd 3n T ptil + ptil ++ z // 3y 3n o
+am_L20	a 3n o f L fu L a ptil ptil a T =16 a 3n o a f o a ++ 3n =18 // ptil + ++ a T o y + a a L a 3n o f + a a 3n y [renu]
+am_L21	vd // 3n L a + // T // vd // m a T o u L a d a n // =22 y + a pi tri a o + u vd a 3n o a p 3n z a ptil T o
+am_L22	o 3n ptil ++ z a ptil fu 3n m + ++ ptil pi tri a fs p a o L a n n // + a p T // # a ptil + # a o =22 o ptil ptil o
+am_L23	z a x // ptil + o L a T o vd // + a // m a T a # a o fs a vd a T y ptil + =22 z K T vd =10 =22
+am_L24	d a y ptil a T a p =18 // ptil + ++ a o x // ptil + o a 3n o // f L + a y // + vd ++ 3n T a a ptil + L a x ++ + =22
+am_L25	ptil // fu C =16 // L vd + // # // L a ptil + =23 C =23 // ptil ++ a T o + a vd a y =23 a 3n o a a o + a T ++
+am_L26	C fu o vd 3n d fu vd // + a // m a d a T // y a + ++ 3n L a x a 7 a C o =22 p a p L a T a + ++ a o
+am_L27	=14 + a + ++ 3n ptil p L =10 d o + // T o a d a ptil // 3n o C ++ z a 3n o T y // a m 3n a p a o [moy]
+am_L28	+ a + fu // z 11 3n o =16 vd // m a T o a a 3n o // f L fu a 7 o // ptil + ++ a o a 3n ptil ++ z o // vd y z o
+am_L29	y ++ ptil p ++ a + // ptil L a T o T a a ptil fs L a x ++ + =22 ptil // p p o L a T a =13 =10 a + a 7 + z f a

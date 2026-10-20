@@ -1,0 +1,30 @@
+r39-001	B	L
+r39-002	A	//
+r39-003	B	t with bar both sides
+r39-004	B	faint //
+r39-005	B	zo
+r39-006	B	ß bold
+r39-007	A	two upright strokes
+r39-008	B	stem with right arm
+r39-009	A	stem with right arm
+r39-010	A	single upright stroke
+r39-011	B	faint //
+r39-012	B	x blot
+r39-013	B	only dot
+r39-014	A	t with bar
+r39-015	B	round with cap bar
+r39-016	B	stem right arm
+r39-017	B	faint //
+r39-018	A	wide double loop
+r39-019	B	T bar and stem
+r39-020	A	h with tail
+r39-021	B	W-like
+r39-022	A	y with tail
+r39-023	A	stem right arm
+r39-024	A	//
+r39-025	B	thorn loop
+r39-026	A	//
+r39-027	A	zo
+r39-028	B	stem left arm
+r39-029	B	only separator
+r39-030	B	short upright

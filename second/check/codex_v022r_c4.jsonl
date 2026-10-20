@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a15806-8bd4-75b3-b2c2-0aa9f1104993"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"v022r-121\tB\tStem extends above and below crossbar\nv022r-122\tA\tOnly a thin tall separator stroke"}}
+{"type":"turn.completed","usage":{"input_tokens":19827,"cached_input_tokens":15104,"cache_write_input_tokens":0,"output_tokens":149,"reasoning_output_tokens":115}}

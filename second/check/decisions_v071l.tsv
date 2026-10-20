@@ -1,0 +1,14 @@
+id	row	pos	mine	codex_reading	sonnet2	sonnet3	decision
+v071l-001	1	1	fx	+	codex	codex	fix:+
+v071l-002	1	17	fx	|-	codex	codex	fix:|-
+v071l-003	2	4	a	u	mine	mine	keep:both-mine
+v071l-004	2	9	fx	+	codex	codex	fix:+
+v071l-005	2	15	H#	=11	codex	codex	keep:not-a-key-name
+v071l-006	2	18	fu	ptil	codex	codex	fix:ptil
+v071l-007	2	23	fx	+	codex	codex	fix:+
+v071l-008	3	7	fx	+	codex	codex	fix:+
+v071l-009	3	28	a	u	mine	codex	keep:split
+v071l-010	4	6	fx	-|	mine	mine	keep:both-mine
+v071l-011	4	13	b	C	mine	mine	keep:both-mine
+v071l-012	4	21	fx	-|	codex	mine	keep:split
+v071l-013	4	30	3y	fx	codex	codex	fix:fx

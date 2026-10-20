@@ -1,0 +1,30 @@
+v149r-031	B	stem with arm to right, before p-tilde
+v149r-032	A	small triangle after T
+v149r-033	A	bold plus
+v149r-034	A	z-like with long tail
+v149r-035	B	i and c group like ic
+v149r-036	A	small round sign with cap bar
+v149r-037	A	bold plus
+v149r-038	A	plus, stem both ways
+v149r-039	B	two faint slanted strokes
+v149r-040	A	digit 4 shape
+v149r-041	B	small o
+v149r-042	A	p-shape covered by thick blot
+v149r-043	A	two faint slanted strokes
+v149r-044	A	flat filled triangle
+v149r-045	B	small round sign with cap bar
+v149r-046	B	two slanted strokes
+v149r-047	B	u-shaped letter
+v149r-048	A	dark filled triangle
+v149r-049	B	flat wide triangle
+v149r-050	A	p with stem curving left
+v149r-051	A	two slanted strokes
+v149r-052	B	digit 4 shape
+v149r-053	A	no extra sign between a and vd
+v149r-054	A	bold plus
+v149r-055	A	p with bar across descender
+v149r-056	B	single short stroke i before cross
+v149r-057	B	h-like with long tail down left
+v149r-058	B	p with bar across descender
+v149r-059	A	a-like round letter
+v149r-060	B	p with stem curving left

@@ -1,0 +1,35 @@
+f079-001	A	faint slanted pair after fx ++
+f079-002	B	faint slanted pair after m -|
+f079-003	B	n shape
+f079-004	A	plain 3 on line
+f079-005	B	a-like with long tail dash
+f079-006	A	slanted pair before 7
+f079-007	B	small y with tail
+f079-008	A	slanted pair
+f079-009	B	p with bar on descender
+f079-010	A	single short upright
+f079-011	A	bold plus, stem above and below
+f079-012	B	stroke with left arm
+f079-013	A	small y/v with tail
+f079-014	B	slanted pair
+f079-015	B	small plus-like cross
+f079-016	A	slanted pair
+f079-017	B	t-like with bar both sides
+f079-018	A	t-like bar both sides
+f079-019	B	thin pointed W
+f079-020	B	m-like three humps
+f079-021	B	ic group at line end
+f079-022	A	f (uncertain, f and vbar both near)
+f079-023	B	slanted pair
+f079-024	A	slanted pair
+f079-025	A	small filled triangle
+f079-026	B	C-like with loop
+f079-027	A	slanted pair
+f079-028	B	stem with left arm
+f079-029	A	slanted pair
+f079-030	B	14 digits
+f079-031	B	small y-like
+f079-032	B	slanted pair
+f079-033	B	slanted pair
+f079-034	B	a-like with long tail
+f079-035	A	small ic group

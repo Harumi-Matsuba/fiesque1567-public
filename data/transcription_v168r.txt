@@ -1,0 +1,15 @@
+# BnF fr.15919 コマ168の右（1569年11月4日、Vienne、王妃宛「du comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ168の右（原寸）。行の画像は src/trackline.py（as_L04–as_L10 と au_L01。as_L01–L03 は平文）。前の平文の結び「… les particularités de la victoire … au Roy son Seigneur」の後に無効字「Il ti ol」。記号名と十字形の扱いは transcription_f039r.txt と同じ。三角 ▲ は tri（i）、ℌ は 3n（n）、3 に似た尾つきは 3y（y）、ループつきの y 形は文脈で v（s）か 3p（p）。
+c01: .Il .ti .ol tri // 3y -| a vbar a 3n fu .La .Day C o fx ++ q9 =rr tri a -| =22 o q9 H# fu v vd // 3n b a beta .moy
+c02: 3p // -| fu fu 3y C // -| a T 3p ++ 3n fx u =22 pi a x o -| // arrow T 1 q9 -| fx a =22 tri o fu ptil 3y // 3y b a vd // 3n
+c03: P o vbar ++ q9 n L // 3n vbar fx a =22 vd a T fx beta a f q9 a 3y P a T fx o -| tri pi ++ 3n tri a v =23 a 3n .La
+c04: fs // 3n P =22 fx o x // n a 3y f vbar // q9 pi // -| tri 11 m a // H# tri f =22 3y -| o 3n tri a 3y .Dao .moy
+c05: -| a T ++ C fu vbar tri ++ 3n P 3y a 3n fu ++ 3y o beta vbar a fu f a -| T ++ s // tri z a =23 // 3p f // -| vbar tri a f
+c06: b -| // .Dao .La C o =22 fu vd // P tri fx vbar =23 vd a 3n -| // f P -| // 4 tri a 3n vbar ++ T vbar .Dao .La
+c07: -| a T 3p ++ 3n fx a C -| a T ++ C fu vbar tri ++ 3n C // =22 =ll a // 3y // 3n vbar // 3n vbar tri ptil o tri a 3n o x // tri =ll tri -| // 3y
+c08: 1 =mm a 3n fu ++ 3y o beta tri 3n tri 3n fx fu f vbar tri 3n // f vbar 3y // -| C o b tri fx vbar fx ++ q9 =rr tri a beta .Il .ti .ol
+# 暗号はここまで（au_L01 の行末に無効字「Il ti ol」、続きは平文）。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：codex・sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：codex・sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。

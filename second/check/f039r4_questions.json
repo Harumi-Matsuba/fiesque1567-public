@@ -1,0 +1,30 @@
+[
+{
+"id": "f039r4-001",
+"line": "a_L06",
+"row": 5,
+"pos": 35,
+"before": "vbar // H#",
+"after": "y x +",
+"A": "mine",
+"B": "codex",
+"textA": "\"a\"",
+"textB": "\"u\"",
+"mine": "a",
+"codex": "u"
+},
+{
+"id": "f039r4-002",
+"line": "a_L21",
+"row": 20,
+"pos": 10,
+"before": "=22 3n o",
+"after": "y f o",
+"A": "codex",
+"B": "mine",
+"textA": "\"\"",
+"textB": "\"=18\"",
+"mine": "=18",
+"codex": ""
+}
+]

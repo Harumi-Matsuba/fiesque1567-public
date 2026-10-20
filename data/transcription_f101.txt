@@ -1,0 +1,32 @@
+# BnF fr.15919 f.101r（f.100v の続き、1568年9月4日）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ106の右（原寸）。行の画像は src/trackline.py で作った（l_L01–l_L27）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。
+c01: .Il .ti .ol v C fu T tri o ptil -| v fx L ++ T a T c tri o 3n tri C ++ 3n m 3n lf v b o C // ptil o -| tri vbar a
+c02: =10 =22 vd // fu tri o v fx ++ vd pi // 3n b a b o C fu 3y =13 o 3n vbar // f b fx a fx o fx 3y
+c03: // pp tri 3n =22 b o fx ++ s a L o fu -| a tri C v fu fu tri H# a b ++ 3n f a -| ++ -| b beta a o 3n ptil o -| v
+c04: C o T b tri fx vbar v f -| tri 3n fx a T v tri C 3y o 3n // =22 C fx fu a T ptil 3n m T fx fu tri ptil H# fu =ll o 3n vbar
+c05: // b L o -| a beta // C o ptil -| T vd // q9 fu // tri T b o H# a tri 3n T =10 vd o T pi a vd a 3n vbar
+c06: =22 pi C o T vbar -| // 1 fx vbar a b ++ ptil C fx a vd o 3n vbar =10 vd // tri 3n vbar 1 a f vbar fs ++ fu T C rho T
+c07: o b tri fx vbar v =23 C o fu -| // ++ fx vbar -| H# 3y a tri C =14 ptil -| // 3y =23 // T tri 4 tri o 3n
+c08: =20 q9 a fu =10 b ++ s a ++ -| b -| a v // -| vbar ++ ptil ++ ptil v C o T o 3n b -| ++ tri vbar v b o T ++ 3n
+c09: beta ++ 3y // fu vd a =23 3n // fu fx ptil 3n a v // ++ fu -| =22 T a v ++ tri vbar o 3n C a fu -|
+c10: v fu tri H# // 3n fx a f o b // fu C vbar -| fu 3y b o C fu =13 // fu fx ptil 3n vd // C pi // 1 T =22
+c11: fu ++ ptil v b o T tri -| 1 a v b o -| a vbar -| // 3n fx L o -| vbar ++ fu v C o T vd ++ 3y a 3n T =23 v
+c12: v fu tri H# o 3n vbar -| o 1 vd a vbar fs -| a C o T // -| 1 vd o T o 3n =16 -| ++ 3y // fu C 1 vd a .Day L a
+# c10・c11・c12 の行末の「receu」「ar」などは平文の字の並び（無効字と推定）なので書いていない。
+c13: tri C vd // b 1 fx vbar =23 3n // T fx a fu tri ptil T fx fu fx fu a v // fx o T vbar L o fu -| a fx fu // fu fx ptil 3n T
+c14: v -| tri 3n fx a T b // =ll a vd // tri m 3n a // 3y o 3n vbar a T vbar a v T ++ C tri fx 1 vbar o v b ptil
+c15: fx ++ T vbar a b a x -| // 3n fx o vd // tri T =23 o 3n a T fx -| tri v -| // T o v fx ++ vd pi tri H# // 1
+c16: -| o v fx fu tri T ++ 3n vbar ptil o -| v C o T H# =10 x // tri -| // vbar ++ fu vbar a T C o T v -| ++ fu tri T 1 H# 3n v
+c17: =23 v ++ fu =rr // =23 3n o T ++ tri fx vbar v -| o T vbar a ++ 1 ++ -| a tri =ll a // fu C x // fu C rho -| // v f ++ -| vbar v
+c18: =22 C ++ 3n =20 -| ++ 1 fx vbar v ++ -| vbar o beta b o x -| // 3n fx a o vbar // fu H# tri =23 3n o T ++ 1 fx vbar
+c19: P ++ s a // fu fx ptil 3n T o fx ++ ptil -| v fx ++ 3n vbar -| a pi vd // 1 T =23 q9 ++ ptil v fx ++ 3n T a tri =ll o
+c20: + tri o 3n =22 =18 o fu tri vbar 1 a v vbar ++ ptil vbar a T C o v ++ ffx // v tri ++ 3n T fx ptil tri v ptil tri H# o 3n vbar
+c21: ++ 1 vd v -| a =16 v // vd .Day vbar o fx fu o 3n fx ++ -| a T =23 T ++ 1 fx vbar // H# o fu -| a
+c22: =22 q9 ++ ptil v o T vbar a v // H# a T v -| ptil b o 3n vbar a =10 =22 =16 fx ++ 3n T a tri C 3y 4 T tri C
+c23: T // tri m a =22 q9 ++ ptil v 3n ++ fx vd o vbar fs -| a v // fu fx ptil 3n a fx L ++ T a pi o C a T vbar //
+c24: fx C a H# o vd a 3n vbar b ptil -| o v ++ v b o =16 -| ++ 3y // fu vd a .Day vbar ++ ptil vbar o T
+c25: x ++ tri T pi C a 3n fu 3y a =23 // =22 fu ++ v // x 1 =23 T // tri =ll o 3n vbar // fu H# tri C tri o 3n
+c26: =22 C rho T v tri o 3n T v -| ++ f -| o T =23 3n o fu a ptil C vbar x // tri =ll 1 -| b o 3n P tri -| a T ++ 3n
+c27: // fu tri T pi =10 vd a fx ++ vd pi // 3n fx // f vbar // v -| C o -| b o T // x 3y // tri -| o T
+# 暗号はここまで（ページの終わり）。続きは f.101v（コマ107の左）。行の中の「receu」と行頭の「Day」の後の平文は書いていない。

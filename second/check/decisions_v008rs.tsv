@@ -1,0 +1,4 @@
+id	row	pos	mine	codex_reading	sonnet2	sonnet3	decision
+v008rs-001	1	19	-|	fx	codex	mine	keep:split
+v008rs-002	1	21	-|	fx	mine	mine	keep:both-mine
+v008rs-003	1	31	C	z	mine	mine	keep:both-mine

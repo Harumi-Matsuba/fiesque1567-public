@@ -1,0 +1,29 @@
+# BnF fr.15919 コマ8の左ページ（コマ7の書簡の続き、1567年10月、王妃宛）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ8の左（原寸）。行の画像は src/trackline.py で作った（p_L01–p_L25）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。抹消された記号は書いていない。
+c01: a vbar fx fu 1 fu v fx fu ptil H# 1 fx vbar 4 1 a 3n n fx m 3n H# 1 v vbar -| o =22 pi =10
+c02: =18 fu ptil 3y // fu a v vbar fx fu v 1 H# ptil -| T vd fx 3n v vbar -| a 4 ++ s a
+c03: // pp a fx vbar 1 fx 3n a vbar 8 fu vd o b 1 fx vbar =23 f fx fu =rr H# 1 fx vbar 4 1 a 3n 1 4 -| o
+c04: =22 =16 // vd 4 11 H# // b o fu -| a fu v o b o C fu 3y pi a v vd o T x // 1 fx vbar
+c05: n a v vd // fu ptil 11 1 v fx pp 1 n a T v // 3n T =16 T fx a fu P // fu 11 3n vbar // 1 m o
+c06: =23 // ptil fx 1 fx vbar =14 u // b fu a -| vbar 3y =23 a v vbar fx 1 fx vbar v // H# o
+c07: fu a 3n 1 v o ptil 3n z 11 vd 4 // H# // b o fu -| =22 =18 a 3n fu fx z u v
+c08: n fx 3n v vbar // f fs 1 3n fx v fu o 8 a C fu 3y b 1 fx vbar v =22 8 o 3n o T n // fu fx 1 v
+c09: =22 3y a 3n fu fx z H# 1 a v vd // 1 v =22 8 a v vbar fx 1 T 4 1 a 3n // H# a fu -| o
+c10: fx fu a =18 3n o fs -| // 1 fx vbar a -| 1 o v n L fx v a =22 T fx 1 fx vbar // v fx 3n
+c11: v -| a 1 fu b 1 n o a vbar =22 v 1 n o fu // n a x // 1 v fx 1 fx vbar T o v a -| H# 1 fx vbar
+c12: ptil a n fx 3n vbar -| // 1 -| a P o fu // 4 ++ s o ptil fx fu fu 3n vbar o =22 // fu o v b a
+c13: fu fx ptil v a 1 vd v fu fx 3y a -| =20 C // b 1 fx vbar o ptil 3n 3y fx 3n a vbar C // 3y
+c14: T fu v f fu 1 a fx -| fx 1 fx vbar =22 =18 3y v -| fx n a b P 1 a v b o C //
+c15: 1 vd a 1 =ll o ptil -| u =10 T 1 3n n a -| o // 1 vd 1 vbar =23 o =23 =14 v fx H# 1 4 fu o 8 fu
+c16: =18 v fu // 1 -| // b o pi // b fu o -| o vbar 1 -| P o n a =22 8 a fu fu 3y // fu -| // 3y
+c17: // b 1 -| o =10 beta o v v fx 3n b -| a T fu -| -| o v x // 1 fx vbar o 3n n // v =23 1 vd o f
+c18: v // -| fu o f C fu v 8 a 3n // 3y T n a fu // v f -| a 3n b -| o b fu pi // -| 1 // 1 z o
+c19: P a v x 1 =ll a v b a pi T 1 3n fx f =22 3n x // 1 v // 3n vbar fu a vd // -| 1 // 1 m a b o
+c20: C // 1 T 3n fs fu fx ptil fu b fx -| fx 1 fx vbar 1 4 -| o a v fu o fu -| H# 3y P a v beta fx 8 // 1 3n T
+c21: =10 =22 fu // 3n a m // 3n // v f fx -| -| vbar o 4 // m fu a v f a // fu fu vbar -| o n L fx v o
+c22: fs fx fu n L // 3n vbar fx a vd 1 -| // tri m o pi // 1 v =23 z o n L // H# fx 1 fx vbar fu //
+c23: T o n fx 3n b o z o C a -| fx 3y b o v fx -| vbar fu m // fu b a v fx fu o =ll a v n L fx T a v
+c24: pi 3n o T a Dz vbar n 3n vbar a 8 fu // o T vbar b a v v a n L o fu 3n z f fx fu =rr 1 a -|
+c25: a 3n o v v // 1 z 3n o b fx 3n vbar f // 3y fx 1 a 3n v v a fu o 3n vbar a f b -| o
+# 暗号はここまで。続きはコマ8の右（f.4r の上の2行）。抹消の記号は書いていない。

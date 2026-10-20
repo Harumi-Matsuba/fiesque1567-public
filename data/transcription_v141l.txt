@@ -1,0 +1,24 @@
+# BnF fr.15919 コマ141の左（f.135v、1569年1月14日の書簡の続き）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ141の左（原寸）。行の画像は src/trackline.py（ak_L01–ak_L21）。行頭「Il ti ol」は無効字。
+c01: .Il .ti .ol =13 T fx // q9 -| a v vd tri a q9 C o =22 tri a 3n a C o =20 -| ++ tri T
+c02: o T f -| tri v -| a fx ++ =mm a tri o q9 ++ q9 v // 3y o T fx -| tri v vbar f // fx v C fu T tri
+c03: a fu -| v x ++ tri T =22 =ii o 3n v ++ q9 fu tri a v // fs vbar // 3n b -| a C
+c04: -| o T ++ fu vbar tri ++ 3n fs fu fx vbar + v fs b fu fx ++ T vbar a b o v v // tri m 3n a
+c05: =22 b a P o fx // f // -| tri C vd a T o vd 4 C a =22 vbar ++ q9 fs b o v f a 3n
+c06: P o C // q9 ++ C q9 3n vbar a b fu =ii .par .moy pi vd // b tri fx vbar =22 C a
+c07: b fu n q9 ++ C x // 3n m // o 3n a f q9 tri -| ++ 3n vbar -| ++ tri v vd tri C fu a
+c08: o 3n T a vd 4 C o =10 =22 C a fx -| q9 tri vbar n ++ q9 -| fx tri vbar =22 C // -| ++ 3y 3n a
+c09: b // 3n m C o vbar a =rr a x // 1 T fx tri vbar fs -| ++ tri v vd tri C fu a vd // tri T =22 tri q9 T =22 v
+c10: // fx a T vbar L o q9 fx a tri C 3n a f // -| tri a 3n v b a fx o -| vbar // tri 3n
+c11: tri C vd a T a pi 4 C o // T ++ 3n v // -| C o beta =23 b ++ q9 4 vbar a =22 // fx a
+c12: v -| tri a vd vbar a pi v v 3n o T a b o v fx ++ q9 fu -| a q9 3n a m -| // 3n b a C
+c13: =20 q9 o =rr a .Day C o v // pi 4 // H# // b o q9 -| v b fu =ii b L o H# a
+c14: T ++ 3n vbar tri fx 3y vd // tri v tri a 3n // 3y f a q9 a 3n vbar // f b -| a fx a =23 v
+c15: vbar -| // 1 fx vbar a 3n vbar .Day C o x tri C v // tri T 3n a b fu fx ++ vd vbar a arrow //
+c16: q9 3n m x tri C v b a C // T ++ a q9 -| b fu =ii =10 fx a =ll fu 3y fx fu tri vd //
+c17: q9 ++ tri fx vbar b tri fx vbar =23 3n fu ++ tri fx vbar v ++ tri 3n vbar b tri 3n x // 3n v =14 q9 3n m
+c18: v a =14 T ++ d6 // tri m a b o m -| // 3n b a // q9 fx vbar ++ -| tri fs a =22 vd a C o
+c19: P tri T ++ tri fx vbar T a v vbar ++ d6 // 3n vbar =22 C o =ll a fx vbar a q9 -| b o =phi b o d6 //
+c20: T // x tri =ll a o 3n vd // -| tri // 1 m a // q9 fx // H# a vd tri -| a .Il .ti .ol
+# 暗号はここまで。続く平文：Il ti ol (無効字) Ne se presentant autre chose digne de vous escripre de privay …、De Vienne ce 14 de Janvier 1569。
+# 2026-10-20：画像で全行を見直して書き直した（三角 ▲ を tri（i）として a と分けた、行の区切りを画像の行に合わせた（今は20行、ak_L01–ak_L20）など）。

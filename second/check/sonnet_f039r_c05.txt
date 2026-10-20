@@ -1,0 +1,35 @@
+f039r-176	B	symmetric plus
+f039r-177	A	t with stem above bar, thin
+f039r-178	B	script L with top curl and base bar
+f039r-179	A	cross with two bars
+f039r-180	B	stem with arm on right
+f039r-181	A	thick blob with loop
+f039r-182	B	3-shaped after blob (Dz vs 3y uncertain)
+f039r-183	B	script L like 178
+f039r-184	B	thick bar blot over p-like shape
+f039r-185	A	2-shaped r rotunda
+f039r-186	A	stem with thin bar on right only
+f039r-187	A	stem with bar after separator
+f039r-188	A	plus, near symmetric
+f039r-189	B	stroke with arm at left top
+f039r-190	A	faint // after the arm sign
+f039r-191	A	wide double loop
+f039r-192	B	2-shaped with big loop
+f039r-193	A	faint // after separator
+f039r-194	B	small p-like loop with stem, vd-ish
+f039r-195	B	faint // after left-arm sign
+f039r-196	A	nothing between l-r and a
+f039r-197	A	script L-like between t and //
+f039r-198	B	faint //
+f039r-199	A	plain z
+f039r-200	B	faint // after vbar
+f039r-201	A	two tall f strokes crossed by bar
+f039r-202	A	faint // after o
+f039r-203	A	2-shaped with large loop
+f039r-204	B	3-like top with long tail below left
+f039r-205	B	bold stem with arm on right
+f039r-206	B	faint // with separator
+f039r-207	A	letter a
+f039r-208	A	faint // after t
+f039r-209	B	2-shaped with loop
+f039r-210	B	2-shaped with big loop

@@ -1,0 +1,30 @@
+v149r-001	A	cross with stem and left slanted arm, 4-like
+v149r-002	A	short i plus c, ic group
+v149r-003	A	looped script l letter
+v149r-004	B	bold symmetric plus
+v149r-005	A	t with bar both sides
+v149r-006	A	t-like, bar mostly left but slight right
+v149r-007	A	p-like stem with bar and top flourish
+v149r-008	A	small round sign with cap bar
+v149r-009	B	hash-like two uprights crossed by bars
+v149r-010	A	f with crossbar
+v149r-011	B	small o with dot after C
+v149r-012	A	capital T
+v149r-013	A	bold plus, stem above and below
+v149r-014	B	p-like bowl with stem curving left
+v149r-015	A	wide flat double loop with bar
+v149r-016	A	zz-like double stroke
+v149r-017	A	small o next to f
+v149r-018	B	t with short bar both sides
+v149r-019	B	small o before f
+v149r-020	A	2-shaped z/C sign between a and o
+v149r-021	A	small o after 2-shaped sign
+v149r-022	B	double loop with long bar, wide
+v149r-023	B	two slanted strokes after tall letter
+v149r-024	B	stem with arm on right only
+v149r-025	A	number 14
+v149r-026	A	single short upright stroke before m
+v149r-027	B	stem with arm on right
+v149r-028	A	two slanted strokes
+v149r-029	B	plus-like, 4-ish with slanted arm
+v149r-030	B	o-bowl with stem curving left

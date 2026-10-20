@@ -1,0 +1,9 @@
+id	row	pos	mine	codex_reading	codex	sonnet2	sonnet3	decision
+v168r3-001	1	22	H#	++	mine	mine	mine	keep:both-mine
+v168r3-002	2	18	pi	K	mine	mine	mine	keep:both-mine
+v168r3-003	4	21	//	-	codex	codex	codex	fix:delete
+v168r3-004	4	23	m	-	mine	mine	mine	keep:both-mine
+v168r3-005	4	24	a	-	mine	mine	mine	keep:both-mine
+v168r3-006	5	22	fu	q9	codex	mine	codex	keep:split
+v168r3-007	6	7	fu	q9	codex	mine	codex	keep:split
+v168r3-008	7	15	fu	q9	mine	mine	mine	keep:both-mine

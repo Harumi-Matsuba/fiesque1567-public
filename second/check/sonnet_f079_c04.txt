@@ -1,0 +1,7 @@
+f079-141	B	slanted pair
+f079-142	B	capital T
+f079-143	B	digit 4
+f079-144	B	single short stroke
+f079-145	A	slanted pair
+f079-146	B	slanted pair
+f079-147	B	stem with bar both sides, tail merges with loop

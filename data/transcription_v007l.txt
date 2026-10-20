@@ -1,0 +1,32 @@
+# BnF fr.15919 コマ7の左ページ（「1567」、Fiesque から王妃宛と推定）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ7の左（原寸）。行の画像は src/trackline.py で作った（n_L01–n_L25）。この書簡は別の手で、区切りの縦線が多く、抹消が多い。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。抹消された記号は書いていない。
+c01: fu fx ptil a ptil m p a v // fu u fu -| 8 3n vbar a -| o v fs H# f vbar C // 1 fx H# o pi n -| fx 1 v vbar -| a
+c02: fu a pi // C T tri // fu // 3n vbar u vbar =22 b o T // v // -| vbar 8 fu 3n o H# T o
+c03: a v f // -| m 3n u -| // b o v + 3n v H# fu ptil fx 1 -| =20 beta a pi o vbar fs -| o fu
+c04: fx -| a v vbar 1 o 3n fs u a 3n 4 H# 8 o v // 1 vd =10 fu 3n 3y + f =10 fu + fu o 3y H# -| vbar
+c05: =16 4 H# 3n ptil fx fu =ll ++ 1 -| b fu =22 p 8 C // vbar + fu v tri H# ptil -| T fx 1 o 3n
+c06: =14 o // H# o fu -| a P 1 v // f vbar =22 =18 fu + ptil T 1 =14 1 o v z + fu ptil a -| 3n a v
+c07: T 1 v // 1 m o vd a f vbar =22 =inf =10 v H# 3n -| H# 3y // fu fu pi a b o vd a fu -| ++ 1 a f vbar
+c08: f a 3n c + s o v // 1 vd a vbar ffx -| 3n 3n fx fu 1 =ll tri vbar o =10 -| o pi a -| =20 n tri fx 1 fx vbar
+c09: b 1 a ptil P o n 1 =14 o 4 + 3n f a 8 3n v v 1 -| // vbar 1 fx f =23 =18 // b + s o P a
+c10: fu + ptil =ll H# 1 -| L a u 3n vbar a f b fx o // v 1 4 + s o a ptil fu -| u =10 =20 n a =22
+c11: pa x // 1 fx vbar =14 b o z -| // 3n b Dz v a fx fu o 3n n o =10 =23 3y // fu -|
+c12: C a // fu n fx 3y P a b 1 pp tri n fu C vbar a v 8 fu 3y ptil a fu C vbar v a 3n v o -| vbar T o 3n
+# c11 の行頭「pa」は抹消の字。抹消の語は書いていない。
+c13: Dz T o 1 =ll a -| =10 fx fu // v -| a v 8 C pi a f 4 // 1 =ll o -| // beta o v v fx 3n n o
+c14: 8 o fu ptil 3y // 3y b 1 fx vbar =22 tri a vd // H# o fu -| a fx ptil o v 1 fu 3y ptil fx fu =ll H# 1 fx vbar
+c15: a 3n vbar o f b -| u // c fx 3n a H# 1 o 3n =22 b o =16 n + v vbar =18 P + s a -| o fu
+c16: // fx H# m 3n + 1 v vbar -| o =23 3n o ffx 1 a 3n b -| // fu fx ptil v P o 3y pi o vbar vbar -| a
+c17: ptil 3n z 4 H# f ++ -| P beta o 1 a ptil 3n 3y fx f a vbar =22 8 a v v o 1 u fx fu a n o
+c18: v + fu =rr + 1 fx vbar ptil a 3n 1 -| // fu 3n o ++ 4 H# s u Dz n fu fu v 1 H# 3n // vbar fs // 3n b ptil
+c19: =22 C o v v p fu v m -| // 3n b o v x + beta n o v P a p // fx -| o v vbar 1 a 3n fs o
+c20: vd 3n T b o p fu 3y P fu -| + 3y =10 b ptil -| H# 3y
+c21: P o v v // 1 m 3n o fx fu 1 p 3n 3y // b + fu 4 vbar a =22 p o P o pi a fu beta // 3n vbar
+c22: v o fu o -| o pi a vbar fs beta // vbar fx fu vbar n a =23 v a 3n // fu -| H# f vbar // ffx H# -|
+c23: =10 =22 v // pi // =20 o T vbar n =23 v -| H# fu pp 1 vbar fs o beta fx 1 fx vbar f fu ptil v =22
+c24: C a T // fu C vbar -| a v fx // -| v 1 v // beta T + 3n vd H# 3y a 3n fu a v b 1 fx vbar v
+# 2026-10-20：c25（最後の1行）は未書き起こし。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：上の確かめで直した箇所のうち、追加の読み手の Codex が1回目の読みを選んだ 3 か所（v007l）は、読み手がそろわないので元に戻した。

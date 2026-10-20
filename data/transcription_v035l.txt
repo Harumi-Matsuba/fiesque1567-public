@@ -1,0 +1,6 @@
+# BnF fr.15919 コマ35の左（f.30v、1568年1月21日の書簡の続き）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ35の左（原寸）。行の画像は src/trackline.py で作った（t_L01–t_L03）。
+c01: P o rho vd // tri 3n vbar o f 1 -| fx u T vbar a // vd 1 vbar 3y rho =10 =23 fx H# 3n vbar 1 3n fu o -|
+c02: C o T // 3n fx tri o s a v fx H# 3n x o b a -| // vbar 1 H# 3n v fx fu 1 fx 3n vbar =14 o
+c03: o 3n vbar -| a C rho vd v 1 -| a =10 C rho -| H# 3y // fu C vd a b o 3y -| // 3n fx u
+# 続く平文：Le Conte de Fiesque partit hier pour s'en retourner en Allemaigne … De Vienne ce xxi de Janvier 1568。

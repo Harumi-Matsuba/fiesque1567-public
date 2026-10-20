@@ -1,0 +1,3 @@
+id	row	pos	mine	codex_reading	sonnet2	sonnet3	decision
+v065rs-001	2	29	H#	ffx	codex	codex	fix:ffx
+v065rs-002	6	9	w	=rr	mine	mine	keep:both-mine

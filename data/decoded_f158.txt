@@ -11,14 +11,14 @@ c10 sont ET glmaues?mandedeleremercieroienfor
 c11 delademostration QUEL/QUIL faictdauoirtousiours
 c12 ensingulierere?mandationleliensroufit ET
 c13 utilitede CE ronaume ET QUE comessondriesdesarei
-c14 l?auecticnentoutce QUE luntoucherale QUE u
+c14 leauecticnentoutce QUE luntoucherale QUE u
 c15 madict QUEL/QUIL nesestmeuametrreauantcesartn
 c16 QUE POUR unesincereauecticn ET granddeser QUEL/QUIL adeu
 c17 ueoirdeliuredecesteguesseintestenemesme
 c18 mentacestheure QUEL/QUIL nauracestestroitliende CE
-c19 mariageauecsafi LL eso?rantde FAIRE toutce QUE ser
+c19 mariageauecsafi LL eso FF rantde FAIRE toutce QUE ser
 c20 ensonsouuoirestantenlamesmeosninion QUEL/QUIL atou
 c21 iourseste QUE ence QUE sou RR iesremedierauecdous
 c22 ceur QUE nyusiesderigueurestantronnatureuo
 c23 tousioursstcienanmedecessuciects
-# 記号 846 個のうち、表と推定を合わせて値が付いたもの 841 個（99.4%）
+# 記号 846 個のうち、表と推定を合わせて値が付いたもの 843 個（99.6%）

@@ -1,0 +1,35 @@
+f079-036	B	slanted pair
+f079-037	B	small o-like (unclear)
+f079-038	B	slanted pair
+f079-039	B	triangle-like filled
+f079-040	B	t with bar both sides
+f079-041	B	slanted pair
+f079-042	A	short curved stroke (weak, could be nothing)
+f079-043	B	bold plus
+f079-044	B	slanted pair
+f079-045	A	hash sign
+f079-046	A	n shape
+f079-047	B	hash-like crosshatch
+f079-048	A	faint slanted pair
+f079-049	A	ic group
+f079-050	B	f-like thick stem with hook
+f079-051	A	slanted pair
+f079-052	B	stem with left arm
+f079-053	A	slanted pair
+f079-054	A	p with curved stem
+f079-055	B	2-shaped with loop (uncertain)
+f079-056	B	slanted pair
+f079-057	A	slanted pair
+f079-058	A	slanted pair
+f079-059	B	two upright strokes
+f079-060	B	a-like with tail
+f079-061	A	ic group
+f079-062	B	small y with tail
+f079-063	B	slanted pair
+f079-064	B	stem with left arm
+f079-065	B	plus bar both sides
+f079-066	B	slanted pair
+f079-067	A	ic group
+f079-068	B	1 then 4 digits
+f079-069	B	slanted pair
+f079-070	B	digit 4

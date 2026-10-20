@@ -1,0 +1,35 @@
+f079-106	A	two slanted parallel strokes after ig
+f079-107	A	small w with moderately thick strokes
+f079-108	A	slanted pair of strokes after sigma
+f079-109	A	small n between pi and T
+f079-110	B	slanted pair of strokes after T
+f079-111	B	small ip-like sign with tail under the blot
+f079-112	B	big diagonal blot with loop, not a clear thorn
+f079-113	B	small round o after lr
+f079-114	B	flat filled triangle after h-sign
+f079-115	A	stem with arm on left
+f079-116	B	symmetric plus
+f079-117	A	ig-like ı plus 3
+f079-118	B	short stroke with tall d loop
+f079-119	B	wide flat bold double loop
+f079-120	A	t shape, stem above bar higher than below
+f079-121	A	slanted pair of strokes
+f079-122	B	slanted pair of strokes
+f079-123	B	single short stroke
+f079-124	A	small v with faint tail
+f079-125	A	u shape
+f079-126	A	y with tail below
+f079-127	A	faint slanted pair
+f079-128	A	short single stroke
+f079-129	A	short single stroke before ıd
+f079-130	A	4 shape
+f079-131	B	2-shaped with faint loop below
+f079-132	B	single short stroke
+f079-133	B	faint slanted pair
+f079-134	A	bold plus
+f079-135	B	flat filled triangle
+f079-136	A	ı plus c, ıc
+f079-137	B	faint slanted pair
+f079-138	B	slanted pair at left edge before arm-left sign; triangle far off
+f079-139	B	z-like body with long looping tail
+f079-140	B	ıc-like with dot

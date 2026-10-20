@@ -1,0 +1,35 @@
+f039r-001	B	no sign, blank under triangle
+f039r-002	A	r-rotunda with big loop
+f039r-003	B	small v-like with tail
+f039r-004	A	looped L
+f039r-005	B	faint double slash
+f039r-006	A	two slanted strokes
+f039r-007	A	t-like cross, stem above bar
+f039r-008	B	faint double slash
+f039r-009	B	z-o shape
+f039r-010	A	tall stroke with two loops
+f039r-011	B	double upright strokes
+f039r-012	B	double slash
+f039r-013	B	r with wavy stroke above
+f039r-014	A	p with tilde
+f039r-015	B	3-shaped
+f039r-016	A	large hooked diagonal blob
+f039r-017	B	looped L
+f039r-018	A	upright with left top arm
+f039r-019	B	upright with right arm
+f039r-020	A	t with bar both sides
+f039r-021	B	small upright stroke
+f039r-022	B	double slash
+f039r-023	B	f with bar
+f039r-024	A	x blot
+f039r-025	A	r-rotunda with faint loop
+f039r-026	A	double slash
+f039r-027	B	2-shaped with loop
+f039r-028	A	3-shaped
+f039r-029	B	small upright
+f039r-030	A	small round with cap
+f039r-031	B	small o
+f039r-032	B	wide bold double loop
+f039r-033	A	t with bar both sides
+f039r-034	B	double slash
+f039r-035	A	plain p

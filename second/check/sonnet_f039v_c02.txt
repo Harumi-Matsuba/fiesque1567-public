@@ -1,0 +1,35 @@
+f039v-071	A	only separator slash between T and y
+f039v-072	B	p-like stem with bold blob and tail on top (tilde)
+f039v-073	B	cross with bar low on descender, p top
+f039v-074	B	t-like cross, stem a little above bar
+f039v-075	B	p with hooked top
+f039v-076	A	digit 4
+f039v-077	A	plain c, no loop
+f039v-078	A	p with bar on descender
+f039v-079	B	u with dot
+f039v-080	B	thick blotted ꝑ-like
+f039v-081	B	t, stem slightly above bar
+f039v-082	B	looped script L with base
+f039v-083	A	p-stem with bar on descender
+f039v-084	A	small o beside tall stroke (T further right)
+f039v-085	B	small v-like with cap, not T
+f039v-086	B	v with looped tail below
+f039v-087	B	short upright stroke with dot
+f039v-088	B	z+o ligature (20)
+f039v-089	A	small curly o-like
+f039v-090	B	two uprights with crossbars (#)
+f039v-091	B	long s with tail
+f039v-092	A	digit 4
+f039v-093	A	looped 8-like s
+f039v-094	A	cursive m with dot
+f039v-095	A	2-shaped sign with large loop
+f039v-096	B	thick cross with bars
+f039v-097	B	filled lozenge with stroke
+f039v-098	A	nothing between lr and 3
+f039v-099	B	small filled triangle
+f039v-100	A	upright with arm on right
+f039v-101	A	z+o ligature
+f039v-102	A	looped script L with base
+f039v-103	A	small y with tail below
+f039v-104	A	wide bold double loop
+f039v-105	A	ic group

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a15749-4a1d-7811-8e02-f4bd39361ca6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"v149r-061\tA\tshort ı followed by 4\nv149r-062\tA\tshort ı followed by c\nv149r-063\tB\ttwo parallel slanted strokes\nv149r-064\tB\ttwo faint parallel slanted strokes\nv149r-065\tA\ttwo adjacent p-shaped stems\nv149r-066\tB\tshort ı followed by c\nv149r-067\tB\tsmall filled triangle"}}
+{"type":"turn.completed","usage":{"input_tokens":23480,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":200,"reasoning_output_tokens":104}}

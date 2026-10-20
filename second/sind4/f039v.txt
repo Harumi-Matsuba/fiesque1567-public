@@ -1,0 +1,19 @@
+b_L01	?{tall hook stroke} L C ++ 3n vbar ++ H# a 3n + o pi y + fx ptil + ++ o ptil =22 3y y h o p H# a 3n vbar // ++ fx ptil ptil 3n o T x + -| vbar o T
+b_L02	p C // fx o T o 3n C a p fx 4 y vd // ?{filled wedge} 3n y n/C o + ++ 3n ?{filled wedge} o H# a 3y b vbar // // fx + ptil 3n o y C o fx 4 T
+b_L03	?{filled wedge} o n vd 3n b o y // H# a 3n ?{filled wedge} o fx a b o C ?{filled wedge} fx + o 4 b o fx a T vbar 1 ++ fx 4 C p T fx // 1 ?{filled wedge} C 1
+b_L04	fx o ++ 1 b =22 + o T m fx o =rr a T b ptil + o 3n vbar f fx ++ y =10 =22 p C o T 3n a y o fx p a 3n o +
+b_L05	y + + vbar o fx H# fx a m 4 1 // 3n b o fx ++ =23 3n a =10 b + ?{8-like} // 1 m a // =16 4 ++ 3y // fx C 1 vd a =10
+b_L06	T o p C ++ 3n C // fx o T y + 3n fx a =23 // ptil 1 // y // 1 p L ++ fx a =23 fx + ptil y // o 3n fx + 3y o
+b_L07	tri C T o vd y C ++ 3y vbar fx // 1 z o fx + fx ptil y fx vbar + 1 1 f ++ 1 y b o fx a T m fx o y y a T tri 3n vbar o T a tri
+b_L08	3n o T ?{struck-through word} =10 // b fx a =22 tri a y ptil a T Dz y fx o ptil a fx 1 1 Dz 3y 1 vd a tri o fx + ptil y // 3y f
+b_L09	+ 3y b o fu // 3n vbar o T fx 4 1 y vbar tri a C // vbar f // 3n vbar b o T fx // fx + 1 4 T fx p 4 1 fx o C //
+b_L10	fx + C ptil 3n vbar a b p fx 4 ++ 3y K y ++ ptil + 1 // y 4 o T y ptil tri fx // 3n vbar tri + a =ll o p 3y
+b_L11	T o vd 4 C // c p u K o y a fx 1 o fx 4 ++ 3y b o T y // 1 m 3n o z o C n y 4 tri o 1
+b_L12	// fx H# tri b o fx o vd a vbar fs fx o ?// T // 4 ++ 3y a 1 m 4 // fx o fx o fx C ?{hook} b o x C // 3n b 4 o T
+b_L13	H# pi ?{d-like loop} 3n fx + 3y // tri o fx b 3y ptil 3n m fx ++ fx =rr 1 a 4 o f a T y // tri m 3n a fx fx tri 3n o T ?{struck T} +
+b_L14	z o // fx C vbar 4 o fx L ++ y a =22 y + fx 4 // b o fx C fx tri 4 H# 3y =10 vd + 3y rho 3n f a 4
+b_L15	=22 C fx fu a 4 o Dz T tri =ll tri // vbar 1 + 3n o f vbar + a C fx 3y =10 T + 3y x tri a C fx ?{black blot} tri a C
+b_L16	o fx vbar // =rr tri fx o b o y fx 1 T ++ fx 3n m fx ++ fx =rr tri o 4 ?{filled wedge} o T y // tri m 3n o 1 vd // 1 y tri fu T =22 y
+b_L17	// fx o fx vbar L a fu + a tri o 3n a f // 3y 4 tri o 3n y T fx o fx // y f fx o 3n b 4 a tri C 1 fx 4 tri o 3n
+b_L18	fx 4 // 3y fx fx o pi T + // tri vbar C // fx // fx T o b a C // y 4 tri 3n T a ?{filled wedge} fx y 4 tri 3n fx a
+b_L19	p =22 p C o tri C vbar 1 a 3n vbar T o fx + a vbar fs a

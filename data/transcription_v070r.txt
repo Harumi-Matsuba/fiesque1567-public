@@ -1,0 +1,27 @@
+# BnF fr.15919 コマ70の右（f.66r、「12 Juin 1568 Vienne」「du Comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ70の右（原寸）。行の画像は src/trackline.py で作った（aa_L01–aa_L23）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。抹消された記号は書いていない。行頭の「Il ti ol」は無効字。
+c01: .Il .ti .ol Dz vd a pi vd // fu fx 1 fx vbar b 1 fx vbar =22 C rho T 1 a fu -| P fu fu vbar -| tri T vbar // 3n
+c02: C fu 3y // fu fx 1 fx vbar o T fx -| tri v fu vbar v // -| C rho vbar fs -| a T b fu P ++ fu v tri o T vd a
+c03: b fu v // H# a =22 C o -| ++ 3y b o T v // tri m 3n a pi o T vbar ++ 1 fx vbar // v -| o v //
+c04: C fu 3y o 3n fu fx z o -| fx fu 3n m -| ++ fu w tri o -| v // -| C rho =22 fu tri C fu // fu tri T o
+c05: -| ++ 1 fx vbar =10 b a C // fx // fu T a b o C // -| a vbar // 3n vbar tri fx 3n b fu v -| tri 3n fx a
+c06: T fx 3n x tri a C v =22 b a C // -| o T ++ C ptil vbar tri fx 3n b fu P o vd a fu -| // 3n vbar
+c07: fx fu tri =14 vbar fx fu fx L // 3n vbar C rho x // 1 fx vbar b fu vd // -| tri // 1 m a b a T o v
+c08: x tri =ll a T // tri 3n T 1 =22 tri o 3n vbar // f b fu -| // 3y =22 C rho b 1 fx vbar fx ++ fu w tri o -|
+c09: T o -| // fu a 3n ptil tri a fx L o -| fx L a -| // 3y =14 ++ ffx // T tri fx 3n b o T fx // fu fx tri -|
+c10: fu a o b o C ++ 3y Dz vd a tri C // b o C tri 4 a -| o T o 3n -| o T fx ptil C b -| a =10
+c11: // b fx a =22 tri a v fu tri v o 3n vbar // f b -| a C // m -| // 3n b a 3n ++ 3y o =22
+c12: T // x tri =ll a // tri T 3n f T fx 1 fx vbar 4 tri o 3n pi fx fx T vbar vd // -| tri f m o v C // =22 C fu u
+c13: C a v -| o vd P tri o -| b o 3n fx fu o vd 4 -| a // fx L a fu a fx // b a P 3n a ptil x // 3n T
+c14: .Il =10 T // T o fx ++ 3n b a o 3n fx a vd fx 3y fx 3y T u f // fx L o v fu a fx ptil // vbar fx -| v a
+c15: .Day tri // 3y o 3n vbar // f b fu b o 4 ++ s a v // fx vbar =22 pi // b 1 fx vbar =23
+c16: =14 // b fu o -| vbar 3y =22 fu fx ptil v // fu o fx vbar fx fu vbar C rho Dz T o tri C b fu -| ++ 3y
+c17: // fu a v b o C tri 4 a -| a =22 pi T o vd // -| 3y a =10 fx fu o T vbar tri a v // v -| o T
+c18: // C fu 3y a 3n fu fx 3y o -| vd fx 3n T tri a fu -| C o b fu fx b o vd fx 3n vbar v a 3n fx tri o -|
+c19: ++ fu // fu vbar -| a m -| // 3n b v o -| T ++ s // tri m a b a =16 -| ++ 3y // fu C pi a fx L
+c20: o vbar b a pi // 3n b // f vbar // fx o =ll fu 3y fx a =22 pi b tri T fx 1 fx vbar T fu -| fx a
+c21: pi // b tri fx vbar =23 3n o f b tri T fx 1 fx vbar // fu C vbar -| a f L ++ T a T tri 3n fx f
+c22: =22 // fu o v b o C tri C a -| o P o 3n T fx // fu fx tri -| // fx a n ++ fu v C // =10
+c23: -| o T fx C fu vbar tri fx 3n fx fs fx fu vbar o T x fx tri v Dz vbar tri 3n fu // 3n vbar // vd fx 3n
+# 暗号はここまで（ページの終わり）。続きはコマ71の左（f.66v）。行頭の「Il」「Day」は平文の字の組（無効字）。

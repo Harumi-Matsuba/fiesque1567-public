@@ -1,0 +1,30 @@
+r39-031	B	short stroke
+r39-032	B	small round under bar
+r39-033	A	//
+r39-034	A	tall with tail loop
+r39-035	A	14
+r39-036	A	t with bar
+r39-037	A	two tall strokes one bar
+r39-038	A	//
+r39-039	B	thick arrow blob
+r39-040	B	two strokes one bar
+r39-041	B	looped s
+r39-042	B	long s no crossbar
+r39-043	B	double upright hash
+r39-044	A	//
+r39-045	B	none
+r39-046	B	two strokes crossed
+r39-047	A	r with loop
+r39-048	A	//
+r39-049	A	long s
+r39-050	B	//
+r39-051	A	//
+r39-052	B	t with bar
+r39-053	B	//
+r39-054	A	3 shape
+r39-055	A	t with bar
+r39-056	A	p with loop
+r39-057	A	r with loop
+r39-058	B	bold plus
+r39-059	B	//
+r39-060	A	18

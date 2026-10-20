@@ -27,3 +27,4 @@ c22: fx a q9 -| =22 3n 3y ptil v tri a v b a beta tri m fu a fu -| o T vbar // 3
 c23: fs ++ fu T tri H# ptil -| v T vbar fx 1 a 3n // 3n pi a b a fx a v T q9 fx tri a fx vbar v .Il .ri .ol
 # 暗号はここまで。続く平文：Il luy ay dict que depuis la victoire …（目視）
 # 2026-10-20：初めは ß を =ss と書いたが、guerre・heure・mariage の位置で r になるので beta（Tomokiyo の β＝r）に直した。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

@@ -1,0 +1,7 @@
+v149r-061	A	digit 14 group
+v149r-062	A	short i plus c, ic
+v149r-063	B	two slanted strokes
+v149r-064	B	two faint slanted strokes
+v149r-065	A	two p joined by one thick bar
+v149r-066	B	ic group
+v149r-067	B	flat wide triangle

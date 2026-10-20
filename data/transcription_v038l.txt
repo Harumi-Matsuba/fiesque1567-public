@@ -1,0 +1,25 @@
+# BnF fr.15919 コマ38の左（f.33v、1568年2月15日、国王宛。本文は Sire）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ38の左（原寸）。行の画像は src/trackline.py で作った（u_L01–u_L21）。行頭の平文「puissante」は書いていない。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。抹消された記号は書いていない。
+c01: vd // 1 v o 3n b 1 fu 1 T // 3n vbar // fu o -| C ptil 3y pi // T o vd 4 C rho
+c02: =23 vbar -| fx fu ptil o -| fu 1 fx vbar x fx -| vbar 4 fu f =22 x fu H# tri o v T fx -| vbar 3y b o -| a T
+c03: f o tri 3n o T =10 // H# // 1 -| o v // =16 L fx s a fu -| v // -| fx fu o C =22 C ++ 3n
+c04: v f fu tri 3n vbar o vd a f vbar C =10 vd o T pi a T =18 // fu -| o v fu o ptil v // -| C o vbar v a b 1
+c05: vbar 1 fx 3n b o fu L fx 8 o =23 fu H# ptil v o 3n fu fx 3y a b 1 vd // 3n fx L o b o fx f tri o -|
+c06: fx fu o C // H# o T fx C ptil vbar tri fx 3n b o C // P 1 a vbar fs o b o x fu C b // =14 b o
+c07: T fx // fu fx 1 -| T tri C T o -| // b o fu fx T vbar -| o 4 ++ 3n v C // 1 T tri -| =22 C rho vd v 1 -| o
+c08: vd fx 3y o s a b // v f ++ tri 3n fx vbar o -| vd ++ 3n T tri o fu -| C rho f -| tri 3n fx o b a
+c09: ++ fx H# 3n b a =10 fx o fu C P 3n o T // v ++ tri vbar fs o a vbar C rho v -| o vd a vbar vbar -| o
+c10: =16 4 ++ s o m -| // fx o =10 vd // ++ 3n b 1 fx vbar fx fu // v -| o T =23 v // fu -| fx 3n vbar
+c11: T fx 3n b o fu ++ T vbar -| o fu fx C ++ 3n vbar a =23 v T fx 3n vbar // v -| o T z o x // 1 fx a
+c12: fu f a vd o T pi a P o v a fx L o // fu -| ++ 3y b o T v // tri m 3n o v fx fu -| C a
+c13: v o -| T fu // b o -| b o -| o vd a vbar fs beta o fu T v 1 fx a fu C P b o x C // 3n b fx o v
+c14: =10 // v f // tri T o -| C rho v // 1 T fx fu 1 o T vbar vd // C fx ++ 3n vbar // 3n fs b o T
+c15: v -| fx fx o P fu -| o v fx fu o 3y x // 1 fx vbar 3y // 1 -| o C rho b fu fx P // C 4 a
+c16: C rho T =22 =ll a T C ++ 3n f a vbar -| ++ fu fu o C ++ s o T b o P o fx // tri 3n T
+c17: vbar -| ++ v -| tri m ++ fu -| o fu T a v =10 T o vd 4 C rho // 4 o // fu fx fx v =22 C fu u T
+c18: 3n o v fx fu w ++ 3n vbar v -| // 3n b fx a 4 ++ s o x tri 3n o vbar o 3n vbar -| a // fu vbar -| o T
+c19: C rho P fu fx // fu m fu T vbar o b o T // P o v fx fu -| fx L // H# o x fx -| vbar fx o x // 1 fx vbar
+c20: C o fx fu a C ++ fu C vbar -| a C // =ll tri // 3n fx a vbar m -| // 3n b o // vd 3y vbar tri o
+c21: =23 // fu o fx C rho v -| tri 3n fx o P fx -| o 3n m o n -| // 1 3n fx vbar Dz vd a
+# 暗号はここまで（ページの終わり）。続きはコマ38の右（f.34r）。抹消の記号は書いていない。

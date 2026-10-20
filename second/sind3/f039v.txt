@@ -1,0 +1,19 @@
+b_L01	lf f C ++ 3n vbar ++ H# a 3n fx o m y + ptil fx fu o ptil // 3y 3n o ptil H# a 3n vbar // fu fx ptil 3n o T x + -| vbar o T
+b_L02	fu C // fx o T o 3n C a ++ 4 y vd // tri 3n y rt + ++ 3n o H# a 3n 1 rt vbar // fu fx fu 3n o y C o ++ fx 1 T
+b_L03	tri o vd 3n b rt o y H# a tri 3n tri o fx a b rt o C tri fu fx o fx b rt o fx a T vbar -| ++ fx 4 C rho T fx // -| tri C
+b_L04	fx o ++ 1 L =22 + o T m fx o u a T b ptil + o 3n vbar f fx ++ y =10 =22 fu C vbar T 3n a y o fx fx a 3y vbar +
+b_L05	3y + + vbar o 1 + ptil a m + L 3n rt o + fx 3y 3n a =10 b rt + 3n // 1 m a // =16 4 ++ 3y // fx C vd a =10
+b_L06	T o fu C ++ 3n C // 4 o T y + 3n fx a =23 // fu 1 // y // + fu f ++ 3n a =23 fx + ptil u // o 3n fx + 3y o
+b_L07	tri rt T o vd y C ++ 3y vbar fx // =20 o fx + fu y fx 3n o + 1 f ++ 1 y b rt o fx a T m fx o y y a o T tri 3n vbar o T vbar tri =
+b_L08	3n o T vd =10 // b rt + a =22 tri a y y fu a T Dz fx o fu a + 11 Dz vd a tri o fx + ptil y // 3y f
+b_L09	+ 3y b rt o fu // 3n vbar o T fx + 1 1 y pi tri a C // o f // 3n vbar b rt o T fx // fu + 11 + T fx 4 -| fx o C //
+b_L10	fx + C ptil 3n vbar a b rt fx -| ++ 3y H# y ++ ptil + 1 // y + o T y K tri fx // 3n vbar tri fx a rho o p 3y 1
+b_L11	T o vd 4 C // C fu u 1 o y a fx 1 o o // fx fx ++ 3y b rt o T y // 1 m 3n o =20 C o y y + tri o fx
+b_L12	// fu 11 tri a b rt o fx o vd a vbar K 3n fx o // T // 4 ++ 3n a 1 m 4 // + o fx o fu C vbar b rt o x C // 3n b rt + o T
+b_L13	K a m o 3n fu + 3y // tri o fx b rt 3y ptil 3n m fx ++ fu y 1 a 4 o f a T y // tri m 3n a fx fu a tri 3n o T vbar +
+b_L14	=20 o // fx C vbar 4 o fx f ++ y a =22 3y + fx + 1 // b rt o fx C fx tri 4 ?{struck out} =10 vd + 3y rho 3n f a 4
+b_L15	=22 C fx fu a + o Dz T tri =ll tri // vbar 1 + 3n o f vbar + a C fx 3y =10 T + 3n x tri C y ?{blotted sign} a tri C
+b_L16	o fx vbar // y tri fx o b rt o y fu 1 T ++ 3n m f ++ fu y tri o + tri o T y // tri m 3n o vd // 1 y tri fu T =22 y
+b_L17	// fx o fx vbar lf a fu + a tri o 3n a f // 3y 4 tri o 3n y T + o fx // y f + o 3n b rt 4 a tri C 1 + 4 tri o 3n
+b_L18	fx 4 // 3y fx fu o m -| T + // tri vbar C // fx // fu T o b rt a C // y 4 tri 3n T a Dz fx y 4 tri 3n fx a
+b_L19	p =22 fu C o tri C vbar 1 a 3n vbar T o fx + a vbar 3n a

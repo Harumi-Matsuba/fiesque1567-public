@@ -8,7 +8,7 @@
 | 資料 | 参照 |
 |---|---|
 | 原本 | BnF Français 15919（旧 Harlay 238 (8)）。目録 https://archivesetmanuscrits.bnf.fr/ark:/12148/cc46124x |
-| 画像 | Gallica ark:/12148/btv1b90573568（183コマ）。f.39r＝コマ43の右、f.39v＝コマ44の左、f.79r＝コマ83の右、f.94r＝コマ99の右、f.100r＝コマ105の右、f.158r＝コマ163の右。取得は https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b90573568/f{コマ}/full/max/0/default.jpg （2026-10-20） |
+| 画像 | Gallica ark:/12148/btv1b90573568（183コマ）。f.39r＝コマ43の右、f.39v＝コマ44の左、f.79r＝コマ83の右、f.94r＝コマ99の右、f.100r＝コマ105の右、f.158r＝コマ163の右。ほかのページは、書き起こしの名前が コマ番号と左右を表す（例：v007l＝コマ7の左、v150r＝コマ150の右）。取得は https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b90573568/f{コマ}/full/max/0/default.jpg （2026-10-20） |
 | 刊本（返信） | H. de La Ferrière 編『Lettres de Catherine de Médicis』t.3（Internet Archive lettresdecatheri03cathuoft）。fr.15919 f.118（1568-10-21）・f.122（1568-11-16）の Catherine から Fiesque へのミニュートが載る。陽性対照に f.118 の本文を使った |
 
 ## 鍵

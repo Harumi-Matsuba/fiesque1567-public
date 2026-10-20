@@ -6,7 +6,10 @@ The key is Satoshi Tomokiyo's reconstructed table (rows marked `table` in data/k
 
 **No human has checked the transcription.** Both transcriptions are by AI: Claude (first) and Codex (independent second).
 
-## Figures per letter
+## Figures per letter (as in the first version)
+
+**This table and the readings below are from the first version (2026-10-20).** The transcriptions were later corrected after image checks (ff. 39r, 39v, 79r and others); current figures and status are in [PAGES.en.md](PAGES.en.md), current mechanical decipherments in data/decoded_*.txt. Summaries of the other pages of the volume are also in [PAGES.en.md](PAGES.en.md).
+
 
 | Letter | Date, addressee | Gallica view | Lines | Signs | Signs with a value (table+inferred / table only) | Control: true key / best of 1000 shuffled keys (table+inferred) | Same (table signs only) | Independent second transcription (value agreement) | Status |
 |---|---|---|---|---|---|---|---|---|---|

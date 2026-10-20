@@ -1,0 +1,31 @@
+# BnF fr.15919 f.101v（f.101r の続き、1568年9月4日）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ107の左（原寸）。行の画像は src/trackline.py で作った（m_L01–m_L26）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。
+c01: .Day L a b o x C // f b -| o T v a vd fx C o =23 3n // o T vbar a fx -| a ptil b o fx a =23
+c02: // vbar ++ fu T tri ++ ptil -| v fx ++ 3n T a tri =ll a =10 fx fu // fx o T vbar L o fu -| a tri C T o 3n vbar -| ++ fu
+c03: ptil a o 3n v o tri 3n a o vbar =22 b ptil fx ++ 8z // 3n fx o vd a 3n vbar C ++ 3n v ++ fu q9 ++ 1 fx vbar -| o vd a
+c04: b tri o -| // v C ptil T tri o ptil -| v fx L ++ T o T fx fu // fx o T vbar L o fu -| a =22 C rho x a ptil =14
+c05: // =ll fu vd a tri C 3n a T f // 1 vbar fx ++ fu a T tri x // fx tri =ll o 1 vd a 3n vbar tri C T a z o -| //
+c06: // vd ++ -| vbar tri -| tri o C ptil =23 // 3y b 1 fx vbar =22 ptil ++ 3y // 3n vbar C // fx -| o T vbar tri o 3n vbar a
+c07: o 3n T tri m -| // 3n b o a P vbar -| o 1 vd tri vbar a fx fu a T tri C ptil ++ fu =ll ++ 1 fx vbar vd o vbar fs -| a
+c08: a f // fu // 3n vbar =22 C fx fu a vd ++ 3y o 3n =20 C o -| o v ++ v fu 3n tri ptil o -| T a C =10 =22
+c09: pp 3y ptil ++ fu C ptil vbar fx ++ 3n b o T fx a 3n b -| a =22 tri a vd // H# o fu -| ++ 3y T =22 pi b o
+c10: T ++ 3n fx ++ T vbar a 3n o T v // -| m 3n o -| // -| tri o 3n T =20 C o T vbar // fx C tri H# a vd o 3n vbar
+c11: b ptil -| o v ++ v v fu fx C tri fx 1 fx =10 =23 T o m ++ q9 ptil o -| 3n a -| // T o C ++ 3n T ++ 3n
+c12: fx ++ 3n T a tri C fx // -| a C // 3y vd a =10 -| o q9 a -| a fx ++ vd pi a T ++ 3n
+# c12 の行末の「receu」は平文。
+c13: v -| ++ f -| a v o -| a .Day tri C vd // b 1 fx vbar =23 o T vbar // H# o ptil -| a b o C //
+c14: fx ++ s a fu ++ C fu 3n vbar a b ptil q9 -| ++ 3y =10 =22 =22 C // T tri o s a 3n 1 4 vd ++ tri 3n b -| a
+c15: o 3n fu o -| v C fu 3y vd // tri T =22 =20 fx o T vbar L o fu -| a tri C 3n o fu a ++ 1 b =22
+c16: C o T // x 1 =23 T v ++ 1 a 3n vbar o f vbar a -| vd a =23 T a 3n v fu tri H# a o T v a -| o -|
+c17: // fu fx ptil 3n fx ++ 3n x -| fu 1 fx vbar .par .moy tri // 3y o 3n vbar // 3n b ptil b o fx fu o C =22
+c18: 4 ++ 3n C tri o fu =22 C // x // fx L o -| tri a =22 pi // o T vbar fx fu o 3n b ptil tri ptil o -| vbar tri T
+c19: v // 3n vbar =22 C o T v -| tri 3n fx a T 3n o b o b ++ s // H# o 3n vbar // tri b a 3n o a 3n fu ++ 3y // T
+c20: v o 3n vbar z a 3y T fx ++ 3n vbar -| a x C // 3n b -| a T C o T // H# o fu -| H# tri fx vbar =23 pi
+c21: vd ++ 3y o s a -| ++ 1 fx vbar =22 C rho T // x =13 T b o x C // 3n b -| o T v a fx ++ vd v ++ T o
+c22: -| ++ tri o 3n vbar // fu a -| b ++ fu C fx a ptil -| =10 b ++ s H# tri fx vbar a T v a -| // 3n fx a
+c23: =22 pp // H# o fu -| a -| ++ 1 fx vbar b o C fu 3y a =10 4 tri o 3n T =10 =22 b o v fu tri T
+c24: C ++ 3n // fu a ptil C o fx ++ 3n vbar -| // tri -| a =10 T o 1 vd 4 C a =22 C o T v -| tri 3n fx a T
+c25: T o 3n v C // tri m 3n o f vbar P o fx fu ++ 3y tri C 3n o vd // -| tri o 3n T vbar ++ fu fx L o =10
+c26: vd // tri T =22 C fx fu ptil 3n m fx fu tri C rho v a fu C vbar T fx // fu ++ tri -| vd o 3n //
+# 暗号はここまで。続く平文：Dao par moy … Je vous envoye ce pacquet que Monsieur de Chantonnay m'a envoyé …、De Vienne ce iiii de Septembre 1568。署名 Scipione Fiesco。

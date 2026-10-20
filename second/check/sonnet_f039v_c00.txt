@@ -1,0 +1,35 @@
+f039v-001	B	two bold p-like uprights joined by bar (pp)
+f039v-002	A	thin t-like cross, stem above bar, bar both sides
+f039v-003	A	upright with short arm on left at top
+f039v-004	A	small v-shape with S tail going down-left (y)
+f039v-005	A	small v-shape with tail below (y)
+f039v-006	A	two uprights crossed by bars (#)
+f039v-007	A	small thin t, stem above bar, bar both sides
+f039v-008	A	capital T
+f039v-009	A	bold v-shape with S-tail below (first sign)
+f039v-010	B	small 2-shaped sign with large faint loop below left
+f039v-011	B	slanted t-like cross, stem rises above bar
+f039v-012	B	tall thick-topped stroke then r (lr), not short ic
+f039v-013	A	short single stroke after lr
+f039v-014	B	only thin faint // strokes and a separator; no distinct single stroke
+f039v-015	B	small t: stem longer below bar, bar both sides
+f039v-016	A	nothing between lr and o
+f039v-017	A	small round o
+f039v-018	B	two bold stems joined by bars (pp)
+f039v-019	B	open hollow a-like sign, not filled triangle
+f039v-020	A	t-like cross after o
+f039v-021	A	digit 4 shape
+f039v-022	A	f with hooked top and crossbar
+f039v-023	B	small a-like part right after the triangle blob
+f039v-024	A	small 2-shaped sign with big faint loop (C)
+f039v-025	A	bold p with long stem crossed by bar (fu)
+f039v-026	A	tall stroke + r (lr)
+f039v-027	A	two z shapes side by side (zz)
+f039v-028	B	f with hooked top and crossbar
+f039v-029	A	small v top with S tail down-left (3y/y-like), not 2-shaped loop
+f039v-030	A	short stroke plus c (ic)
+f039v-031	B	single bold p with stem and bar (fu)
+f039v-032	A	small round o-like
+f039v-033	B	small dark o blob before the fu
+f039v-034	A	p with tilde above
+f039v-035	A	v-shape with long tail down-left

@@ -1,0 +1,34 @@
+f039r-246	A	symmetric plus
+f039r-247	A	two slanted strokes
+f039r-248	B	t-like stem with arm
+f039r-249	A	bold slanted long stroke
+f039r-250	B	faint stem with arm at line end
+f039r-251	A	wide bold flat double loop
+f039r-252	A	stem with bar to the right
+f039r-253	B	short stroke plus d loop
+f039r-254	B	single short stroke with dot
+f039r-255	A	small round sign with cap
+f039r-256	A	2-shaped small sign
+f039r-257	B	3 shaped with loop below
+f039r-258	B	2-shaped with loop below
+f039r-259	B	blotted p-like struck sign
+f039r-260	B	two uprights crossed by bar
+f039r-261	A	two slanted strokes
+f039r-262	A	r plus 4 (14)
+f039r-263	A	tall l-r ligature
+f039r-264	A	two slanted strokes
+f039r-265	A	hash-like 4 shape (uncertain)
+f039r-266	B	two slanted strokes
+f039r-267	B	small o
+f039r-268	A	wide flat double loop
+f039r-269	A	t with bar both sides
+f039r-270	A	sign present: 2-shaped with loop
+f039r-271	A	two slanted strokes
+f039r-272	A	small o-like curl
+f039r-273	B	short slanted pair
+f039r-274	B	2-shaped with loop
+f039r-275	A	two slanted strokes
+f039r-276	A	t with short bar both sides
+f039r-277	B	2-shaped with faint loop
+f039r-278	A	small o-like curl
+f039r-279	B	stem with bar to the right

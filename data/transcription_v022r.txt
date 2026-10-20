@@ -1,0 +1,35 @@
+# BnF fr.15919 コマ22の右（f.18r、「15 Novemb. 1567」「du Comte de Fiesque a la Reyne Vienne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ22の右（原寸）。行の画像は src/trackline.py で作った（r_L01–r_L28）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。抹消された記号は書いていない。
+c01: fx pi // b // vd o P a v ptil 1 v C u v // -| vbar o 1 vd a 3n vbar b o pi + 3n T 1 a fu -| b C a C tri m 3n o
+c02: -| H# =ll o v =22 x fu vbar fu u fx 1 3n fx fu tri a T vd o P a fx u L pi + 3y T a vbar C o =22 p
+c03: // =ll 11 v // ffx a -| P o fu a -| v C a b fu fx b o =phi 1 C f o T vbar v fu -| ptil o 3n fu // fu vbar -| a fx L + T a
+c04: C vbar 4 -| fu 1 fx vbar fx H# fu -| + 1 fx vbar o 3n fx o T vbar a fu =ll o =23 fx a C o fu + 1 fx vbar
+c05: c a fu n fx v b o z a 3n T P a v 1 a b =10 P o fx L u fu // fu o 3n // =ll o pi // 1 m 3n a z o // =ll o -|
+c06: fx 1 a f x -| // 3n fx u o f x // fu o ptil -| P o n a fu C d6 L a |- fu 1 ++ f vbar v -| tri f T C o v
+c07: // -| o L 1 vd a T fx ++ f vbar -| o pi 3n 8 o 3n // 3y f // -| C o // |- fu 1 pi // P tri fx vbar
+c08: =23 o T vbar + 1 n vbar // P fu o -| vbar 3y b o =22 C |- fu a // H# o pi 4 C P o m a 3n T
+c09: pi // 1 T =23 o T v a -| ++ 1 fx vbar =22 |- ptil // 3n P T o v Dz vd // 3n b o pi a f vbar v T o -| H# 1 a 3n vbar
+c10: ptil u fu v =22 v a -| T ++ s a f 3y + v o -| H# 1 fx vbar C =10 b o T fx 4 a tri -| =10 =22 4 tri o 3n
+c11: fs + T vbar tri C o 3n // fu -| // 3n + fu ptil u =ll a T L a =23 o T vbar c 1 a 3n fu -| // 3y =22 + 3n
+c12: fx C fu 3y // o v f -| 1 v vbar =22 // C // P o -| H# 4 C tri p T o f fu // |- fu o C =22 T v H# p b // vbar v
+c13: o 3n x -| // f fx a pi // 1 v 3n fx f b o fx ++ vd v // 1 m 3n tri o T Dz v C o fs vbar a v =10
+c14: v // -| n a =22 tri o C ptil 3y b 1 T + 1 v =22 // fu fu v // 1 T P fu b fu + b o =phi 1 =10 b fu f H# 1 vd vbar
+c15: n a x // 1 T + 1 a 3n vbar n a T // pi // vbar v tri fu 1 vd // P 1 fx vbar =23 // o T n -| 1 v vbar //
+c16: fx u T b o fu d6 v // -| vbar 1 n fu =ll 1 a -| o pi u 3n vbar b o 4 H# s o a f fx -| o 3n H# 1 beta a
+c17: a vbar =23 o T v o -| a fx fu tri C v 3n a fu H# ptil C b -| ++ f vbar fx H# 3n vbar -| o fu a 3n 1 -|
+c18: // C o ptil -| x H# 3y 3n o // b fx a =23 v + f vbar 8 fu -| a =10 =22 tri o pi // H# o fu -| a
+c19: =22 fx H# 8 o tri C pi // P 1 fx vbar C vbar // f fs b o x + 1 v |- fu 1 C ptil o fu C vbar =22
+c20: v // -| o d6 v o -| 1 // 3n fx u v fx ++ 3n m f + 1 H# tri o v fu // 4 ++ s o a 3n fu 3y u =23 //
+c21: P o 3n fs -| o vbar a f 1 -| c + s a // vd 3y vbar 1 a o 3n fu a -| T =inf 1 =10 =23 3y
+c22: fx 1 n L o 1 vd 1 f a b fu 4 ++ 3n v 1 a b P + 3n vbar tri a fu // 3y -| o pi a -| fx 3y o a vbar
+c23: v -| 1 a fx -| H# 1 -| a =10 T // H# o fu -| a -| =22 =inf 1 =10 =18 // fu H# tri 3n // ptil 1 a v
+c24: pi + 1 f b -| a // pp a fx vbar 1 H# 3n o f fu a -| v fu fu 3y tri C vd o b o pi // 3n P o
+c25: vbar ++ fu T 1 + ptil -| v fx ++ 8 o ptil + 3n vbar C o T // pp // 1 -| o v b a x -| // 3n fx u
+c26: vd // 1 T =10 tri o 3n a C fu 3y o f T n // 3y =22 b 1 -| o fx 1 =10 C o v 3n + fu ptil o =ll a v
+c27: =22 f // fu + 3n v v // -| P a fx // fu 1 a s o 3n vbar C // v p fu T m -| // 3n b v -| vbar 1 a v // -|
+c28: C o vd + 3y o 3n b a fx L // 3n vbar H# s // 3y arrow vbar 1 a 3n vbar 8 + 3y fu 3n o b 1 a vbar fs a
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：上の確かめで直した箇所のうち、追加の読み手の Codex が1回目の読みを選んだ 3 か所（v022r）は、読み手がそろわないので元に戻した。
+# 2026-10-20：v022rs-002 は、追加の読み手の Codex がそろわないので元に戻した。

@@ -1,0 +1,15 @@
+# BnF fr.15919 コマ65の右（f.61r、「4 Juin 1568 Vienne」「du Comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ65の右（原寸）。行の画像は src/trackline.py で作った（z_L01–z_L09）。前は平文「Le roy d'Espaigne」。行の中の平文（ou、Dict など）は書いていない。
+c01: =10 // + f n // T tri + 3n b a vbar + fu fx L o -| // ptil fx fu f v -| ++ f fx v T fu -| C a
+c02: x // 1 fx vbar b fu pi // -| tri // 1 m a // =inf C o =22 fu 3n a vd o 3n // fu ffx tri =10
+c03: -| tri o 3n T P 1 fx vbar =10 // P f a =22 tri a v fu tri T o 3n vbar // f P -| a tri C 3n
+c04: a fu // ptil fx fu 3n a -| o T + C fu vbar tri + 3n b o T v // tri m 3n a fx 1 T // 3n v L a
+c05: fu // fx fu o =ll a tri o f -| -| + 3y v |- fu // m -| // 3n P v o tri 3n a T o -| a T + fu C b -|
+c06: tri fu b o Dz fx C fu w a C rho vd // -| tri // 1 m a // fu o fx =inf m o v z o C a pp a vbar
+c07: b fu fx fu o C fu fx f b 1 fx vbar o 3n fx a T vbar o n fx fu -| fs =22 fu + ptil v C ptil 3y
+c08: o 3n fu + 3y o v 1 fu 3n z // pi fx // H# // b a fx o
+# 暗号はここまで。続く平文：… est arrivé le chevalier Fiasque envoyé du duc de Ferrare qui a esté son ambassadeur …
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：v065r-015（消した 1）は、切り出しで独立した短い縦画が見えるので元に戻した。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：上の確かめで直した箇所のうち、追加の読み手の Codex が1回目の読みを選んだ 1 か所（v065r）は、読み手がそろわないので元に戻した。

@@ -1,0 +1,44 @@
+[
+{
+"id": "v008rs-001",
+"line": "q_L01",
+"row": 0,
+"pos": 19,
+"before": "fx fu a",
+"after": "1 -| vd",
+"A": "mine",
+"B": "codex",
+"textA": "\"-|\"",
+"textB": "\"fx\"",
+"mine": "-|",
+"codex": "fx"
+},
+{
+"id": "v008rs-002",
+"line": "q_L01",
+"row": 0,
+"pos": 21,
+"before": "a -| 1",
+"after": "vd // 1",
+"A": "codex",
+"B": "mine",
+"textA": "\"fx\"",
+"textB": "\"-|\"",
+"mine": "-|",
+"codex": "fx"
+},
+{
+"id": "v008rs-003",
+"line": "q_L01",
+"row": 0,
+"pos": 31,
+"before": "x // fu",
+"after": "vbar =22 8",
+"A": "codex",
+"B": "mine",
+"textA": "\"z\"",
+"textB": "\"C\"",
+"mine": "C",
+"codex": "z"
+}
+]

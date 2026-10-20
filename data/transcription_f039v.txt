@@ -1,24 +1,25 @@
 # BnF fr.15919 f.39v（f.39r の続き）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
 # 画像：Gallica btv1b90573568 コマ44の左（原寸）。切り出しは src/strips.py・src/lineimgs.py（x 850–3900）。右半分は行が傾いて上にずれる。
 # 行の名前は c01 から（f.39v の暗号の1行目＝c01）。記号名と十字形の扱いは transcription_f039r.txt と同じ。「16」は Tomokiyo の表にない数字。
-c01: .Il C ++ 3n vbar ++ =ff a 3n fx o au 3p + fu -| fu o ptil =23 v 3n o fu tt a 3n vbar // fu fx fu 3n o fx x + -| vbar o T
-c02: 3p C // + o T o 3n C a fu -| v vd // tri 3n v =10 + ++ 3n P o tt a 3n b 1 vbar // 1 // fu fx ptil 3n o v C o fu -| T
-c03: P o vd // 3n b 1 ++ v // =ff a 3n P o fx a .bro C tri fu -| o -| .bro fx a T vbar -| ++ fu fx C rho T f // -| tri a C
-c04: ++ o ++ 1 C =22 fx o T m fu o =rr a T b fu -| o 3n vbar f -| ++ 3y =10 =22 fu C o T 3n a v o fu ptil a 3n vbar
+c01: .Il C ++ 3n vbar ++ pp a 3n fx o au 3p + fu -| fu o ptil =23 v 3n o fu tt a 3n vbar // fu fx fu 3n o T x + -| vbar o T
+c02: 3p C // fx o T o 3n C a fu -| v vd // tri 3n v =10 + ++ 3n P o tt a 3n b 1 vbar // 1 // fu fx ptil 3n o v C o fu -| T
+c03: P o vd // 3n b o v // pp a 3n P o fx a .bro C tri fu -| o -| .bro fx a T vbar -| ++ fu 4 C rho T f // -| tri a C
+c04: fu o ++ 1 b =22 fx o T m fu o =rr a T b fu -| o 3n vbar f -| ++ 3y =10 =22 fu C o T 3n a v o fu ptil a 3n vbar
 c05: 3p + + vbar o -| |- fu a m -| // 3n b -| o -| fu 3y 3n a =10 b -| + q9 // 1 m a // =16 -| ++ 3y // fu C vd a =10
 c06: T o p C ++ 3n C // -| o T 3p + 3n fx a =23 ptil -| // v // -| 3y f ++ q9 a =23 fu + ptil v // o 3n ptil + 3y o
 c07: tri C T o vd 3p C ++ 3y o -| // =20 fu + ptil v fu o + 1 -| f ++ -| v .bro fx a T m fu o =rr a T tri 3n vbar o T vbar tri
-c08: 3n o T =10 // b fx a =22 tri a 3p ptil a T Dz fx o ptil a + 1 -| Dz 1 vd a tri o fu + ptil v // 3y
+c08: 3n o T =10 // b fx a =22 tri a 3p ptil tri T Dz fx o ptil a + 1 -| Dz 1 vd a tri o fu + ptil v // 3y
 c09: fx 3y .bro ptil // 3n vbar o T fx -| 1 v pi tri C // vbar f // 3n vbar .bro T fx // fu + 1 -| T fu -| fx o C //
-c10: fu + C ptil 3n vbar a b fu -| ++ 3y K 3p ++ ptil -| // 3p -| o T v 3p ptil tri K // 3n vbar tri fx a =ll o ptil 3y
-c11: T o vd fx C // c fu u 3n o 3p a fx L o K -| ++ 3y .bro T vbar 3y // 1 m 3n o =20 C o 3p -| tri o -|
-c12: // fu tt tri .bro -| o vd a vbar lf -| o T // -| ++ s a fu -| fx o fx o ptil C o .bro x fu // 3n b -| o T
-c13: ++ arrow o 3n fu + 3y // tri o fu b C 3y ptil 3n m fx ++ fu =rr 1 a -| o f a T v // tri m 3n a |- fu tri 3n o T vbar +
-c14: =20 // fu C vbar -| o fx L ++ v a =22 3p + fu -| // .bro fu C fx tri -| K =10 vd + 3y rho 3n f a -|
+c10: fu + C ptil 3n vbar a b fu -| ++ 3y K 3p ++ ptil -| // 3p -| o T 3p ptil tri fu // 3n vbar tri fx a =ll o ptil 3y
+c11: T o vd 4 C // c fu u K o 3p a fx L o fu -| ++ 3y .bro T vbar v // 1 m 3n o =20 C o 3p -| tri o -|
+c12: // fu tt tri .bro -| o vd a vbar lf -| o T // 4 ++ s a m -| fx o fx o ptil C o .bro x C // 3n b -| o T
+c13: ++ arrow o 3n fu + 3y // tri o fu b 3y ptil 3n m fx ++ fu =rr 1 a -| o f a T v // tri m 3n a |- fu tri 3n o T vbar +
+c14: =20 // fu C vbar -| o fx L ++ v a =22 3p + fu -| // .bro fu C fx tri -| pi =10 vd + 3y rho 3n f a -|
 c15: =22 C |- fu a -| o Dz T tri =ll tri // vbar 1 + 3n o f vbar -| a C fu 3y =10 T + 3n x tri C 3p K tri C
 c16: o T vbar // =rr tri fu o .bro v fu 1 T fu 3n m fx ++ fu =rr tri o -| P o T v // tri m 3n o vd // 1 v tri fu T =22 v
-c17: // fx o fx vbar L a fu -| a tri o 3n a f // 3y -| tri o 3n v T fx o fu // 3p f -| o 3n b -| a tri C 1 fx 4 tri o 3n
+c17: // fx o T vbar L a fu -| a tri o 3n a f // 3y -| tri o 3n v T fx o fu // C f -| o 3n b -| a tri C 1 fx 4 tri o 3n
 c18: fu -| // 3y |- fu o arrow T fx // tri vbar C // fx // fu T o b C a C // 3p -| tri 3n T a P fu 3p -| tri 3n fx a
 c19: ptil =22 ptil C o tri C vbar 1 a 3n vbar T o fx fx a vbar ffx a
 # 暗号はここまで。続く平文：Madame, voyant qu'à ceste heure je ne vous puis faire aucun service, et n'ayant aucune occasion pour y demeurer long temps, je vous prie tres humblement, s'il est à vostre bon plaisir, de me donner congé …（目視、推定を含む）
 # 修正の記録（2026-10-20）：Codex による照合（second/run0/）の食い違いを見て直した。残したのは画像を拡大して確かめた修正だけで、確かめられなかった修正は元に戻した。箇所の一覧は second/run0/RESULT.md。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

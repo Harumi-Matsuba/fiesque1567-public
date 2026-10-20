@@ -1,0 +1,36 @@
+# BnF fr.15919 コマ149の右（f.144r、「10 Septemb. 1569 Bohême」、国王宛。本文は Sire）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ149の右（原寸）。行の画像は src/trackline.py（am_L01–am_L29）。前の平文の結び「… ma … du 14 de may le roy …」。
+c01: =22 tri a b a 4 q9 ++ tri v P tri -| a =10 -| a vd ++ 3n vbar -| a beta // 3y 11 3n vbar tri fx a =ll u -| a vbar // -| b a o 3n .ti .ol
+c02: fx L a pi tri 3n =20 a T vbar -| o =16 fx ++ q9 =rr tri a beta vbar q9 vd + a pi // fu 11 b a // T ++ =ll o q9 =rr a .par .moy
+c03: fx q9 // a T vbar o fx // q9 T a =22 vd ++ 3n T tri a fu -| b a C a =ll tri o q9 fx a vd a C // o 3n q9 ++ 3y lf v // -| .ti .ol
+c04: fu 3n m b a T v // q9 C vbar tri a -| v ++ -| P tri 3n // a -| a v b fu b a fx vbar fu tri a fu .Dao .Day // pp tri 3n =22 =ll a
+c05: pi a x q9 fs // v f ++ beta vbar lf v a q9 -| o vd a 3n vbar .Il .ti .ol T q9 tri fu // 3n vbar C // =22 fu C o // v -| a T // q9 fx a
+c06: P ++ s a =16 C a vbar -| o a 3n T o vd + C o fx o =ll a b a fu // beta ++ 3y 3n a // pi tri a fu 3y // 3y b tri fx vbar =22
+c07: vd // q9 tri a v Dz vd // 3n P a b o C fu 3y =13 a 3n vbar o f b -| a =22 fx fu // 3n b a f q9 ++ 3y // T vbar a v vd ++ 3n T a tri
+c08: m 3n a q9 -| C o fx // -| b tri 3n // fu b a m fu tri T a o f a T v // tri z 3n a C o T a fx ++ 3n b H# q9 =ll ++ tri -| b a C //
+c09: pi ++ -| vbar P a C // x a q9 o beta H# 3y 3n a =16 T H# a q9 -| C q9 3y Dz vd // 3n b // v vbar a T b a 3n vbar // 3n b -| a P q9
+c10: =ii |- ptil a =ll o =14 ++ tri fx vbar T // -| a v ++ C fu vbar tri ++ 3n T q9 -| C o x // 1 fx vbar b ptil pi // -| tri // 1 m a |- fu tri v a
+c11: vbar -| // fx vbar ++ tri fs b a =16 b tri fx vbar a vd // m o T vbar a =10 vd // b // pi a T // x tri =ll a // a T 3n lf C a =22 fu
+c12: .Day .La b a v // -| // q9 11 3n vbar tri fu // q9 ++ tri fx vbar vd ++ 3n T vbar -| a // fu ++ tri -| x ++ -| vbar // m -| a //
+c13: + C o =10 b a fx C // tri -| a q9 ++ fu =ll ++ tri -| a T vbar -| o C u vd a P tri // vbar a q9 -| =10 vd ++ 3y o s a q9 beta
+c14: P tri fx a =ll q9 3y .Dao .par // fu ptil ++ 3y tri fu // q9 -| ++ 1 fx vbar x // tri fx vbar -| a T v ++ 3n fx a // q9 b tri fx vbar T tri a fu -|
+c15: n // -| b tri 3n // fu =22 C o v fx L fx T a v a T vbar ++ tri a 3n vbar fx L 11 3n z lf v v // -| C // vd ++ -| vbar b a C //
+c16: -| ++ 3y 3n a T // x a z o =10 |- q9 a T vbar // 3n vbar q9 a x fu tri fu // q9 ++ tri fx vbar P a C tri fx a -| o P a T v ++ q9 T a -|
+c17: v // b tri fx vbar a x tri =ll a // tri T 3n lf =20 a T vbar -| o P a // tri m a v C fu v fx ++ 3n q9 a 3n // + C a // fu fu 3y
+c18: =10 =23 // q9 -| ++ tri fx vbar 3y ++ -| vbar // 11 m -| a // 4 C o =10 b a T tri -| a beta ++ tri vbar =22 =16 b tri fx vbar a vd // m a T
+c19: fs a x q9 vbar Dz vbar // 3n vbar a b o T v ++ q9 T a beta C // T a fx H# 3n b o .Il .ti .ol T q9 -| K ++ 3y // 3y // 3n vbar
+c20: a 3n vbar // f b ptil b a v q9 tri T =16 tri 3n vbar a f vbar tri ++ 3n =18 // q9 -| ++ tri fx vbar v -| tri a b a 3n o f -| tri a 3n v
+c21: vd // 3n b a -| // T // vd // m a T vbar u b a P a n // =22 v -| a pi tri o -| u vd a 3n vbar tri fu 3n 3y a q9 T vbar
+c22: o 3n q9 ++ 3y a q9 3n m fx ++ q9 =rr tri a beta .par .La .ti n // -| tri fu T // H# a q9 -| H# tri vbar =22 vbar ++ q9 vbar
+c23: C a x // 1 fx vbar b a fx o vd // -| tri // 1 m a T a -| H# tri vbar beta a vd tri T v q9 -| C fu 3y .Il .ti .ol =10 =22
+c24: P a v q9 tri T tri fu =18 // q9 -| ++ tri vbar x // 1 fx vbar a 3n vbar // f b -| a v // -| vd ++ 3n T tri a fu -| b a x ++ -| =22
+c25: q9 // fu C =16 // vd 4 // H# // b a q9 -| =23 C fu 3y // q9 ++ tri fx vbar -| a 1 vd tri v C a 3n vbar tri a -| o + a T ++
+c26: C fs vbar 1 ++ 3n P fs vd // -| tri // m a P a T // v a fx ++ 3n b a x tri =ll a C o =22 rho tri fu b a T tri -| ++ tri vbar
+c27: =14 -| a fx ++ 3n n fu fu b =10 Dz vbar -| // fx vbar a P a q9 // 3n vbar C fu 3y a 3n o T v // tri m 3n a .par .moy
+c28: fx a |- fu // 3y 11 3n vbar =16 vd // m a T vbar a a 3n vbar // f b fu a =ll o // q9 -| ++ tri vbar a 3n q9 ++ 3y o // vd v C o
+c29: v ++ q9 fu ++ tri -| // q9 b tri fx vbar T tri a q9 beta b a x ++ -| =22 q9 // pp o b a fx a =13 =10 tri fx a =ll fu 3y .La
+# 2026-10-20：c25–c29 を書き起こした（am_L25–am_L29）。続く平文は「La …」。その後、全29行を画像で見直して書き直した（三角 ▲ を tri（i）として a と分けた、行の区切りを画像の行に合わせた（c01 の末尾が c02 の頭に入っていた）、ʒ 形2つ（ℌ＝n、ʒ＝y）の名付けをそろえた、など）。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、Codex と Claude Sonnet が別々に画像で確かめ、2つがそろって Codex の読みを選んだ箇所だけを直した（second/check/decisions_v149r.tsv）。
+# 2026-10-20：画像の確かめの Sonnet を、1体30枚以下・読み込みが空なら読み直す手順で取り直した（sonnet2_*.txt）。前の答えと取り直しの答えの両方と Codex がそろわなかった箇所（f039r は1、v149r は4）は元の読みに戻した。
+# 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20：上の確かめで直した箇所のうち、追加の読み手の Codex が1回目の読みを選んだ 1 か所（v149rs）は、読み手がそろわないので元に戻した。

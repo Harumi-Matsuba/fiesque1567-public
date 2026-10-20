@@ -1,0 +1,21 @@
+# BnF fr.15919 f.95r（f.94v の続き、1568年8月14日）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ100の右（原寸）。行の画像は src/trackline.py で作った（j_L01–j_L20）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。行の中の平文（Dao Day receu など）は書いていない。
+c01: .Dao .Day // b ptil tri T o -| fx 1 o L fx a n -| ++ 3y v =23 T o -| // c 1 a 3n // v -| ++ v ++ v
+c02: =22 C fu 3y o T fx -| tri f ptil tri o v Dz vd a // fu o v o 3n vbar // f b ptil b o vd ++ 3y =22 T ++ 3n
+c03: x -| o beta a // =ll ++ 1 fx vbar 1 3n a T v // tri m 3n a v // -| pi o -| =10 =22 T 1 // T ++ 3n
+c04: -| o vbar ++ ptil -| tri C ptil ++ fu =ll H# tri fx vbar v // H# o -| v // -| x -| // 3n fx a =22 C fu 3y
+c05: ++ pp -| o T C rho v // 1 T =10 v // H# // tri m a .Dao .moy tri C =18 v C // tri -| // vd a
+c06: v // -| b ++ s a -| T tri 1 a vd a pi o vbar v vbar -| ++ v // fu // 3n vbar // fu ++ ptil T b ++ s a -|
+c07: f ++ 3n T a tri C fx // -| tri o C a x // 1 fx vbar v f o 3n T // f vbar =23 fx o fx 3y
+c08: // 1 b o -| // x ++ -| vbar // vd // tri 3n vbar o fs tri -| =16 4 ++ s a // pi tri vbar 3y o =10 // fu H# tri
+# c08 の「16」は Tomokiyo の表にない数字（ce と推定）。
+c09: =22 tri o fx -| ++ 3y T =22 pi vd // vbar ++ fu fx L o fx o C // T // H# o fu -| // 3n vbar =22 tri o
+c10: C o =18 x // 1 -| ++ 3y T o 3n vbar // 3n b fx a .Dao fx ptil o C fx ptil q9 3n m vd // fu ++ ptil C fu
+c11: P tri -| a =22 C rho x tri C v // 1 T 3n a b o pi -| o vbar ++ -| 3n o -| // fu o fx C tri -|
+c12: fx L o b ptil fx n L // -| C rho T b o fx ptil ++ 3y pi 3n o vd // -| tri =10 3y T b 1 fx vbar
+c13: .Il tri a 3n o x // tri =ll 1 -| // 3y b o vd o 3n a f fx ptil o -| 1 beta // fu q9 -| // 3y =10
+c14: ptil ++ q9 T o 3n // b ptil tri T o -| .ti .ol .par .moy C o T o fx ++ 3n b 3y tri C v b ptil
+c15: P ptil fx b o C // q9 tri o -| a tri -| // fu H# tri o 3n a T v // tri m 3n a // fu o fx C rho
+c16: b tri fx vbar // -| fx L o b ptil fx n L // -| C rho T
+# c16 の後の「ti ol Dar par moy Jay receu」は平文の字の並び（無効字と平文）。続く平文：Il ne s'entend plus parler des reistres et gens de pied qui se levoient en Allemaigne en faveur du prince d'Orange …

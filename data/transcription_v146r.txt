@@ -1,0 +1,25 @@
+# BnF fr.15919 コマ146の右（f.141r、「2 mars 1569 Vienne」、王妃宛）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ146の右（原寸）。行の画像は src/trackline.py（al_L02–al_L21）。前の平文「… à Cristhaurie (?) et au matin」の後に無効字「Il ti ol」。
+c01: .Il .ti .ol pi vd // b 1 fx vbar =23 // a fu b // q9 C
+c02: vbar -| o v 3n ++ q9 fu a =ll u v P // =ll a pi // tri m 3n a v // -| C o T =22 =ll a T tri fu
+c03: =14 // b fu tri T a Dz pi a vd fx 3n T tri a q9 beta b // q9 vd // C a 4 -| q9 T C a =10
+c04: T // ffx // tri m a fs ++ q9 vbar // q9 v -| o v b fu a T // q9 a beta 3n o v fx a =22 C ++ 3y
+c05: v a vd fx C a x fx -| vbar a T vbar -| // 3n m a .Day tri a C fu =23 // 3y P tri fx vbar
+c06: =22 tri a f a 3n fx -| ++ tri v beta tri a 3n v =10 =22 fx a v ++ 3n fs 3n ++ q9 fu a =ll o T
+c07: fx ++ 3n vbar -| H# q9 fu lf v b a vd C tri s 3n m T H# b a fx n q9 -| P |- q9 tri fx -| // tri m
+c08: f a 3n vbar tri q9 m a n a =ll 3n vbar C a q9 -| Dz T fx tri a 3n n a v // -| C o v ++ H# a 3n fx o T
+c09: =23 v ++ 3n vbar 3y // tri fx vbar // q9 -| ++ 3y =10 =22 tri a pi // H# a q9 beta a =22 =inf 3n a
+c10: fx a T vd o vbar fs -| 11 =23 fx a x // n o 11 q9 fx fu 3n b ++ =mm // tri m a // q9 o v // tri v
+c11: P a fu u vd v tri beta a .par .La Dz vd a pi ++ 3n vbar T tri a fu beta b a C // x -| -| o T vbar
+c12: // a fu fx L // -| m a b a C fu 3y =13 o 3n vbar // f b beta a .ti .ol tri C vd 11 b tri fx vbar =23
+c13: x // 1 fx fs b ++ q9 4 C a -| vbar ++ q9 v C o T // b q9 tri v =23 // beta o fx a q9 v =20
+c14: C o v =13 4 // tri =ll a beta vd // tri v tri a fx -| ++ tri v =22 =13 3n a C o v =20 -| ++ 3n T
+c15: 11 q9 ++ tri beta tri q9 T fx fu a v // b o vd 11 tri f .Day .La =10 v 11 -| vbar // 3n vbar C ++ -| b a 3n 11 tri
+c16: beta a tri o 3n // 3y q9 ++ ptil =ll fu x // tri =ll 1 -| =13 // P q9 tri v tri v a -| b a fx a n 3y .La
+c17: // q9 b a pi o q9 -| // 3n vbar tri C 3n a T o f vbar a 3n b beta tri a 3n v P a 3n ++ q9 fu a // q9
+c18: T tri 3n ++ f =22 C o v 11 =ll a vd // 3n v vd ++ 3n T vbar -| a f vbar 11 q9 ++ tri beta m -| // 3n b a
+c19: fx -| // tri 3n vbar a b o C // beta vd lf =22 =inf // T q9 -| C o v x -| ++ 3n vbar tri a -| o v .Day
+c20: =10 3n =14 q9 a 3n fs // q9 fu 3n m ++ fu q9 =rr tri a beta b a T v // tri n 3n a .par .moy tri a C
+c21: n -| // tri 3n v =22 C 11 -| fx L o b fu n 3n a T o -| // b a beta o vbar ++ q9 -| b a vbar -| ++ tri v
+# 暗号はここまで。続く平文：Ce que j'en sçauray ou de privay …、De Vienne ce 2 de Mars 1569。
+# 2026-10-20：画像で全行を見直して書き直した（三角 ▲ を tri（i）として a と分けた、行の区切りを画像の行に合わせた（al_L01–al_L21）、∞（=inf、le Roy）を =ii と書いていた箇所など）。

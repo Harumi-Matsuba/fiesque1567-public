@@ -8,7 +8,7 @@ Images, PDFs and the image of the key table are not redistributed here. Sources 
 | Item | Reference |
 |---|---|
 | Manuscript | BnF Français 15919 (formerly Harlay 238 (8)). Catalogue https://archivesetmanuscrits.bnf.fr/ark:/12148/cc46124x |
-| Images | Gallica ark:/12148/btv1b90573568 (183 views). f. 39r = view 43 right, f. 39v = view 44 left, f. 79r = view 83 right, f. 94r = view 99 right, f. 100r = view 105 right, f. 158r = view 163 right. Fetched from https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b90573568/f{view}/full/max/0/default.jpg (2026-10-20) |
+| Images | Gallica ark:/12148/btv1b90573568 (183 views). f. 39r = view 43 right, f. 39v = view 44 left, f. 79r = view 83 right, f. 94r = view 99 right, f. 100r = view 105 right, f. 158r = view 163 right. For the other pages the transcription name gives the view and side (e.g. v007l = view 7 left, v150r = view 150 right). Fetched from https://openapi.bnf.fr/iiif/image/v3/ark:/12148/btv1b90573568/f{view}/full/max/0/default.jpg (2026-10-20) |
 | Edition (replies) | H. de La Ferrière (ed.), *Lettres de Catherine de Médicis*, vol. 3 (Internet Archive lettresdecatheri03cathuoft). Prints Catherine's minutes to Fiesque, fr. 15919 f. 118 (21 Oct 1568) and f. 122 (16 Nov 1568). The text of f. 118 was used for the positive control |
 
 ## Key

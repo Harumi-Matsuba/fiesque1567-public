@@ -1,0 +1,19 @@
+b_L01	[Je] C ++ 3n vbar ++ H# a 3n + o s p + fu + K o fu // ++ fx fu 3n o T x + + 1 vbar T
+b_L02	y C // + o T o 3n C a fx + y vd // a 3n y C + ++ 3n o H# a 3n 1 vbar // ++ fx fu 3n o y C o fx T
+b_L03	[bon] 3n b o y H# a 3n b o fx a b o C a fu + o 4 b o fx a T vbar 1 ++ fx 4 C ptil T f // 1 a C
+b_L04	fx o ++ 1 3n C z fx o T m o fx o w a T b p + o 3n vbar f fx ++ y 1 C z z p C o T 3n a y o fx fu a 3n vbar +
+b_L05	y + + vbar o 1 fx ++ a m 1 + 3n b o + ++ 3 3n a 1 C b + fu // 1 m a // 16 4 ++ 3 // fx C vbar a 1 C
+b_L06	T o p C ++ 3n C + o T y + 3n + a C z ptil + // y + p f ++ 3y a z 3y fx + fu v // o 3n fx + 3y o
+b_L07	tri C T o y C ++ z p + // z o + fx + fu y fx vbar + 1 + f ++ + y b o + a T m fx o y a T a 3n vbar o T vbar
+b_L08	3n o T C 1 C // 1 + a C z z a y y p a T 3n y o fu a + 1 1 3n y a 1 a C o + fx + fu v // 3y
+b_L09	+ 3y b o fu // 3n vbar o T + + 1 y vbar a C // vbar f 3n vbar b o T + fx + 1 + T fx + o C //
+b_L10	fx + C fu 3n vbar a b fx + ++ 3y y ++ fu + // y + o T y fu tri + fx // 3n vbar a + a 7 o p 3y
+b_L11	T o v 4 C // C p u 1 o y a + f o fx + ++ 3y b o T y // m 3n o z o C p y + o o +
+b_L12	// fx H# a b o + o 1 d a vbar fu 3n o T 4 ++ 3y a m 1 // + o + o fx C d b o x C // 3n b 1 o T
+b_L13	H# a o p 3n + fx + 3y // tri o fx b 3y fu 3n m + ++ fx p w 1 a 1 o f a T y // a m 3n a + fx a 3n o T +
+b_L14	z o // fx C vbar + o + f ++ y a z z y + fx + // b o fx p C + tri + // arrow 1 o vd + 3y p 3n f a +
+b_L15	z z C + fx a 3n + o d 3y T a 7 tri // vbar 1 + 3n o f vbar + a C fx 3y 1 o T + 3n x tri a C y arrow tri
+b_L16	o T vbar w a fu o b o y fx 1 T ++ 3n m + ++ fx p w a o + b o T y // tri m 3n o 1 d 1 y a fx T z z y
+b_L17	f o T o f a fu + a o tri o 3n a f // 3y + a o 3n y T + o fx // y f + o 3n b + a a tri C 1 + 4 a o 3n
+b_L18	fx + // 3y + fu o a vbar T + // tri vbar C // f fx + T o b r a C // y + tri 3n + T a d fx y + tri 3n f a
+b_L19	p z z p C o a C vbar 1 a 3n vbar T o f + a vbar f f a

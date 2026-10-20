@@ -1,0 +1,25 @@
+o_L01	T o n fx ++ 1 ptil // y + 3n K 4 o y + 1 3n vbar s p pi a b 1 fx o z 3y // 4 1 o 3n ?{struck-through scribble}
+o_L02	fx H# z 3n o fu ?{struck-through la} a vbar + fu vbar n o fu // u vbar =22 L z a a ptil T n // 1 vbar Dz pi o
+o_L03	s fx // H#/fx a ++ fs + ptil y 1 H# ++ fx y b o T 1 fx vd o q9 fx 1 fx C // n fx o y vbar 1 a 3y vbar o
+o_L04	a lf ?{struck-through word} 4 H# d6 a K f 3y + 3n a vbar pi // b 1 fx vbar b o fx a n lf o x =23 3y ?{blotted sign}
+o_L05	3y a 3n y o fx fx 1 fx vbar =10 4 1 a 3n vbar + y ?{struck-through sign} vd a C // 1 =ll o fx + 1 fx vbar fx a y 3y + 3n n o
+o_L06	?{struck-through sign} s fu vd // T a vd 4 + fu o =23 ?{struck-through sign} // 3y fx 1 3n y m + fu vbar a 3n n o f + H# y ++ 3y
+o_L07	vbar + ++ fs o H# + 1 y 3n o f ?{struck-through sign} 3y + ++ ptil H# 3n y beta 1 a 3n y b 1 fx a ?{struck-through sign} s ptil y z z T
+o_L08	11 z 1 fx ++ + 3n // 3y a o ++ y // fx a y 3y + 3n n o a ?{struck-through sign} z o ?{struck-through sign} n o s // 3y fx a vbar o 3n ptil
+o_L09	fu a fx + fu =rr 1 a fx ?{struck-through sign} z o fu + ptil y a 3n o 3n ++ + 3y a fx fu // beta o y + C ptil vbar 1 H# 3n
+o_L10	=10 =18 // 3y a y n fx 1 y vbar ?{struck-through sign} fx o y vbar a fu a vbar vbar 1 a // H# ptil/pi 1 3n =22 3n o =18 ?{struck-through sign}
+o_L11	vd a vbar fs 1 o y u 3n y a 1 3n vbar b o y a m 1 // 3n tri fx + 3n z ptil a ++ fx tri o y fx 1 y
+o_L12	?{struck-through sign} pi // z a ?{flourish above} b 1 fx vbar =23 // ++/fx H# 1 fx vbar + ffx // y 1 + 3n b o y a 3y fu // 1 3n b fx
+o_L13	tri ++ 1 + 3y b o y vd // ++ ptil 11 1 T + H# pi 1 n a y z z y + 3n // vd 4 11 H# // b o ++ ?{struck-through sign}
+o_L14	3y // 1 + vbar 11 fx H# 3n T vbar // f vbar 1 3n + 4 fu o n + 3n vbar fx a fx ++ 3y ?{struck-through sign} vd // 1 y
+o_L15	z z z o n a fx // s C 3n o y a 3y fx // 1 3n vbar 3y fx 1 f fx vbar n // fx s fx 3n o C a ?{struck-through sign}
+o_L16	K a 3y C vbar n 1 H# 1 fx o 3n o ?{struck-through la} ptil fu 3y b 1 fx o y z z n o =23 vd o K a 3n + 1 fx vbar b
+o_L17	tri 1 fx o tri o y fx // ++ C ?{struck-through sign} vbar fx o 3y x + 3y y z z s o y vbar + tri y ?{struck-through sign} s n 3y ?{struck-through la} fx +
+o_L18	a lf x // 1 y + 1 fx vbar fx + ptil fx 1 fx vd o y pi a 4 fx fu 1 fx vbar z z fu // vd c 11 H# // b o ++
+o_L19	b fu fx + 3y 3y H# fu H# + 1 fx vbar // n + 3n y vbar // f vbar 1 3n + 4 fu a fu o fs q9 fx f fx tri
+o_L20	K a 3n 1 fx // ++ tri + vd a // 1 m o b o y // pi // z o T vbar u fx // z z =ll o n lf + y o
+o_L21	=14 + 1 fx vbar 3y + fx vbar ?{struck-through sign} C + 1 3n u m vbar // 1 3n o b + fx // K u fx 1 fx vbar u z z s o
+o_L22	?{struck-through la} fu o 3y fx 3y + 1 y b o pi a =13 n o + 1 a 3n tri a 3n a n fx + 1 fx o C o y
+o_L23	vd // fu 1 3n y ?{struck-through sign} a vbar =23 o 3n 3y // 3y // fx fu o vd + 3n b a fx fu 1 3n o ?{struck-through sign}
+o_L24	n lf a y + lf o 3n vbar z z fu // b o y ++ f 3y + 3n b a C ++ 3y a vbar tri ptil fx + 3y fx ptil
+o_L25	?{struck-through sign} beta a vd + 3n y vbar fx // f vbar 3y // fx f fu fu T 1 a ptil fx y fx // 1 y + 3n T z z pi

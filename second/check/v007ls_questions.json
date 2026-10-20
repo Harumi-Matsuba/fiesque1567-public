@@ -1,0 +1,16 @@
+[
+{
+"id": "v007ls-001",
+"line": "n_L12",
+"row": 11,
+"pos": 34,
+"before": "y o -|",
+"after": "T o 3n",
+"A": "mine",
+"B": "codex",
+"textA": "\"=10\"",
+"textB": "\"vbar\"",
+"mine": "=10",
+"codex": "vbar"
+}
+]

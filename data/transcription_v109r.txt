@@ -1,0 +1,29 @@
+# BnF fr.15919 コマ109の右（f.104r、「4 Septembre 1568 Vienne」「du Comte de Fiesque a la Reyne」）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ109の右（原寸）。行の画像は src/trackline.py で作った（ad_L01–ad_L28）。行頭「Madame」の後の「Il ti ol」は無効字。
+c01: .Il .ti .ol b o v fu tri T fu ++ ptil v // fu ++ tri -| o T fx -| tri v vbar fx o T vbar o v -| a vd tri o -| a
+c02: C o vbar -| a pi fx fu tri pi // q9 ++ 1 fx vbar v -| ++ vd a T b a vd a P tri -| a =22 C fx fu a n f ++ v a
+c03: b o T // ptil ++ C fu 3n vbar a b o fu // 3n vbar =22 C fx -| b a 3n // 1 -| a b o x C // 3n b -| o T =10
+c04: v // -| vbar a fs vd // b 1 fx vbar =22 // 3y // 3n vbar pi pi o 3n fu 3y a b o T vbar -| a vd ++ 3y o s a fu -|
+c05: b o fx a vd // -| tri // 1 m a =22 fx ++ vd pi a tri C vd // fu ++ 1 fx vbar b fu tri fx vbar tri C
+c06: C fu 3y T a vd 4 C o b fu a C o fx ++ 3n vbar // f vbar a -| =10 =23 fx -| ++ vd a =22 =18 // fu H# tri
+c07: C o vbar -| ++ vd pi o -| a v 4 ++ 3n fx // -| tri C o 3n vd pi // fu C b fx // vd tri o fu C o .Day
+c08: =23 // -| o T ++ C fu b o 3n fu ++ 3y o -| C o T a tri m 3n a fu -| v o -| 3n a T vbar // 3n o fs
+c09: o T v // tri m 3n a =10 C o fx a x // 1 fx vbar tri C // o 3n fu ++ 3y a fx ptil o -| tri -| o 3n
+c10: 4 ++ a T vd a =10 =23 o T v a -| u =22 pi b o T v // tri m 3n a fx ++ 8z // 3n fx a fx //
+c11: .Il tri 3n fx ++ f o tri 3n f o // v -| // fx o tri o tri n fu o -| C o vd // -| tri // 1 m a
+c12: fx // -| tri C o T fx -| tri v -| // b o x // fx ++ 3n 3n =23 3y fx ++ 3n m f H# tri T vbar -| // =23
+c13: // o 3n fu 3y o =22 fx a vd // -| tri // 1 m a T // fx L o ptil a C o v C ptil T vbar ++ v fs
+c14: fx fu tri C =22 o -| // tri o C // 3y o 3n fx ++ -| o T // H# a ptil -| o =22 tri a fx -| ++ 3y H# tri T
+c15: =22 fu ++ ptil v T a -| tri o v vbar -| o T // tri v a =22 pi vd ++ 3y o s a fx a vd // -| tri //
+c16: m a =10 =22 3n // fu tri o v vd ++ tri 3n m T b o 3n fu 3y a =22 C ptil 3y b o 3n ptil o 3n tri -|
+c17: // C // fx ++ 3n n C ptil T tri ++ 3n tri C vd // b tri fx o =23 3n 3y // v C ptil v // ptil fx fu f
+c18: ++ 4 T vbar // fx C a vd // tri T pi o fx ++ 3n vbar // f vbar a -| pi =23 x // fu C vbar // vbar fs 3n
+c19: b fx a o 3n fx ++ -| o T fx a v a fu b o vbar a vd v T =10 fx fu o 3n fx ++ -| a T =22 C
+c20: v -| tri 3n fx a P o T v // tri m 3n a f a x fu vbar vd ++ -| vbar =22 T ++ 3n tri f vbar a 3n
+c21: vbar tri ++ 3n o T vbar ++ 1 fx vbar fs ++ fu T tri H# ptil -| T fx -| T b o v =23 // =ll tri // 3n fx a // fu o -|
+c22: pi b fx fu 3n a b a T o v x tri =ll a T =10 =22 =22 T tri v // -| C o v // H# a C o T
+c23: ++ =ss // T tri ++ 3n T ++ 3n vbar // v f ++ -| vbar a =22 =22 C fu a T b a T ++ 1 fu C vbar a v
+c24: =23 3n o C a T o v vbar tri vd ++ 1 fx vbar fs o =ll a T fu a =ll o T a fu H# o 3n vbar v o fu
+c25: o vd v o T fx L o -| n a T vbar a 4 ++ s a ++ a ptil fu -| o =10 =22 C o fu a T =22 b a
+c26: -| a fs o T vd o T pi a v fx fu tri // fu ++ 1 fx vbar b o vd a ptil -| a C ++ 3n m vbar a vd v T
+# 暗号はここまで（ページの終わり）。続きはコマ110の左。

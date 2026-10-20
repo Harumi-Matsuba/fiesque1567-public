@@ -1,0 +1,12 @@
+# BnF fr.15919 f.80r（f.79 の追伸、1568年7月）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ84の右（原寸）。行の画像は src/trackline.py で作った（h_L03–h_L12）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。前の平文「Apres avoir escript la pnte」と抹消の語は書いていない。
+c01: tri // 3y o T fx a fx L o q9 v
+c02: pi H# q9 tri // 3y o 3n vbar // f b ptil =23 // x // 1 fx vbar q9 3n a b o v a fx L o =10
+c03: .Il .Dao a f o T v // tri m 3n o =10 =22 fx o T vbar a 3n 1 q9 tri fx o v // -| vbar tri
+c04: -| // q9 3n m fx H# q9 =rr tri o -| |- fu o T vbar T tri z 3n a fx ptil a C rho b tri fx vbar
+c05: .Dao T tri o q9 -| fx H# // 3n v // -| vbar tri -| // T tri vbar H# T vbar
+c06: // tri 3n T tri =22 C o P 1 fx vbar n ++ q9 =rr tri a -| T -| T o -| // v // -| vbar 3y .Dao .par
+c07: .Il tri o H# // 3y a -| // 3y b o T fx // q9 fx 1 fx 1 fx P o vbar fx -| o vd a 3n vbar
+c08: b o pi fx =10 =22 tri o .moy =18 // 3y fx 3y b o H# ptil T o v fx -| tri v vbar
+# c05 の中の「receu f a」と、c08 の後の「Dao Day receu」は平文の字の並び（無効字と推定）なので書いていない。

@@ -1,0 +1,31 @@
+# BnF fr.15919 f.94v（f.94r の続き、1568年8月14日）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ100の左（原寸）。行の画像は src/trackline.py で作った（i_L01–i_L27）。
+# 記号名と十字形の扱いは transcription_f039r.txt と同じ。行の中の平文（receu など）は書いていない。
+c01: .Il .ti .ol C o vd ++ 3n b a P // fu ++ tri -| x // 1 fx vbar T ++ 3n b o fx q9 ++ tri -| =10 fx a
+c02: fx ptil // v f // -| vbar tri 3n vbar // q9 3n m 4 ++ 3n x -| o beta a tri C vd // =10
+c03: // q9 H# tri b tri fx vbar fx ptil // fu -| o fs ++ q9 -| b o T ++ 3n b 1 vbar x -| o beta a tri ptil T o -| //
+c04: beta o T ++ C ptil vbar ++ q9 fx L // 3n vbar C o x // 1 fx vbar b q9 vd // -| tri // m a .Il .ti .ol .Dao
+c05: fx // -| // H# o 1 q9 -| lf pi a 3n vbar tri C v ++ -| vbar o -| // C // Dz fx L a C ptil T tri ++ 3n b q9 =10
+c06: fs ++ q9 vbar 3n o q9 ++ ptil =ll // 3n vbar o 3n x // fx ++ 3n b q9 fu vd ++ 3n P o v C ptil T // vbar fs // 3n
+c07: b beta a .Day =10 fu o f fx ++ -| o T =23 // 3y vbar o 3n q9 ++ 3y a q9 3n z fx ++ q9 -|
+c08: beta tri o -| b o q9 // 3n vbar tri C 3n // vbar fs // 3n b // q9 fx fu 3n a -| o T v ++ 3n fx a b o
+c09: fx a x // 1 fx vbar .ti .ol v // -| fx a =23 b tri fx vbar =22 tri ptil T =22 v // fx o T vbar L o q9 -| a
+c10: tri C // o T vbar a vd // 3n 1 a v // -| C a rho -| a T C o T =22 =ll a T 3n o v // -| C rho 3n vbar =22
+c11: q9 3n o x ++ 1 T vd // tri T =22 v ++ q9 beta o 3n a T vbar -| o pi tri o q9 C ? T // vbar a T x // 1 fx vbar
+c12: o q9 tri vbar a -| // C ++ 3n m fu a q9 -| =10 // vbar // 3n vbar b o v // -| ++ =ll a T .Dao .par .moy .Day
+c13: tri C // vbar -| ++ q9 ptil a vd o tri =ll a ptil -| =22 T ++ 3n x -| o beta a pi o T vd a v o 3n v ++ -| vbar a
+c14: C // Dz fx C fu T tri ++ 3n C // =22 C fu u tri C o T v o -| a // fu ++ tri -| P // 3y T |- fu // vbar -| a
+c15: vd ++ 3y T =22 C rho ptil ++ 3y // tri m a b o T ++ 3n x -| o beta a b ptil -| a -| // C rho fx ptil a C
+c16: v // -| vbar tri beta // C rho |- fu // vbar -| tri o T vd a b fx a T o v vbar a vd fx -| a =10 o T // =ll a -| =10
+c17: o vd C // -| fx fu o -| // z tri d6 a T .Il .ti .ol =10 fx ptil // T ++ 3n -| o pi ++ ptil -| tri C
+c18: =10 o -| ++ 1 fx vbar 4 tri o 3n v // H# o -| f // -| 3y -| // 3n fx a .par .moy P ++ -| T tri o C ptil 3y
+c19: P tri fx vbar v =22 tri a 3n T o -| ++ tri T 4 tri o 3n // tri T a fx // -| tri o vd // H# a ptil -| ++ 1 T
+c20: fx fu o pi =10 q9 ++ ptil v o 3n // fu -| tri o v m -| // 3n b v C // tri T 1 -| =10 // fu ++ 1 -|
+c21: ++ ffx // T tri ++ 3n b o C a fx // -| o H# a -| =10 =13 v f // -| ++ tri -| C // 4 ++ s a
+c22: q9 ++ C ptil 3n vbar a =22 C fu 3y // q9 o v vbar ++ fu ++ fu T tri ++ ptil -| v v ++ -| vbar lf =10 v H# -| vbar a v
+c23: o 3n n ++ -| o T =10 // vbar ++ fu T fx o fu C rho o fx fu tri b o v // 3n b o 3n vbar b o T // vd
+c24: tri o T vbar a // fx o T vbar a fx // fu T a =22 tri o C a v -| tri ++ 3y v C tri o 3n x ++ -| vbar
+c25: vd a =13 fx a C tri o 3n b o vd a 3n // b ptil o -| vbar tri -| pi ptil ++ fu T o 3n // b ptil tri T o -|
+c26: .Il .ti .ol tri C vd // b 1 fx vbar =23 3n 1 4 o 3n fx ++ -| o T // H# o fu fx a b ptil fx L a vd tri 3n
+c27: =23 vbar tri o 3n b -| // T ++ 3n -| o fs ++ ptil fx vd // tri T =23 3n a x // tri =ll 1 -| // vd o 3n
+# 暗号はここまで（ページの終わり、続きは f.95r）。

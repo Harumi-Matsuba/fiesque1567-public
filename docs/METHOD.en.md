@@ -5,7 +5,7 @@
 ## 1. Source and images
 - BnF Français 15919 (formerly Harlay 238 (8)), 174 folios: letters of Scipion de Fiesque (Scipione Fiesco) from the court of Emperor Maximilian II (Vienna) to King Charles IX and the Queen Mother Catherine de Médicis, October 1567 – November 1569. Catalogue: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc46124x
 - Images: Gallica ark:/12148/btv1b90573568 (digitized from microfilm MF 15717; 183 views of openings). Full-size images (about 7000 px wide) were fetched from BnF's IIIF service (openapi.bnf.fr), 5 seconds apart. Images are not included in this repository.
-- Scope: the five letters named by Satoshi Tomokiyo as partly in cipher (ff. 39, 79, 94, 100, 158). The volume has about 40 pages with cipher; the rest were not read.
+- Scope: the first version covered the five letters named by Satoshi Tomokiyo as partly in cipher (ff. 39, 79, 94, 100, 158). This version extends to all pages with cipher found in the volume (44 pages) (§11).
 
 ## 2. Key
 - Satoshi Tomokiyo's reconstructed table (Cryptiana, "French Ciphers for German (and Eastern) Affairs", https://cryptiana.web.fc2.com/code/frencheastern.htm, version of 2026-03-15). He writes: "The reconstructed key below will allow reading undeciphered portions." The table image is not included.
@@ -25,7 +25,7 @@
   - 4 places in f. 100 written as W were confirmed on the image as ϖ and corrected.
 - Because this comparison was used to correct the first transcription, it is not called "independent".
 
-## 5. Independent second transcription (second/ind/)
+## 5. Independent second transcription (second/ind/, first version)
 - After all corrections, the line images of the six pages (146 lines) were transcribed by Codex, once per letter, each in a fresh context. Codex = OpenAI Codex CLI (codex-cli 0.163.0-alpha.10.2 bundled with the ChatGPT app; default model, the model name is not shown in the logs), run as `codex exec --ephemeral --skip-git-repo-check -s read-only --json` from an empty folder, given only the line images and a sign list with shape descriptions (second/ind/PROMPT2.md). No values, key or first transcription were given. The logs contain only one reply each, with no commands run and no files read (checked by tests/test_second.py).
 - The first transcription was not corrected after seeing these results.
 - Comparison (src/ind_compare.py): signs aligned line by line by edit distance; agreement counted by name and by value (same letter under the key). The first transcription's name tt is the same ŧŧ/# shape and was treated as H#. The looped y-shape (v = s and 3p = p in the first transcription) was treated as one class (value s/p); figures without this class are also given.
@@ -46,7 +46,7 @@
 - Positive control (src/posctl.py): the text of Catherine's letter to Fiesque (minute, fr. 15919 f. 118, printed by La Ferrière, vol. 3) was enciphered with this key, with substituted signs mixed in. With about 200 signs and 10% errors the true key was still distinguished (0/1000); a random sign sequence was not (619/1000).
 
 ## 7. Calibration
-- None. No contemporary decipherment was found in the volume (all 183 views seen at reduced size), and La Ferrière's edition prints only Catherine's replies, not the plain text of Fiesque's ciphered passages.
+- None. The first version said that no contemporary decipherment was found in the volume; that is wrong: view 23 right has a contemporary decipherment (plain-text copy) of the cipher letter on view 22 right. Its cursive could not be read reliably by AI, so it is not used ([OPEN.en.md](OPEN.en.md) §7). La Ferrière's edition prints only Catherine's replies, not the plain text of Fiesque's ciphered passages.
 
 ## 8. Criteria for full and partial reading
 | Status | Conditions |
@@ -54,15 +54,35 @@
 | partial reading | no shuffled key ≥ true key in 1000; at least one passage that makes sense; ≥70% agreement with the independent second transcription (with calibration: ≥65% letters) |
 | full reading | the partial-reading conditions plus ≥85% agreement with the independent second transcription and ≥95% of signs with a value (with calibration: ≥90% signs or ≥85% letters) |
 
-- ff. 94r, 100r and 158r meet the full-reading criteria. ff. 39r, 39v and 79r are partial readings (independent second transcription below 85%).
+- In the first version ff. 94r, 100r and 158r were full readings and ff. 39r, 39v and 79r partial. The status in this version is in §14 and [PAGES.en.md](PAGES.en.md) (full reading 43 pages, partial reading 1 page).
 - Agreement is judged by value; name agreement is also given.
 
 ## 9. Use of AI
 - First transcription, inferred values, decipherment, scripts and documents: Anthropic's Claude (Claude Code, Claude Opus 5.5).
-- Second transcription: OpenAI Codex (above).
+- Second transcription and image checks: OpenAI Codex (above) and Anthropic Claude Sonnet (§12, §13).
 - Done by a human: choice of target, permission to fetch the images, decision to publish. **No human has checked the transcription.** Agreement between AIs is no substitute for human checking.
 
 ## 10. Limits
 - Most lines of the reading are "inf." and include word division, supplied spelling and the s/p choice for the y-shape.
 - Not checked against historical sources.
 - Some signs have no value (ρ, K, ⊸, ꝺʒ, ꝑꝑ) and some values are inferred (16 = ce, ꝭs = t, …) ([OPEN.en.md](OPEN.en.md)).
+
+## 11. Extending to the whole volume (this version)
+- All 183 views were looked through at reduced size and every page with cipher found was transcribed (some may have been missed). Views 26 and 94 have plain text only; view 163 right is f. 158. Lines were cropped with src/autopage.py (line centres from ink peaks, then src/trackline.py follows each line).
+- In the later hand (from view 125), the triangle ▲ is Δ (tri = i), a sign distinct from the round a (e); the ℌ-like sign with a tail is n (3n) and the 3-like sign with a tail is y (3y). The triangle was first written as a, so seven pages were re-transcribed from the images (notes in each file).
+- Comparison: without fixing line correspondence, all signs of a page are joined and aligned by edit distance (src/ind_compare4.py). On 21 pages this differs from the line-by-line comparison by 0–1.0 points.
+
+## 12. Image check of disagreements
+- Places where two runs of the independent second transcription (two Codex runs, or Codex and Sonnet) disagreed with the first transcription in the same way became questions (src/mkcheck.py). A crop around the estimated place, enlarged 2.5× with a triangle mark, and the two readings (A and B, in random order) were shown to separate readers: Codex (fresh context) and Claude Sonnet (fresh context, a few dozen images per agent), later two Sonnet agents.
+- A place was corrected only when the readers agreed on the second transcription's reading. Names in the y-shape class (s/p) and names not in the key were not changed (src/apply_checkp.py; decision lists in second/check/decisions*.tsv).
+- Re-check: in some of the first Sonnet checks the images failed to load and the agent answered anyway (by its own report). Those answers were set aside (second/check/sonnet1_old/) and all were redone with an instruction to re-read failed images. Earlier corrections not supported by the redone answers were reverted.
+- Some places that the check removed as "no sign here" were looked at again: where the crop did not show the place, or where a // is clearly visible, the first reading was restored (notes in each transcription).
+- After correction, new independent second transcriptions not used for any correction were made; only those are used for the status ([PAGES.en.md](PAGES.en.md)).
+
+## 13. Independent second transcription by Claude Sonnet (reference)
+- Sonnet was given PROMPT3 and the line images. Whole line images (about 3000 px wide) were shown reduced, small signs were lost, and on f. 39v the value agreement was 63.4%. Given each line in left and right halves at full size, and asked to write each line straight after viewing it, Sonnet reached 78.0% (thirds: 76.5%). The two Codex runs on the same page reached 89.4% and 90.1%.
+- Typical confusions: ⊣ read as t-shape, + or 1; the lr ligature (b) as L; Þ as a triangle; the 7-shaped sign left unnamed. They occurred although the sign list describes these differences, so they are taken as a limit of this reader.
+- Sonnet runs are therefore shown for reference only and are not used for the status.
+
+## 14. Status
+- Only independent second transcriptions not used to correct that transcription count. The lower value agreement, the share of signs with a value and the control are applied to the criteria of §8 ([PAGES.en.md](PAGES.en.md)).

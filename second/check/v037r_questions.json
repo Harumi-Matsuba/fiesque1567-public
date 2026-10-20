@@ -1,0 +1,44 @@
+[
+{
+"id": "v037r-001",
+"line": "x_L01",
+"row": 0,
+"pos": 30,
+"before": "vbar o fu",
+"after": "o fu fx",
+"A": "mine",
+"B": "codex",
+"textA": "there is one sign \"b\" here",
+"textB": "there is no sign here (only a thin separator line, a gap, or nothing)",
+"mine": "b",
+"codex": "-"
+},
+{
+"id": "v037r-002",
+"line": "x_L02",
+"row": 1,
+"pos": 1,
+"before": "ptil o =ll",
+"after": "o y fu",
+"A": "codex",
+"B": "mine",
+"textA": "\"arrow\"",
+"textB": "\"P\"",
+"mine": "P",
+"codex": "arrow"
+},
+{
+"id": "v037r-003",
+"line": "x_L02",
+"row": 1,
+"pos": 7,
+"before": "fu tri T",
+"after": "rho y //",
+"A": "codex",
+"B": "mine",
+"textA": "\"z\"",
+"textB": "\"C\"",
+"mine": "C",
+"codex": "z"
+}
+]

@@ -1,0 +1,29 @@
+# BnF fr.15919 コマ110の左（f.104v、1568年9月4日の王妃宛の書簡の続き）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ110の左（原寸）。行の画像は src/trackline.py で作った（ae_L01–ae_L26）。行頭「Il ti ol」は無効字。
+c01: .Il .ti .ol // fu v -| o T b a C fu 3y // fx fu fx 1 fx vbar x fx -| vbar 4 tri o 3n v o fu
+c02: fx ++ 3n m f fx tri T vbar -| a C // 4 ++ s a // H# o fx vbar tri ++ 3n =23 q9 ++ fu T
+c03: v fx -| vbar H# 1 fx vbar fs ++ fu T tri H# fu -| v .Day C fx -| v tri // 3y v -| tri 3n T
+c04: fx ffx // T tri fx 3n b o C fu 3y b a -| a =22 =22 o T vbar // 3n fs // H# o fu -| a C o fu a T =22
+c05: b o -| a fs o T b o C // 4 ++ s a // vd tri vbar 3y o fu tri C v ++ -| vbar ++ tri fx vbar
+c06: // fu -| ++ 3y tri C 1 ptil m a // b o 3n a v ++ -| vbar a -| C o T fx -| 1 v vbar =23 T f // tri vbar
+c07: pi 3n a b ++ s a -| // fu fx fu 3n a ++ =ss // T tri ++ 3n b // C vbar o -| a beta C o fu -|
+c08: 4 ++ s a // vd tri vbar 3y o T a v o -| T fu // b // 3n vbar =22 fx fu o C =22 T fu 3n m T
+c09: // fu ++ tri o 3n vbar vd tri T o 3n // ptil // 3n vbar fx o T vbar o vd v o T fx L o vd a 3n vbar
+c10: pi o T o v // -| o beta C o ptil -| fx ++ 3n tri ptil f ptil f fx vbar tri ++ 3n vd // tri T =22 // C a x tri 3n
+c11: fx o T vbar a // vd tri vbar 3y o T a fx ++ 3n x tri -| vd a -| ++ 1 fx vbar v // -| fu 3n a
+c12: 4 ++ s a // =ll tri // 3n fx a tri C vd // b 1 fx vbar =23 // 3y vd a x ++ -| vbar T // x tri =ll a
+c13: // tri T 3n lf =10 v C ptil v =22 vbar ++ fu T v a T o 3n x // f T =10 =23 o T v a -| a =22 =18
+c14: =10 pi o 3n b a vd o fu -| a beta tri o v fx ++ 3n vbar // f T =10 vd o C o b a tri T ++ 1 fx vbar
+c15: P o T ++ -| vbar a =22 C ++ 3n fu ++ 3y H# 1 fu tri o 3n b o P // 3n T T ++ 3n fx fu o ptil -|
+# 行画像 ae_L13 と ae_L14 は同じ行（行の山が2つに割れた）。
+c16: C // tri ++ 3y C =23 // fu ++ tri fx vbar b o C // ptil o ++ tri -| -| ++ 3y 3n a b o x -| // 3n fx a
+c17: .Il .ti .ol tri a C // 3y // H# a fu -| a =22 =22 pi =10 fu ++ ptil v =18 v ++ -| vbar o -| tri o v
+c18: C o 3n b -| ++ 1 fx vbar P a =ll o b a vd // 3n tri o -| a =22 vbar ++ fu v C o tri ++ fu -| T
+c19: tri C o 3n T a -| // v C fu T fx ++ 3n vbar // 3n fs b o fx a vd // -| tri // 1 m a tri C vd //
+c20: b 1 fx vbar b o -| o fx L o x =23 o T fx -| tri v -| // T o v fx ++ 3y tri H# // tri -| o T
+c21: =23 v f -| o 3n a fs vbar m // -| b o =23 3n o T a x // fx o =22 C fu a T x // fu C
+c22: -| // v f ++ -| vbar v fu o v -| tri 3n fx a T =10 =22 b o C ptil -| v // tri T 3n o T a
+c23: C o fu a m a 3n T fx ++ 3n vbar -| a pi =10 =22 tri o =18 o T fx -| tri v fu a =23 ptil ++ fu T
+c24: fx ++ 3n T a tri =ll o =10 v -| tri a 4 tri o 3n x ++ -| vbar b o vd // tri 3n vbar o fs tri -| =16
+c25: v // -| vbar o 3n =16 -| ++ 3y // fu vd a tri o C fu 3y // 3y b 1 fx vbar =22 pi C o
+# 暗号はここまで（ページの終わり）。

@@ -1,0 +1,34 @@
+# BnF fr.15919 コマ150の左（f.144v、1569年9月10日の国王宛の書簡の続き）暗号部分の書き起こし（2026-10-20、目視。確定ではない）
+# 画像：Gallica btv1b90573568 コマ150の左（原寸）。行の画像は src/trackline.py（an_L01–an_L30）。行頭「Il ti ol」は無効字。記号名と十字形の扱いは transcription_f039r.txt と同じ。
+c01: .Il .ti .ol Dz fx pp =rr a 3n ++ fx -| a T =22 C a 3n vbar a f fs 1 ++ 3n b tri fx a =ll o x q9 vbar b a z o P a fx
+c02: q9 ++ tri -| 1 3y b a P a fx // a 3n C // fx ++ q9 -| vbar b a T // vd // m a T vbar o .Dao .La .ol n |- q9 // fu -| a v
+c03: C o b tri fx vbar T tri a fu -| b a x ++ -| =22 q9 // fu fu o q9 ++ fu v // q9 -| ++ tri vbar x // 1 fx vbar a 3n vbar // f
+c04: P -| a =22 C // vd 4 // H# // b a fu -| b a T // P tri fx vbar a pi // m a T vbar o C fu 3y // q9 -| ++ tri fx vbar
+c05: b tri fx vbar =22 =ll a // q9 ++ tri fx vbar b a C tri fx a -| o P a 3n q9 ++ 3y rho -| P // 3n v fx a vd ++ 3y T
+c06: P a T a v pi o vd 4 -| a T a v b a q9 x tri =ll a T // m a s o v z o T a vd fx // -| |- fu a -|
+c07: n =22 vd // b // pi a o C 3y T // fx a fu =16 x q9 vbar fu -| a o v ++ fu T a b a vd ++ q9 -| // T vbar
+c08: // vd // -| v a tri =ll o ++ q9 vd // b // pi a vd // -| m fu a -| tri vbar a =16 T ++ a q9 -| T a vd 4 // -|
+c09: =22 -| ++ tri fx vbar z o // =ll a -| a 3n o T v // tri m 3n a // q9 a n T // x tri =ll a // tri T 3n lf n b a =ll // vbar tri
+c10: beta a -| // v -| a v a 3n v ++ -| vbar q9 m // fu P a |- fu ++ 3y =16 b tri fx vbar a vd // m a T vbar a // q9 ++ tri vbar
+c11: q9 fu m -| // 3n b v fu // tri T 1 -| z o C o b a T tri -| =22 =ll a // =22 T ++ 3n vd // -| tri // tri m a
+c12: T a pp tri fx vbar q9 // v vbar C o v C fu v vbar ++ T fs =22 1 3y fx a z o -| ++ tri vbar .Il .ti .ol n C fu 3y x // tri
+c13: T // 3n vbar a 3n vbar // f b -| a =22 3n // q9 tri a v a 3n q9 ++ 3y rho v a -| T ++ s // tri m a b a |- fu // p tri vbar a
+c14: z o b a vd // 3n b a -| T // x tri =ll a // tri 3n T tri =23 T =14 vbar ++ q9 T tri ++ q9 -| v ++ 4 T a -| q9 a o 3n T a vd
+c15: fx C // C C o v fx L + v a T z o Dz vbar // 3n vbar a -| H# C a |- fu o fu 1 3y // H# a q9 -| ++ tri fx vbar =22 vbar a =ll a
+c16: a T vbar ++ tri fx vbar T // q9 ++ C fu 3n vbar a tri C vd // P tri fx vbar =23 3n // v // v vbar a 3n q9 // C fu 3y =22 C o T
+c17: pi // -| tri // m a T 3n a fx a T ++ tri a 3n vbar // ffx ++ vd v C tri v C o T =22 fu v tri fu vbar tri a 3n vbar z o x // 1 fx o v
+c18: n =22 fx o T vbar a C ++ 3n m fu a fu -| 3n =14 z o T // fx ++ q9 fu v a vd // tri v =22 ffx 3y 3n // tri // vd // tri v
+c19: a T fx -| tri v vbar -| a T ++ C fu a vd a 3n vbar b a fu // Dz fx fu ++ v tri ++ 3n // tri 3n v // vbar ++ q9 T tri ++ q9 -| v
+c20: v -| ++ f ++ v a =22 fu =22 T Dz b tri pi tri ++ 3n v C o T =22 =ll a T tri C x // =ll ++ tri pi -| a T ++ q9 C b -| a
+# 2026-10-20：この手では、h に似た尾つきの形（ℌ）が n（3n）、3 に似た尾つきの形（ʒ）が y（3y）。初めは逆に名付けていたので、c01–c19 を入れ替えた（入れ替えで envoyer・Espaigne・entendre などが読める）。三角（▲）は Δ（tri＝i）で、丸い a（e）と別。初めは a と書いていたので、c01–c17 を画像で見直して直した。
+c21: b a q9 // 3n vbar =22 b a =23 v // -| vbar tri -| v a T .Dav .ti .ol x tri =ll a T n =23 C fu 3y b a v a T T fx L o vd // a 3n
+c22: vbar a 3n // f vbar q9 3n m fx ++ q9 =rr tri a -| C o fx 1 fx a pp o fx vbar tri q9 T =22 v // q9 -| a vbar ++ q9 -| P q9 =22 fu
+c23: tri fu 3n a 3y a q9 C vbar 3y -| // 3n b -| a beta a T ++ C fu vbar tri ++ 3n T q9 -| C a b tri fx vbar 3y // -| vbar a pi o 3n vbar
+c24: vbar ++ q9 vbar a T x ++ tri v =23 3y a 3n T o =22 C o vbar ++ q9 fs C a vd ++ 3y T b a 3n ++ q9 a vd fx -| a // q9 3y C fu v
+c25: vbar // -| b C o vbar ++ q9 vbar a 3n T a -| // beta a T ++ q9 fu fu n =23 q9 ++ fs v a 3n fu ++ 3y o -| // fx tri a 3n vbar ++ T vbar
+c26: q9 3n m b a T a v m a 3n vbar tri fu tri fu 3y L fx vd pi a v n x a -| // 11 3y f // -| ++ tri -| C // fx ++ s a q9 ++ C fu 3n
+c27: vbar a =23 q9 3y -| ++ -| vbar a vd a 3y -| ++ vd a vbar fs // 3n vbar b a vd o P tri -| a a 3n Dz x tri // 3n fx a b ++ q9
+c28: v -| ++ q9 tri a 3n vbar fx 1 fx a C ++ 3n m fu a fu -| |- fu // a T vbar o fx // q9 v a b fu -| a vbar // -| b a vd a 3n vbar
+c29: P a C // ? H# 1 vd v C a H# a vd o 3n vbar b a v vd // -| tri // m a T .Il .ti .ol fx a =22 a // vbar vbar // 3n
+c30: b -| // 3y C o q9 a ++ tri -| fx a =23 vd a P tri -| // P a |- fu ++ 3y T tri tri tri a q9 a ++ 1 T a T vbar -| o fx L ++ v a
+# 2026-10-20：c20–c30 を書き起こした（an_L20–an_L30）。ページの終わりまで。c29 の頭の大きな記号（A に長い縦画）は名付けられず ? とした。

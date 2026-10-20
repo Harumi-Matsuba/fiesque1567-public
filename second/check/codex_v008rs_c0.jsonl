@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a15814-266d-7cb3-8cbb-ad8fffe78313"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"v008rs-001\tA\tupright with left arm only\nv008rs-002\tB\tupright with left arm only\nv008rs-003\tB\t2-shaped body with faint loop below"}}
+{"type":"turn.completed","usage":{"input_tokens":20811,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":210,"reasoning_output_tokens":162}}
