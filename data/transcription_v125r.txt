@@ -16,3 +16,4 @@ c13: C // v fu fu T m -| // 3n b v // -| vbar tri a fx -| ++ tri b =23 v 3n a v 
 c14: -| ++ 3n vbar -| tri o 3n T
 # 暗号はここまで。続く平文：receu par La Dao … presentant autre chose digne de vous escripre de privay …
 # 2026-10-20：画像で全14行を見直して書き直した（三角 ▲ を tri（i）として a と分けた、ŧ を ꝑ と書いていた誤り、行頭の「lro」を無効字 bro でなく lr（b）＋ o と読んだ、など）。単独の斜線（区切り）は書かず、二重の斜線（a）だけを書いた。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

@@ -25,3 +25,4 @@ c21: pi // b tri fx vbar =23 3n o f b tri T fx 1 fx vbar // fu C vbar -| a f L +
 c22: =22 // fu o v b o C tri C a -| o P o 3n T fx // fu fx tri -| // fx a n ++ fu v C // =10
 c23: -| o T fx C fu vbar tri fx 3n fx fs fx fu vbar o T x fx tri v Dz vbar tri 3n fu // 3n vbar // vd fx 3n
 # 暗号はここまで（ページの終わり）。続きはコマ71の左（f.66v）。行頭の「Il」「Day」は平文の字の組（無効字）。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

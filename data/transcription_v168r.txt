@@ -13,3 +13,4 @@ c08: 1 =mm a 3n fu ++ 3y o beta tri 3n tri 3n fx fu f vbar tri 3n // f vbar 3y /
 # 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
 # 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：codex・sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
 # 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：codex・sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

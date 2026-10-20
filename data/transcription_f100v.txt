@@ -13,12 +13,10 @@ c09: b ptil P 1 fx vbar v -| tri 3n fx a .Dao .moy f // -| b o P a q9 // 3n vbar
 c10: =22 C fx fu a fx -| fu tri vbar b o ptil a -| v tri vbar // C tri a .Day =10 3y f -| tri 3n T fx o T vbar a
 c11: fx ++ fu =ll a ptil -| =22 vd ++ 3n L ++ vd pi a fx fu tri o T vbar ++ 1 vbar beta o q9 a 3n ptil // fu ++ 1 fx vbar
 c12: vbar // -| b o // o T vbar -| a P o v a fx L o =10 vd a vd a v ++ -| vbar a -| C // T a ptil fx o m fu o -| tri T ++ 3n
-# c10 の「receu」と、行頭の「Day」の後の平文は書いていない。
 c13: b ptil fx ++ 3y L a .par =10 =20 fx a fx fu tri pi a fx ++ fx ++ 8z // 3n b 1 a v b o =18 o T fx -| tri v -| a
 c14: fx ++ vd pi a // ptil -| // vbar -| ++ q9 ptil a fx o T vbar // ffx tri b o 3n vbar tri C 3n a vd o f //
 c15: P tri fx vbar // fu vbar -| a fx L ++ v a T tri 3n ++ f =22 vbar ++ fu T v ++ vd pi o v T fu 4 tri o fx vbar v
 c16: // fx a C // =10 =22 b ptil tri ++ fu -| // fu C a 3n b o vd // tri f tri C x // fu C vbar =22 =10 o v // H# a
-# c13 の「par」は無効字。c14 の「ffx」は f 2つに横棒の形（Tomokiyo の ff に横棒＝t）。
 c17: fx a v // T 1 vd // tri T o 3n fx a T vbar o fx ++ q9 -| vbar C o f a 3n v // -| C a 4 tri o 3n b ptil tri fu o -|
 c18: v a 1 vd o 3n vbar T o C ++ 3n C // x // 3n vbar // tri T 3y o b o v L ++ fu a T .Il .ti .ol .Day
 c19: pi v ++ -| vbar a C rho m -| // 3n b P o ptil a tri C // fu o fx vbar ++ ptil ffx a T // fx L // vd fx -| a
@@ -30,4 +28,7 @@ c24: v // -| ++ C o vbar ++ fu T tri H# ptil -| T vd // fx L tri 3n tri 3n a f v
 c25: =10 =22 fu ++ ptil v // fu tri o v o 3n vbar // f b ptil =22 v H# fu -| b ++ s a -| fx ++ fu =ll o ptil -| // C o ptil -| T
 c26: b o H# a tri 3n m T tri C v ++ 3n vbar a 3n ptil ++ 3y a o 3n // =ll a vd // tri m 3n a b o fu a -| T
 c27: v C fu T tri o ptil -| T v -| tri 3n fx a T pi C o T o T v o -| T fu // b o beta =10 =13 o 3n vbar // f b fx a
+# c10 の「receu」と、行頭の「Day」の後の平文は書いていない。
+# c13 の「par」は無効字。c14 の「ffx」は f 2つに横棒の形（Tomokiyo の ff に横棒＝t）。
 # 暗号はここまで（ページの終わり、続きは f.101r）。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

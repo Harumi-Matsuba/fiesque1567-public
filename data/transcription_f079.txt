@@ -28,3 +28,4 @@ c23: =22 3n o T vbar // 3n vbar o f fx H# -| o T v o -| T H# s a f // -| vbar 3n
 c24: 4 C o =22 T tri 1 a q9 H# a o H# // 3y o b a 3n T fx // q9 H# tri -| =22 C 3y q9 a fx L H# T a
 # ここで暗号は終わる。c23 の末尾の平文らしい字の並びは書いていない。
 # 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

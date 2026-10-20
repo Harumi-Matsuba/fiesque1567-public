@@ -20,3 +20,4 @@ c16: v // T fs fx fu =ll fu x // tri =ll 1 -| b o =18 o T fx -| tri f -| o fx a 
 c17: fu fx ptil v T fx // fx L tri o v fs =23 3n // vd fx tri 3n b fx -| o a 3n fu 3y rho w fu fx ptil v =22 fx tri o fs
 c18: vbar fx T fs C rho vd // -| tri // 1 m a -| a x
 # 暗号はここまで。続く平文：Madame, la fin par …
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

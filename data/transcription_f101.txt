@@ -13,7 +13,6 @@ c09: beta ++ 3y // fu vd a =23 3n // fu fx ptil 3n a v // ++ fu -| =22 T a v ++ 
 c10: v fu tri H# // 3n fx a f o b // fu C vbar -| fu 3y b o C fu =13 // fu fx ptil 3n vd // C pi // 1 T =22
 c11: fu ++ ptil v b o T tri -| 1 a v b o -| a vbar -| // 3n fx L o -| vbar ++ fu v C o T vd ++ 3y a 3n T =23 v
 c12: v fu tri H# o 3n vbar -| o 1 vd a vbar fs -| a C o T // -| 1 vd o T o 3n =16 -| ++ 3y // fu C 1 vd a .Day L a
-# c10・c11・c12 の行末の「receu」「ar」などは平文の字の並び（無効字と推定）なので書いていない。
 c13: tri C vd // b 1 fx vbar =23 3n // T fx a fu tri ptil T fx fu fx fu a v // fx o T vbar L o fu -| a fx fu // fu fx ptil 3n T
 c14: v -| tri 3n fx a T b // =ll a vd // tri m 3n a // 3y o 3n vbar a T vbar a v T ++ C tri fx 1 vbar o v b ptil
 c15: fx ++ T vbar a b a x -| // 3n fx o vd // tri T =23 o 3n a T fx -| tri v -| // T o v fx ++ vd pi tri H# // 1
@@ -29,4 +28,6 @@ c24: fx C a H# o vd a 3n vbar b ptil -| o v ++ v b o =16 -| ++ 3y // fu vd a .Da
 c25: x ++ tri T pi C a 3n fu 3y a =23 // =22 fu ++ v // x 1 =23 T // tri =ll o 3n vbar // fu H# tri C tri o 3n
 c26: =22 C rho T v tri o 3n T v -| ++ f -| o T =23 3n o fu a ptil C vbar x // tri =ll 1 -| b o 3n P tri -| a T ++ 3n
 c27: // fu tri T pi =10 vd a fx ++ vd pi // 3n fx // f vbar // v -| C o -| b o T // x 3y // tri -| o T
+# c10・c11・c12 の行末の「receu」「ar」などは平文の字の並び（無効字と推定）なので書いていない。
 # 暗号はここまで（ページの終わり）。続きは f.101v（コマ107の左）。行の中の「receu」と行頭の「Day」の後の平文は書いていない。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

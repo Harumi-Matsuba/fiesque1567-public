@@ -10,3 +10,4 @@ c07: =10 fx fu C vbar -| o fx a o 3n vbar -| o vbar tri a 3n vbar T o fx -| o vb
 c08: fx // v f tri vbar // 1 3n o T b o m a 3n v b o fx L o fu // C =10 P o v 1 a P z o o T vbar -| o
 c09: v -| o T vbar v fx fu // 3n vbar tri C C o T vd // 3n b o -|
 # 暗号はここまで。続く平文：Je n'ay encore la …
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

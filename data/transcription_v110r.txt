@@ -9,3 +9,4 @@ c06: tri C T o -| // =rr tri fu a tri o vbar // fx L o -| 3y b a T fx // fu ++ 1
 c07: v // H# a -| // v // -| x -| // 3n fx a pi =18 o 3n // b fu tri T o -| // x 3y tri 3n =22
 c08: C o v fu tri H# 1 a v fx // -| o H# a -| fx ++ vd pi a T ++ 3n o T vbar // fs vd o fx tri vbar a
 # 暗号はここまで。続く平文：Il ti ol par moy De cest endroict de privay … De Vienne ce iiii jour de Septembre 1568、署名 Scipione Fiesco。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

@@ -13,7 +13,6 @@ c09: b 1 a ptil P o n 1 =14 o 4 + 3n f a 8 3n v v 1 -| // vbar 1 fx f =23 =18 //
 c10: fu + ptil =ll H# 1 -| L a u 3n vbar a f b fx o // v 1 4 + s o a ptil fu -| u =10 =20 n a =22
 c11: pa x // 1 fx vbar =14 b o z -| // 3n b Dz v a fx fu o 3n n o =10 =23 3y // fu -|
 c12: C a // fu n fx 3y P a b 1 pp tri n fu C vbar a v 8 fu 3y ptil a fu C vbar v a 3n v o -| vbar T o 3n
-# c11 の行頭「pa」は抹消の字。抹消の語は書いていない。
 c13: Dz T o 1 =ll a -| =10 fx fu // v -| a v 8 C pi a f 4 // 1 =ll o -| // beta o v v fx 3n n o
 c14: 8 o fu ptil 3y // 3y b 1 fx vbar =22 tri a vd // H# o fu -| a fx ptil o v 1 fu 3y ptil fx fu =ll H# 1 fx vbar
 c15: a 3n vbar o f b -| u // c fx 3n a H# 1 o 3n =22 b o =16 n + v vbar =18 P + s a -| o fu
@@ -26,7 +25,9 @@ c21: P o v v // 1 m 3n o fx fu 1 p 3n 3y // b + fu 4 vbar a =22 p o P o pi a fu 
 c22: v o fu o -| o pi a vbar fs beta // vbar fx fu vbar n a =23 v a 3n // fu -| H# f vbar // ffx H# -|
 c23: =10 =22 v // pi // =20 o T vbar n =23 v -| H# fu pp 1 vbar fs o beta fx 1 fx vbar f fu ptil v =22
 c24: C a T // fu C vbar -| a v fx // -| v 1 v // beta T + 3n vd H# 3y a 3n fu a v b 1 fx vbar v
+# c11 の行頭「pa」は抹消の字。抹消の語は書いていない。
 # 2026-10-20：c25（最後の1行）は未書き起こし。
 # 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
 # 2026-10-20：独立の2回目の2回がそろって食い違った箇所を、画像で確かめ（読み手：sonnet2・sonnet3）、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した（second/check/decisions_{TAG}.tsv）。
 # 2026-10-20：上の確かめで直した箇所のうち、追加の読み手の Codex が1回目の読みを選んだ 3 か所（v007l）は、読み手がそろわないので元に戻した。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

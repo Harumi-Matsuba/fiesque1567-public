@@ -20,7 +20,6 @@ c17: pi // -| tri // m a T 3n a fx a T ++ tri a 3n vbar // ffx ++ vd v C tri v C
 c18: n =22 fx o T vbar a C ++ 3n m fu a fu -| 3n =14 z o T // fx ++ q9 fu v a vd // tri v =22 ffx 3y 3n // tri // vd // tri v
 c19: a T fx -| tri v vbar -| a T ++ C fu a vd a 3n vbar b a fu // Dz fx fu ++ v tri ++ 3n // tri 3n v // vbar ++ q9 T tri ++ q9 -| v
 c20: v -| ++ f ++ v a =22 fu =22 T Dz b tri pi tri ++ 3n v C o T =22 =ll a T tri C x // =ll ++ tri pi -| a T ++ q9 C b -| a
-# 2026-10-20：この手では、h に似た尾つきの形（ℌ）が n（3n）、3 に似た尾つきの形（ʒ）が y（3y）。初めは逆に名付けていたので、c01–c19 を入れ替えた（入れ替えで envoyer・Espaigne・entendre などが読める）。三角（▲）は Δ（tri＝i）で、丸い a（e）と別。初めは a と書いていたので、c01–c17 を画像で見直して直した。
 c21: b a q9 // 3n vbar =22 b a =23 v // -| vbar tri -| v a T .Dav .ti .ol x tri =ll a T n =23 C fu 3y b a v a T T fx L o vd // a 3n
 c22: vbar a 3n // f vbar q9 3n m fx ++ q9 =rr tri a -| C o fx 1 fx a pp o fx vbar tri q9 T =22 v // q9 -| a vbar ++ q9 -| P q9 =22 fu
 c23: tri fu 3n a 3y a q9 C vbar 3y -| // 3n b -| a beta a T ++ C fu vbar tri ++ 3n T q9 -| C a b tri fx vbar 3y // -| vbar a pi o 3n vbar
@@ -31,4 +30,6 @@ c27: vbar a =23 q9 3y -| ++ -| vbar a vd a 3y -| ++ vd a vbar fs // 3n vbar b a 
 c28: v -| ++ q9 tri a 3n vbar fx 1 fx a C ++ 3n m fu a fu -| |- fu // a T vbar o fx // q9 v a b fu -| a vbar // -| b a vd a 3n vbar
 c29: P a C // ? H# 1 vd v C a H# a vd o 3n vbar b a v vd // -| tri // m a T .Il .ti .ol fx a =22 a // vbar vbar // 3n
 c30: b -| // 3y C o q9 a ++ tri -| fx a =23 vd a P tri -| // P a |- fu ++ 3y T tri tri tri a q9 a ++ 1 T a T vbar -| o fx L ++ v a
+# 2026-10-20：この手では、h に似た尾つきの形（ℌ）が n（3n）、3 に似た尾つきの形（ʒ）が y（3y）。初めは逆に名付けていたので、c01–c19 を入れ替えた（入れ替えで envoyer・Espaigne・entendre などが読める）。三角（▲）は Δ（tri＝i）で、丸い a（e）と別。初めは a と書いていたので、c01–c17 を画像で見直して直した。
 # 2026-10-20：c20–c30 を書き起こした（an_L20–an_L30）。ページの終わりまで。c29 の頭の大きな記号（A に長い縦画）は名付けられず ? とした。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

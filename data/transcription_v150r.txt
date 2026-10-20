@@ -23,3 +23,4 @@ c20: -| a vd a -| fx 3y o n =22 C o 3p C fu T tri a fu -| v -| // tri T ++ 3n v 
 c21: =22 o q9 ++ fu v // |- fu ++ 3y a =ll o T a vd 3p C ++ 3y a -| // b a fx tri a 3n C ++ f fx q9 ++ tri fu n =18
 c22: x a -| // -| a T 3p ++ 3n fx a C // =22 =ll a o =ll a vd a fx // tri =ll a -| // 11 3p -| a v .Il .ti .ol
 # 暗号はここまで（ao_L22 の行末に無効字「Il ti ol」、続きは平文）。この手のʒ類：3 に似た尾つき（ʒ）は 3y（y）、ループつきの y 形は、文脈で v（s）か 3p（p）とした（形では分けられない。f.39r の y 形と同じ扱い）。初め y 形も 3y と書いていたので、c01–c06 を文脈で直した（par・expres・despescheray・cependant・peine・prier の p）。ŧŧ（H#）は c19「po(ss)ible」で ss と読める。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

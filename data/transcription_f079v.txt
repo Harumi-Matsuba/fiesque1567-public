@@ -12,3 +12,4 @@ c08: fx tri -| fx a v o q9 f C rho fx q9 o T vbar v tri vd // C Dz vbar // 3n vb
 c09: .Il .ti .ol // tri 3n T 1 m ++ q9 pp o fx 3n a b o T o v -| // tri m 3n ++ C v .ti .ol vd // tri T
 c10: fx ptil // 3n vbar // vd H# 3y tri o 3n 3y q9 o H# tri T // q9 fx ptil 3n a // v f // -| // 3n fx a
 # c10 の末尾の「receu」は平文。続く平文：L'Empereur n'a encores à aucuns nommé ceux qu'a esté deliberé en la diette … De Vienne ce xvii de Juillet 1568。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

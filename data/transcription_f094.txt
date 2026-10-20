@@ -33,3 +33,4 @@ c25: vd ++ tri 3n m T v o -| // tri C b o T fx L // -| m a o 3n fu a -| T P tri 
 # c16 の「par moy」は無効字。c18 の行頭「Il ti ol」は無効字。c19 の行末の平文（au …）は書いていない。
 # c22 の後半の「Jay receu」は平文。c25 で暗号は終わる。
 # 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

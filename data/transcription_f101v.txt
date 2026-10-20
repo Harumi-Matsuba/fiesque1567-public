@@ -13,7 +13,6 @@ c09: pp 3y ptil ++ fu C ptil vbar fx ++ 3n b o T fx a 3n b -| a =22 tri a vd // 
 c10: T ++ 3n fx ++ T vbar a 3n o T v // -| m 3n o -| // -| tri o 3n T =20 C o T vbar // fx C tri H# a vd o 3n vbar
 c11: b ptil -| o v ++ v v fu fx C tri fx 1 fx =10 =23 T o m ++ q9 ptil o -| 3n a -| // T o C ++ 3n T ++ 3n
 c12: fx ++ 3n T a tri C fx // -| a C // 3y vd a =10 -| o q9 a -| a fx ++ vd pi a T ++ 3n
-# c12 の行末の「receu」は平文。
 c13: v -| ++ f -| a v o -| a .Day tri C vd // b 1 fx vbar =23 o T vbar // H# o ptil -| a b o C //
 c14: fx ++ s a fu ++ C fu 3n vbar a b ptil q9 -| ++ 3y =10 =22 =22 C // T tri o s a 3n 1 4 vd ++ tri 3n b -| a
 c15: o 3n fu o -| v C fu 3y vd // tri T =22 =20 fx o T vbar L o fu -| a tri C 3n o fu a ++ 1 b =22
@@ -28,4 +27,6 @@ c23: =22 pp // H# o fu -| a -| ++ 1 fx vbar b o C fu 3y a =10 4 tri o 3n T =10 =
 c24: C ++ 3n // fu a ptil C o fx ++ 3n vbar -| // tri -| a =10 T o 1 vd 4 C a =22 C o T v -| tri 3n fx a T
 c25: T o 3n v C // tri m 3n o f vbar P o fx fu ++ 3y tri C 3n o vd // -| tri o 3n T vbar ++ fu fx L o =10
 c26: vd // tri T =22 C fx fu ptil 3n m fx fu tri C rho v a fu C vbar T fx // fu ++ tri -| vd o 3n //
+# c12 の行末の「receu」は平文。
 # 暗号はここまで。続く平文：Dao par moy … Je vous envoye ce pacquet que Monsieur de Chantonnay m'a envoyé …、De Vienne ce iiii de Septembre 1568。署名 Scipione Fiesco。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

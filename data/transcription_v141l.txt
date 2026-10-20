@@ -22,3 +22,4 @@ c19: P tri T ++ tri fx vbar T a v vbar ++ d6 // 3n vbar =22 C o =ll a fx vbar a 
 c20: T // x tri =ll a o 3n vd // -| tri // 1 m a // q9 fx // H# a vd tri -| a .Il .ti .ol
 # 暗号はここまで。続く平文：Il ti ol (無効字) Ne se presentant autre chose digne de vous escripre de privay …、De Vienne ce 14 de Janvier 1569。
 # 2026-10-20：画像で全行を見直して書き直した（三角 ▲ を tri（i）として a と分けた、行の区切りを画像の行に合わせた（今は20行、ak_L01–ak_L20）など）。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

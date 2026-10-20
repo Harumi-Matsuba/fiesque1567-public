@@ -13,3 +13,4 @@ c10: =23 fx a x // fx o a 3n fx ++ -| a v // q9 fx fu 3n -| a vd q9 o pi a 3n vb
 c11: pi // tri m 3n a ++ fu tri fu // b ++ s a C H# 3n ++ -| b a b a T vbar -| fx o // b fu a -| vbar 3y b a fx o |- fu ++ 3n
 c12: 3y -| a vd q9 a -| // .Dao .Il .ti .ol
 # 暗号はここまで（at_L02 の頭に無効字「pav（Dao）Il ti ol」、続きは平文「Lon dessus Mercredy … la Chambre …」）。c11 の「ŧŧ」（H#）は「a(ss)embler」の位置で ss と読める。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

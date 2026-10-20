@@ -23,3 +23,4 @@ c19: ptil =22 ptil C o tri C vbar 1 a 3n vbar T o fx fx a vbar ffx a
 # 暗号はここまで。続く平文：Madame, voyant qu'à ceste heure je ne vous puis faire aucun service, et n'ayant aucune occasion pour y demeurer long temps, je vous prie tres humblement, s'il est à vostre bon plaisir, de me donner congé …（目視、推定を含む）
 # 修正の記録（2026-10-20）：Codex による照合（second/run0/）の食い違いを見て直した。残したのは画像を拡大して確かめた修正だけで、確かめられなかった修正は元に戻した。箇所の一覧は second/run0/RESULT.md。
 # 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

@@ -12,3 +12,4 @@ c09: C o 1 q9 lf b a m o 3n v =22 o // =ll a beta a 3n x -| // f n o =23 3n 3y /
 c10: 1 C =23 // b ++ s a T tri C H# 3n ++ beta b -| a =22 T tri fu a 3n 1 4 =22 fu =22 fx L H# 3p a =23 a 3n T a -| //
 c11: // b fu a -| vbar 3y .Il .ti .ol
 # 暗号はここまで（aq_L12 の頭、続きは平文「L'Empereur me donna hier …」）。この手でも ŧŧ（H#）は ss（c04 assaillis、c06 ambassadeur）、ff 形（=ss）は c03「deffensive」で ff と読める。形の名前はそのままにした。c01・c05 の「Ħ」に似た三重の十字（?）は名付けられなかった。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

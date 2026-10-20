@@ -26,3 +26,4 @@ c23: T o fx q9 3n b a tri a v o 3n T a |- fu // fu -| a vbar ++ q9 -| P o C // -
 c24: C o vbar ++ fu fs T o -| // -| o T ++ fu C fu .Il .ti .ol
 # 暗号はここまで。続く平文：Il ti ol (無効字) Madame la fin apres avoir prié le Createur vous donner …、De Spire ce 2 de Decembre 1568。署名 Scipione Fiesco。
 # 2026-10-20：画像で全行を見直して書き直した（三角 ▲ を tri（i）として a と分けた、⊢ꝑ（qu）を t 形と書いていた箇所、行の区切りを画像の行に合わせた（今は24行、ai_L01–ai_L24。ai_L25 は平文）など）。単独の斜線は書かず、二重の斜線（a）だけを書いた。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

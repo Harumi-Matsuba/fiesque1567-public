@@ -27,3 +27,4 @@ c23: T o n fx 3n b o z o C a -| fx 3y b o v fx -| vbar fu m // fu b a v fx fu o 
 c24: pi 3n o T a Dz vbar n 3n vbar a 8 fu // o T vbar b a v v a n L o fu 3n z f fx fu =rr 1 a -|
 c25: a 3n o v v // 1 z 3n o b fx 3n vbar f // 3y fx 1 a 3n v v a fu o 3n vbar a f b -| o
 # 暗号はここまで。続きはコマ8の右（f.4r の上の2行）。抹消の記号は書いていない。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

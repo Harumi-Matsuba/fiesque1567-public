@@ -14,3 +14,4 @@ c10: =18 o T vbar a v b o vd a fu -| o v fx ++ 3n vbar f v b o C fu 3y C o vd o
 c11: T o vd 4 C o =23 // C ++ s a o 3n ptil 3y o P o 3n vbar -| o fs a 3n 1 -| 4 ++ s o pi 1 vbar 3y a f
 c12: v ++ ptil -| C o vbar a 3n tri -| o 3n H# a T vbar o 4 ++ s o ++ v f Dz f 1 ++ 3n tri o
 # 暗号はここまで。抹消の記号は書いていない。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

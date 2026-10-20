@@ -34,3 +34,4 @@ c28: T fu -| fx o x // 1 fx vbar =14 b // P fu tri T =23 T o -| ++ 1 fx vbar H# 
 c29: =22 pi fx o C // o // 3n vbar fu 3n m v o ptil C // -| 1 m fu o ptil -| o 3n ptil a -| T fx a fu C o fx fu tri
 # 修正の記録（2026-10-20）：Codex による照合（second/run0/）の食い違いを見て直した。残したのは画像を拡大して確かめた修正だけで、確かめられなかった修正は元に戻した。箇所の一覧は second/run0/RESULT.md。
 # 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

@@ -6,7 +6,8 @@ Figures for every transcribed page (44 pages, 822 lines, 29,707 signs), in the o
 
 - Independent second transcription: only runs not used to correct the transcription count; the status uses the lower value agreement. The runs used are by OpenAI Codex.
 - Sonnet (reference): an independent second transcription by Claude Sonnet (lines given in left and right halves). Not used for the status. Sonnet confuses the same signs more often than Codex: on f. 39v, where Codex agrees about 90%, Sonnet agreed 78.0% (METHOD.en.md §13). On some pages the Sonnet run shown was also used to make questions for the image check.
-- Status: full reading 43, partial reading 1, below partial 0, not measured 0.
+- Status: full reading 44, partial reading 0, below partial 0, not measured 0.
+- "Codex*" marks runs made with a prompt whose descriptions of a, the triangle and Þ were adapted to the letter forms of this page (view 168 right; second/PROMPT3_v168r.md; no values given) (METHOD.en.md §15).
 - All contents are conjectural and not checked against historical sources. The decipherments are in data/decoded_*.txt (line-by-line readings of the first five letters in [READING.en.md](READING.en.md)).
 
 | Transcription | Date, addressee (partly conjectural) | Gallica view | Lines | Signs | Signs with a value (table + inferred / table only) | Control: true key / best shuffled (table + inferred) | Independent second transcription (runs used) | Lower | Sonnet (reference) | Status | Contents (conjectural) |
@@ -54,4 +55,4 @@ Figures for every transcribed page (44 pages, 822 lines, 29,707 signs), in the o
 | v159r | 20 Oct. 1569, to the King | view 159, right | 11 | 425 | 99.5% / 91.3% | -3.132 / -4.555 (0/1000) | 86.0% (Codex) | 86.0% | — | full | Assembly of Protestant princes and a defensive league; England's ambassador |
 | v161r | 15 Oct. 1569?, to the Queen Mother | view 161, right | 12 | 422 | 100.0% / 88.6% | -3.335 / -4.506 (0/1000) | 85.5% (Codex) | 85.5% | — | full | The English ambassador; movements of troops in Germany |
 | f158 | 29 Oct. 1569, to the King | view 163, right | 23 | 846 | 99.6% / 92.1% | -3.064 / -4.495 (0/1000) | 90.5% (Codex) | 90.5% | — | full | After the victory (taken to be Moncontour), the Emperor offers to mediate |
-| v168r | 4 Nov. 1569, Vienna, to the Queen Mother | view 168, right | 8 | 321 | 99.7% / 90.3% | -3.172 / -4.465 (0/1000) | 80.3% (Codex) | 80.3% | 77.4% | partial | The courier; the answer; ceremonies of the marriage |
+| v168r | 4 Nov. 1569, Vienna, to the Queen Mother | view 168, right | 8 | 321 | 99.7% / 90.3% | -3.172 / -4.465 (0/1000) | 88.5% (Codex*), 85.6% (Codex*) | 85.6% | 77.4% | full | The courier; the answer; ceremonies of the marriage |

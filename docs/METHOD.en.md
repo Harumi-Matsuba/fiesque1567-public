@@ -54,7 +54,7 @@
 | partial reading | no shuffled key ≥ true key in 1000; at least one passage that makes sense; ≥70% agreement with the independent second transcription (with calibration: ≥65% letters) |
 | full reading | the partial-reading conditions plus ≥85% agreement with the independent second transcription and ≥95% of signs with a value (with calibration: ≥90% signs or ≥85% letters) |
 
-- In the first version ff. 94r, 100r and 158r were full readings and ff. 39r, 39v and 79r partial. The status in this version is in §14 and [PAGES.en.md](PAGES.en.md) (full reading 43 pages, partial reading 1 page).
+- In the first version ff. 94r, 100r and 158r were full readings and ff. 39r, 39v and 79r partial. The status in this version is in §14 and [PAGES.en.md](PAGES.en.md) (full reading on all 44 pages).
 - Agreement is judged by value; name agreement is also given.
 
 ## 9. Use of AI
@@ -86,3 +86,7 @@
 
 ## 14. Status
 - Only independent second transcriptions not used to correct that transcription count. The lower value agreement, the share of signs with a value and the control are applied to the criteria of §8 ([PAGES.en.md](PAGES.en.md)).
+
+## 15. Prompt for view 168 right (v168r)
+- On this page the Codex second transcription varied between 74.8% and 83.0% over four runs. By line and by type, triangle→a (43 in four runs) and Þ→triangle (21) were the most frequent consistent disagreements, while in the image check two Sonnet readers chose the first reading (triangle, Þ) every time, and swapping the readings lowers the French-likeness. In this hand Þ is an upright stroke with a black filled wedge at its upper right, which does not fit PROMPT3's description ("a closed loop on the upper right"); Codex called Þ a triangle and the flat black ▲ an a. Line cropping is not the cause (the number of signs per line is close).
+- A prompt with only the descriptions of a, the triangle and Þ adapted to these letter forms, with no values (second/PROMPT3_v168r.md), was used for two new runs in fresh contexts (second/ind21, ind22): value agreement 88.5% and 85.6%. Triangle→a fell from 16 to 2 per run and Þ→triangle from 5 to 0. The status of this page rests on these two runs ("Codex*" in [PAGES.en.md](PAGES.en.md)). The transcription was not changed meanwhile.

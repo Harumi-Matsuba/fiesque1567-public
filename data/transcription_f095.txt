@@ -9,7 +9,6 @@ c05: ++ pp -| o T C rho v // 1 T =10 v // H# // tri m a .Dao .moy tri C =18 v C 
 c06: v // -| b ++ s a -| T tri 1 a vd a pi o vbar v vbar -| ++ v // fu // 3n vbar // fu ++ ptil T b ++ s a -|
 c07: f ++ 3n T a tri C fx // -| tri o C a x // 1 fx vbar v f o 3n T // f vbar =23 fx o fx 3y
 c08: // 1 b o -| // x ++ -| vbar // vd // tri 3n vbar o fs tri -| =16 4 ++ s a // pi tri vbar 3y o =10 // fu H# tri
-# c08 の「16」は Tomokiyo の表にない数字（ce と推定）。
 c09: =22 tri o fx -| ++ 3y T =22 pi vd // vbar ++ fu fx L o fx o C // T // H# o fu -| // 3n vbar =22 tri o
 c10: C o =18 x // 1 -| ++ 3y T o 3n vbar // 3n b fx a .Dao fx ptil o C fx ptil q9 3n m vd // fu ++ ptil C fu
 c11: P tri -| a =22 C rho x tri C v // 1 T 3n a b o pi -| o vbar ++ -| 3n o -| // fu o fx C tri -|
@@ -18,4 +17,6 @@ c13: .Il tri a 3n o x // tri =ll 1 -| // 3y b o vd o 3n a f fx ptil o -| 1 beta 
 c14: ptil ++ q9 T o 3n // b ptil tri T o -| .ti .ol .par .moy C o T o fx ++ 3n b 3y tri C v b ptil
 c15: P ptil fx b o C // q9 tri o -| a tri -| // fu H# tri o 3n a T v // tri m 3n a // fu o fx C rho
 c16: b tri fx vbar // -| fx L o b ptil fx n L // -| C rho T
+# c08 の「16」は Tomokiyo の表にない数字（ce と推定）。
 # c16 の後の「ti ol Dar par moy Jay receu」は平文の字の並び（無効字と平文）。続く平文：Il ne s'entend plus parler des reistres et gens de pied qui se levoient en Allemaigne en faveur du prince d'Orange …
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

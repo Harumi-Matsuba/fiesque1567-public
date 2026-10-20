@@ -13,7 +13,7 @@ add(['v149r'], ('ind12', '{L}.jsonl', 'Codex'), ('ind13', '{L}.jsonl', 'Codex'))
 add(['v150l', 'v150r'], ('ind7', '{L}.jsonl', 'Codex'))
 add(['v155r', 'v159r', 'v161r'], ('ind9', '{L}.jsonl', 'Codex'))
 add(['v008r', 'v037r'], ('ind19', '{L}.jsonl', 'Codex'))
-add(['v168r'], ('ind20', '{L}.jsonl', 'Codex'))
+add(['v168r'], ('ind21', '{L}.jsonl', 'Codex*'), ('ind22', '{L}.jsonl', 'Codex*'))   # * このページの字形に合わせて a・三角・Þ の説明を直したプロンプト（PROMPT3_v168r.md）
 add(['v007l', 'v007r', 'v022r', 'v065r', 'v071l'], ('ind15', '{L}.jsonl', 'Codex'))
 # 参考（判定に使わない）：Sonnet の独立の2回目（sind5）
 REF = {p: [('sind5', '{L}.jsonl', 'Sonnet')] for p in ['f039r', 'f079', 'v149r', 'v168r', 'v007l', 'v007r', 'v008r', 'v022r', 'v037r', 'v065r', 'v071l']}

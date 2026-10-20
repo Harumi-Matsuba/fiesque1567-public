@@ -13,11 +13,12 @@ c09: // fx o T vbar a P o -| 3n tri o -| a b a f a fx L o .par .moy C // =22 pti
 c10: vd ++ 3n T vbar -| a x ++ -| vbar v -| ++ vd f // T // fu ++ C ptil 3n vbar a .Il .ti .ol .Day H# a ptil
 c11: f vbar =22 vbar ++ fu T C o T L ++ s a fu -| T =10 v C // 1 T tri -| v =22 C fu 3y T o -| ++ 3n vbar
 c12: x // 1 fx vbar v =23 C o T -| o v ptil vbar o -| // o T vbar -| a x // 1 fx vbar v // C fu 3y
-# 行の中の「Jay receu」「Dao」などは平文の字の並び。
 c13: o 3n fx ++ -| o T =23 3n o vd // z a 1 tri o 3n T b 1 fx vbar P fu v // H# // tri z a b o T ++ 3n
 c14: x -| o beta a o 3n x -| // f fx a =10 v // -| Dz tri o fx vbar ptil -| o T tri o vd a T fu tri T =10
 c15: // v o -| fx a fu =22 T tri =18 C o ptil ptil 3y ++ H# -| o v fx fu tri fu 3n o x // tri =ll tri -| // b o
 c16: -| o vbar ++ beta 3n a -| v // -| fx a fx L o vd tri 3n fx // -| pi o 3n // fx ++ s a o 3n fu 3y a =10
 c17: C a T a Dz vbar tri 3n fu a vbar ++ fu T a T a fu -| v =23 v // -| vbar tri -| C o fx fu // vbar -| tri o T pi a
 c18: b o T o v vbar a vd fx -| a
+# 行の中の「Jay receu」「Dao」などは平文の字の並び。
 # 暗号はここまで。続く平文：J'ay entendu que l'on a nouvelles en ceste court …
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

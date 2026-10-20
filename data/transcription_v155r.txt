@@ -22,3 +22,4 @@ c19: a 1 q9 -| v tri 3n vbar a =ll tri m o f fx a v P o T =22 =ll o T tri 1 q9 T
 c20: fx o T vbar -| tri a 3n v b a T fx ++ q9 fu a -| vbar tri fu vd ++ 3n T vbar -| a // q9 ++ tri -| m -| // 3n b .La
 c21: b a T tri -| P a q9 ++ tri -| pi L ++ -| v b a fx a v vbar -| ++ q9 fx C o v .Il .ti .ol
 # 暗号はここまで（ap_L21 の行末に無効字「Il ti ol」、ap_L22 は平文「Ne se presentant autre chose …」）。ŧŧ（H#）は c03「pa(ss)e」c17「a(ss)is」で ss と読める。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

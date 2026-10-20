@@ -27,3 +27,4 @@ c24: =23 3n o C a T o v vbar tri vd ++ 1 fx vbar fs o =ll a T fu a =ll o T a fu 
 c25: o vd v o T fx L o -| n a T vbar a 4 ++ s a ++ a ptil fu -| o =10 =22 C o fu a T =22 b a
 c26: -| a fs o T vd o T pi a v fx fu tri // fu ++ 1 fx vbar b o vd a ptil -| a C ++ 3n m vbar a vd v T
 # 暗号はここまで（ページの終わり）。続きはコマ110の左。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

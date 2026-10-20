@@ -10,3 +10,4 @@ c06: // tri 3n T tri =22 C o P 1 fx vbar n ++ q9 =rr tri a -| T -| T o -| // v /
 c07: .Il tri o H# // 3y a -| // 3y b o T fx // q9 fx 1 fx 1 fx P o vbar fx -| o vd a 3n vbar
 c08: b o pi fx =10 =22 tri o .moy =18 // 3y fx 3y b o H# ptil T o v fx -| tri v vbar
 # c05 の中の「receu f a」と、c08 の後の「Dao Day receu」は平文の字の並び（無効字と推定）なので書いていない。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。

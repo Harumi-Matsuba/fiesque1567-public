@@ -15,7 +15,6 @@ c12: 4 ++ s a // =ll tri // 3n fx a tri C vd // b 1 fx vbar =23 // 3y vd a x ++ 
 c13: // tri T 3n lf =10 v C ptil v =22 vbar ++ fu T v a T o 3n x // f T =10 =23 o T v a -| a =22 =18
 c14: =10 pi o 3n b a vd o fu -| a beta tri o v fx ++ 3n vbar // f T =10 vd o C o b a tri T ++ 1 fx vbar
 c15: P o T ++ -| vbar a =22 C ++ 3n fu ++ 3y H# 1 fu tri o 3n b o P // 3n T T ++ 3n fx fu o ptil -|
-# 行画像 ae_L13 と ae_L14 は同じ行（行の山が2つに割れた）。
 c16: C // tri ++ 3y C =23 // fu ++ tri fx vbar b o C // ptil o ++ tri -| -| ++ 3y 3n a b o x -| // 3n fx a
 c17: .Il .ti .ol tri a C // 3y // H# a fu -| a =22 =22 pi =10 fu ++ ptil v =18 v ++ -| vbar o -| tri o v
 c18: C o 3n b -| ++ 1 fx vbar P a =ll o b a vd // 3n tri o -| a =22 vbar ++ fu v C o tri ++ fu -| T
@@ -26,4 +25,6 @@ c22: -| // v f ++ -| vbar v fu o v -| tri 3n fx a T =10 =22 b o C ptil -| v // t
 c23: C o fu a m a 3n T fx ++ 3n vbar -| a pi =10 =22 tri o =18 o T fx -| tri v fu a =23 ptil ++ fu T
 c24: fx ++ 3n T a tri =ll o =10 v -| tri a 4 tri o 3n x ++ -| vbar b o vd // tri 3n vbar o fs tri -| =16
 c25: v // -| vbar o 3n =16 -| ++ 3y // fu vd a tri o C fu 3y // 3y b 1 fx vbar =22 pi C o
+# 行画像 ae_L13 と ae_L14 は同じ行（行の山が2つに割れた）。
 # 暗号はここまで（ページの終わり）。
+# 2026-10-20（公開の初版の後の修正）：独立の2回目の2回がそろって食い違った箇所を、別々の読み手（Codex と Claude Sonnet、のちに Sonnet 2人）が画像で確かめ、読み手がそろって独立の2回目の読みを選んだ箇所だけを直した。前に直した箇所も、取り直した Sonnet が支えない所は元の読みに戻した（一覧は second/check/decisions*.tsv）。
