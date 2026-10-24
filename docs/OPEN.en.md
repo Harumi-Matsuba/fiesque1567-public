@@ -34,7 +34,7 @@ Undecided and conjectural points in the transcription and reading of the cipher 
 - No calibration: no contemporary decipherment (interlinear or separate) was found in the volume (all 183 views seen at reduced size), and La Ferrière's edition prints only Catherine's replies, not the plain text of Fiesque's ciphered passages.
 
 ## 5. Scope
-- (First version) About 40 pages with cipher were found in the volume and only the five letters were read. This version transcribes and reads all 44 pages found ([PAGES.en.md](PAGES.en.md)).
+- (First version) About 40 pages with cipher were found in the volume and only the five letters were read. This version transcribes and reads all 44 pages found; view 23 left had been left out and was added on 25 October 2026 (45 pages) ([PAGES.en.md](PAGES.en.md)).
 
 ## 6. Disagreements with the independent second transcription
 - For ff. 39r, 39v and 79r the value agreement with the independent second transcription is below 85% (76.1, 82.4, 81.5%). The main reasons are that Codex left out the faint "//" as separators, called C a small c, and called the y-shape C; in the places checked, the first reading was right (second/ind/RESULT.md). The remaining disagreements were not checked one by one.
@@ -49,3 +49,8 @@ Undecided and conjectural points in the transcription and reading of the cipher 
 - Second transcriptions and image checks: the runs used for the status and the number of corrections are in [PAGES.en.md](PAGES.en.md) and second/check/decisions*.tsv. Places where the readers did not agree ("split") were not corrected; which reading is right remains open.
 - The status of view 168 right (v168r) rests on two runs (88.5%, 85.6%) made with a prompt whose descriptions of a, the triangle and Þ were adapted to the letter forms of this page (second/PROMPT3_v168r.md; no values given). All other pages use the common prompt (PROMPT3), with which this page reached 74.8–83.0% ([METHOD.en.md](METHOD.en.md) §15).
 - On view 168 right, line 1 (c01 in the transcription) has "=22 o", which on the image looks like "zo" (=20, pour); all four Codex second transcriptions read =20, but in the image check two Sonnet readers chose the first reading, so it was not changed. Reading =20 gives "le courrier pour vous mander".
+
+## View 23 left (added 25 October 2026)
+- Disagreements between the first transcription and the two independent Codex transcriptions have not yet been checked on the image. Value agreement 90.1% and 89.0%.
+- In this hand the 4-shape stands for r (parfaicte, responce) and also for b (novembre, humble, obeissant), and the t-shaped cross (fx) also for q and o (quinziesme, soixante). The transcription keeps the shape names.
+- The end of the contemporary decipherment (view 23 right) probably corresponds to this page, but no blind calibration against it has been made.

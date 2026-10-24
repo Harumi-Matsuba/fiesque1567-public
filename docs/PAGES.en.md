@@ -2,11 +2,11 @@
 
 [日本語](PAGES.md)
 
-Figures for every transcribed page (44 pages, 822 lines, 29,707 signs), in the order of the letters. How the figures are made: [METHOD.en.md](METHOD.en.md).
+Figures for every transcribed page (45 pages, 835 lines, 30,152 signs), in the order of the letters. How the figures are made: [METHOD.en.md](METHOD.en.md).
 
 - Independent second transcription: only runs not used to correct the transcription count; the status uses the lower value agreement. The runs used are by OpenAI Codex.
 - Sonnet (reference): an independent second transcription by Claude Sonnet (lines given in left and right halves). Not used for the status. Sonnet confuses the same signs more often than Codex: on f. 39v, where Codex agrees about 90%, Sonnet agreed 78.0% (METHOD.en.md §13). On some pages the Sonnet run shown was also used to make questions for the image check.
-- Status: full reading 44, partial reading 0, below partial 0, not measured 0.
+- Status: full reading 45, partial reading 0, below partial 0, not measured 0.
 - "Codex*" marks runs made with a prompt whose descriptions of a, the triangle and Þ were adapted to the letter forms of this page (view 168 right; second/PROMPT3_v168r.md; no values given) (METHOD.en.md §15).
 - All contents are conjectural and not checked against historical sources. The decipherments are in data/decoded_*.txt (line-by-line readings of the first five letters in [READING.en.md](READING.en.md)).
 
@@ -17,6 +17,7 @@ Figures for every transcribed page (44 pages, 822 lines, 29,707 signs), in the o
 | v008l | (continued) | view 8, left | 25 | 844 | 99.9% / 93.6% | -3.776 / -4.588 (0/1000) | 87.8% (Codex) | 87.8% | — | full | The ambassador sent to Constantinople; marriages of the Emperor's daughters; Portugal |
 | v008r | (continued; closing "De Vienne ce … d'Octobre 1567") | view 8, right | 2 | 61 | 100.0% / 95.1% | -3.135 / -4.066 (0/1000) | 85.2% (Codex) | 85.2% | 80.3% | full | He will inquire, discreetly |
 | v022r | 15 Nov. 1567, to the Queen Mother | view 22, right | 28 | 1059 | 99.7% / 93.3% | -3.329 / -4.684 (0/1000) | 91.5% (Codex) | 91.5% | 79.8% | full | News after Lignerolles left; rumour of troops levied in Germany for the Protestants |
+| v023l | (continued; closing "De Vienne ce quinziesme jour de novembre 1567", signed Scipion Fiesque) | view 23, left | 13 | 445 | 100.0% / 95.5% | -3.083 / -4.591 (0/1000) | 90.1% (Codex), 89.0% (Codex) | 89.0% | — | full | The affair of Austria; the road through Flanders is the shortest; closing formulas (added 25 Oct. 2026) |
 | v034r | 21 Jan. 1568, to the Queen Mother | view 34, right | 12 | 420 | 99.5% / 92.6% | -3.418 / -4.637 (0/1000) | 86.0% (Codex) | 86.0% | — | full | The Emperor asks repeatedly for news of Lignerolles's return |
 | v035l | (continued) | view 35, left | 3 | 98 | 100.0% / 88.8% | -3.035 / -4.288 (0/1000) | 91.8% (Codex) | 91.8% | — | full | He will keep the old alliances between the Empire and France |
 | v037r | 15 Feb. 1568, to the King | view 37, right | 2 | 79 | 98.7% / 91.1% | -3.038 / -4.187 (0/1000) | 86.1% (Codex) | 86.1% | 75.9% | full | The Emperor is displeased at having no news since Lignerolles left |

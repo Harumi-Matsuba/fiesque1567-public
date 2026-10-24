@@ -5,7 +5,7 @@
 ## 1. Source and images
 - BnF Français 15919 (formerly Harlay 238 (8)), 174 folios: letters of Scipion de Fiesque (Scipione Fiesco) from the court of Emperor Maximilian II (Vienna) to King Charles IX and the Queen Mother Catherine de Médicis, October 1567 – November 1569. Catalogue: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc46124x
 - Images: Gallica ark:/12148/btv1b90573568 (digitized from microfilm MF 15717; 183 views of openings). Full-size images (about 7000 px wide) were fetched from BnF's IIIF service (openapi.bnf.fr), 5 seconds apart. Images are not included in this repository.
-- Scope: the first version covered the five letters named by Satoshi Tomokiyo as partly in cipher (ff. 39, 79, 94, 100, 158). This version extends to all pages with cipher found in the volume (44 pages) (§11).
+- Scope: the first version covered the five letters named by Satoshi Tomokiyo as partly in cipher (ff. 39, 79, 94, 100, 158). This version extends to all pages with cipher found in the volume (45 pages) (§11).
 
 ## 2. Key
 - Satoshi Tomokiyo's reconstructed table (Cryptiana, "French Ciphers for German (and Eastern) Affairs", https://cryptiana.web.fc2.com/code/frencheastern.htm, version of 2026-03-15). He writes: "The reconstructed key below will allow reading undeciphered portions." The table image is not included.
@@ -54,7 +54,7 @@
 | partial reading | no shuffled key ≥ true key in 1000; at least one passage that makes sense; ≥70% agreement with the independent second transcription (with calibration: ≥65% letters) |
 | full reading | the partial-reading conditions plus ≥85% agreement with the independent second transcription and ≥95% of signs with a value (with calibration: ≥90% signs or ≥85% letters) |
 
-- In the first version ff. 94r, 100r and 158r were full readings and ff. 39r, 39v and 79r partial. The status in this version is in §14 and [PAGES.en.md](PAGES.en.md) (full reading on all 44 pages).
+- In the first version ff. 94r, 100r and 158r were full readings and ff. 39r, 39v and 79r partial. The status in this version is in §14 and [PAGES.en.md](PAGES.en.md) (full reading on all 45 pages).
 - Agreement is judged by value; name agreement is also given.
 
 ## 9. Use of AI

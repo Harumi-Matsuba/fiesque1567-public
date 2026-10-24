@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Status | **44 pages with cipher in the volume (822 lines, 29,707 signs) transcribed and read. Full reading on all 44 pages.** Figures and status per page in [docs/PAGES.en.md](docs/PAGES.en.md). On every page the decipherment contains many conjectural readings with word division and supplied spelling |
+| Status | **45 pages with cipher in the volume (835 lines, 30,152 signs) transcribed and read. Full reading on all 45 pages.** Figures and status per page in [docs/PAGES.en.md](docs/PAGES.en.md). On every page the decipherment contains many conjectural readings with word division and supplied spelling |
 | Prior work | In the places checked on 2026-10-19/20 ([SOURCES.en.md](SOURCES.en.md)) no earlier reading of the ciphered passages of this volume was found. Satoshi Tomokiyo reconstructed and published the key, writing "The reconstructed key below will allow reading undeciphered portions". Nor was any found by someone not involved in the reading who searched again aiming to find earlier work ([docs/PRIOR_CHECK.en.md](docs/PRIOR_CHECK.en.md); the searches were by the volume (fr. 15919) and by name, so they cover every page of the volume). However, the volume itself contains one contemporary decipherment: view 23 right is a plain-text copy, headed "deschiffré", of the cipher letter on view 22 right. Some places remain unchecked, so this is not a claim of being first |
 | Human checking | **No human has checked the transcription.** The first transcription is by Claude, the independent second transcription by OpenAI Codex (Claude Sonnet for reference), and the image check of disagreements by Codex and Claude Sonnet. Agreement between AIs is no substitute for human checking |
 | Figures | Control: in 1000 shuffled keys none scored as high as the true key, on every page / Calibration: none (the contemporary decipherment on view 23 right could not be used, because AI reading of the cursive is unreliable; [docs/OPEN.en.md](docs/OPEN.en.md)) / Value agreement with the independent second transcription (Codex, without seeing the first), lower of the runs used: 85.0–93.6%. See [docs/METHOD.en.md](docs/METHOD.en.md) |
@@ -27,7 +27,7 @@ Not checked against historical sources. Line-by-line readings of the first five 
 - His observation that letters in this volume are partly in cipher with undeciphered portions.
 
 **Added here**
-1. A sign-by-sign transcription of the ciphered passages of 44 pages (822 lines, 29,707 signs) (`data/transcription_*.txt`).
+1. A sign-by-sign transcription of the ciphered passages of 45 pages (835 lines, 30,152 signs) (`data/transcription_*.txt`).
 2. Values for signs not in the table and for nulls, inferred from the context of these letters (`inferred` in `data/key.tsv`; e.g. numeral 16 = ce, ꝭs = t, ρ = e, ꝑꝑ = ff; plain letter groups par, moy, bro … are nulls).
 3. A reading and a summary of the contents.
 
@@ -61,6 +61,7 @@ Line cropping (src/trackline.py and others) and the crops for the image check (s
 ## Change log
 - 2026-10-20: first version (five letters, six pages).
 - 2026-10-20 (update the same day): extended to all pages with cipher in the volume. Disagreements were checked on the image by Codex and Claude Sonnet, and only places where the readers agreed were corrected (earlier corrections not supported on re-checking were reverted). Added inferred values (ρ = e, ꝑꝑ = ff).
+- 2026-10-25: view 23 left (f. 18v, continuation and closing of the letter of 15 November 1567 to the Queen Mother; 13 cipher lines, 445 signs) had been left out of the transcription and was added, after it was pointed out in Cyphersolver [#52](https://github.com/dbourdeau/cyphersolver/issues/52). Control 0/1000, signs with a value 100%, value agreement with two independent Codex transcriptions 90.1% and 89.0%. The closing reads "De Vienne ce quinziesme jour de novembre mil cinq cens soixante sept", signed Scipion Fiesque. Disagreements on this page were not checked on the image.
 
 ## Licence
 Code MIT; documents and data CC BY 4.0 ([LICENSE](LICENSE)). The rights in the `table` values of the key belong to Satoshi Tomokiyo.

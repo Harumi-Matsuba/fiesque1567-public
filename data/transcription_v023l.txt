@@ -1,0 +1,18 @@
+# BnF fr.15919 コマ23の左（f.18v、コマ22右「15 Novemb. 1567」王妃宛の書簡の続きと結び）暗号部分の書き起こし（2026-10-25、目視。確定ではない）
+# 画像：Gallica コマ23（原寸）の左ページ。行の画像は src/autopage.py で作った（av_L01–av_L13、x 880–3560、y 980–2950）。
+# 台帳 Cyphersolver #52 の指摘（2026-10-22「view 23 left is missing」）を受けて書き起こした。2026-10-20 の洗い出しでは v23左を暗号のページに挙げていたが、書き起こしから漏れていた。
+# 記号名と十字形の扱いは transcription_v022r.txt（同じ書き手）と同じ。f 形と t 形はどちらも fx（この手では t 形が q・o に当たることがある。OPEN）。
+# 「ıc」は =10、「ıd」は vd、下に輪の付いた y 形は 3p、輪のない y 形は v、ʒ 形は 3y か 8、4 形は 4（この手では r にも b にも当たる。OPEN）。
+c01: P a T + 3n 3p // 1 T b // fu v vbar -| 1 fx L o fx fx fu 1 3n a T vbar 3p + fu -| // fu vbar -| a fx L + T o
+c02: =22 3p ++ fu -| // fu + 1 -| b a C // -| m o f vbar =10 // 3p -| o v =22 =ll o T o -| //
+c03: // n L o fu lf tri C T o 3n fu // // 3p -| // m fu o =10 tri o =18 o 3n fu + 3y a f a T vbar u
+c04: ptil u vbar =ss -| o 3p // -| C o + L o vd tri 3n b u x C // 3n b -| o v 3p // 4 fx a f a z 3y o T vbar
+c05: C a 3p p fu v fx + ptil -| vbar =10 =22 tri a f // 3y a fu 4 a T 3p + 3n n o b u n o =ll a T
+c06: fx fu o =18 // 3y o f fu + 3y a v // -| T fu 1 H# o v fx fu o T a -| // C // x 1 3n L a
+c07: // 3p -| a v // fu + 1 -| 3p -| 1 a b 1 a fu =18 b ++ =nn o -| pi 1 vd // b // pi a o 3n
+c08: 3p a 4 x // 1 fx vbar o T // f vbar o ffx -| o T C + 3n m fu o =10 vbar -| a T L o fu -| u ptil v o ptil 8 o
+c09: // fu o fx C o 3n vbar 1 a -| // fx ++ vd 3p z tri H# o vd a f vbar b o fu + v b o T 1 -| v
+c10: P o ptil 1 a =nn o fx a fx fu 1 f 8z 1 u T pi a 1 + fu -| b a 3n + fu o vd 4 -| o
+c11: vd 1 p fx 1 3n fx n a f T v fx 1 d6 // 3n vbar a T o 3p vbar lf L fu + T vbar -| o vbar -| a T
+c12: L fu vd 4 C o =10 vbar -| a T H# 4 a 1 H# // f vbar T o -| fu 1 vbar a ptil -| =10 T fu 4 tri o f vbar
+c13: fx T fx 1 3p tri + 3n x tri o T n + lf
